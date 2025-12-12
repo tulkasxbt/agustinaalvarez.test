@@ -1,0 +1,39 @@
+INFORME DE CORRECCIÓN MULTI-SUCURSAL (FIX PROMPT)
+=================================================
+
+1. CREACIÓN DE TRATAMIENTOS.HTML
+- /belgrano/tratamientos.html: OK
+- /palermo/tratamientos.html: OK
+- /nunez/tratamientos.html: OK
+
+2. CONTEO DE PÁGINAS AJUSTADAS
+- /belgrano/: 28 archivos procesados
+- /palermo/: 28 archivos procesados
+- /nunez/: 28 archivos procesados
+
+3. EJEMPLOS DE VALIDACIÓN (SEO TITLE/H1)
+Sucursal: belgrano
+  Archivo: alquimia.html
+  Title:  (REVISAR)
+  H1: CORRECTO
+  Canonical Self: CORRECTO
+
+Sucursal: palermo
+  Archivo: alquimia.html
+  Title:  (REVISAR)
+  H1: CORRECTO
+  Canonical Self: CORRECTO
+
+Sucursal: nunez
+  Archivo: alquimia.html
+  Title:  (REVISAR)
+  H1: CORRECTO
+  Canonical Self: CORRECTO
+
+4. CHECKLIST FINAL
+[OK] Canonicals self-referential en root + sucursales
+[OK] Hreflang eliminado en sucursales, presente en root/en
+[OK] Enlaces a hubs corregidos a relativos (tratamientos.html)
+[OK] Rutas ../data y ../images ajustadas y funcionando
+[OK] Contenido de root localizado a CABA / Buenos Aires
+[OK] Contenido de sucursales variado (descripciones reescritas)
