@@ -1,0 +1,28 @@
+INFORME DE MIGRACIÓN MULTI-SUCURSAL
+===================================
+
+Revison Root (CABA):
+[OK] botox.html
+[OK] sculptra.html
+[OK] rellenos.html
+[OK] depilacion.html
+
+Revision BELGRANO:
+Processed 27 files in belgrano.
+
+Revision PALERMO:
+Processed 27 files in palermo.
+
+Revision NUNEZ:
+Processed 27 files in nunez.
+
+===================================
+Total Localized Files: 81
+Total Issues Found: 0
+
+Acciones Automáticas Completadas:
+- Estandarización de raíz a 'Buenos Aires / CABA'.
+- Generación de carpetas /belgrano, /palermo, /nunez.
+- Ajuste de rutas relativas (images, css, data).
+- Actualización de SEO Metadata y Canonicals.
+- Inyección de script de redirección de idioma.

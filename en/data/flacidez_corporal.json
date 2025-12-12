@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Frequently Asked Questions - Accent Prime Radiofrequency",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is radiofrequency and how does it act on body flaccidity?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Radiofrequency is a non-invasive medical treatment that uses electromagnetic waves to heat deep skin layers, stimulating collagen and elastin production. <br>The Accent Prime system combines unipolar radiofrequency with ultrasound to improve skin firmness and tension, achieving progressive and natural results without the need for surgery."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "For what body areas is Accent Prime radiofrequency recommended?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Accent Prime treatment is effective in various areas where skin tends to lose firmness:<ul style='list-style: none; padding-left: 0;'><li>✅ <b>Abdomen:</b> Improves post-partum or post-weight loss laxity.</li><li>✅ <b>Arms:</b> Reduces flaccidity and improves tonicity.</li><li>✅ <b>Thighs and buttocks:</b> Helps tighten skin and redefines contour.</li><li>✅ <b>Knees and elbows:</b> Improves firmness in areas where skin tends to loosen with age.</li></ul> It is recommended in cases of mild to moderate flaccidity."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How many sessions are needed to see results?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The number of sessions depends on the degree of flaccidity and the response of each patient. Generally, **4 to 6 sessions** are recommended, performed every 1 or 2 weeks. <br>Results are progressive, as collagen regenerates in a natural process that can take between **4 and 12 weeks** after treatment."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Are Accent Prime radiofrequency results permanent?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While radiofrequency stimulates sustained collagen production, aging and factors like sun exposure and lifestyle influence the durability of results. <br>Maintenance sessions are recommended every 4 to 6 months to prolong effects."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is Accent Prime treatment painful?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, radiofrequency is well tolerated and generates only a moderate sensation of heat on the skin. <br>Accent Prime features a cooling system that protects the skin surface, ensuring comfort during the session."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What care should I take after radiofrequency?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After treatment, it is recommended to:<ul style='list-style: none; padding-left: 0;'><li>✅ Maintain adequate hydration.</li><li>✅ Use sunscreen if the treated area will be exposed.</li><li>✅ Avoid saunas and excessive heat for 24 hours.</li><li>✅ Perform physical activity and maintain a healthy diet to enhance effects.</li></ul> No recovery time is required, so the patient can resume their usual routine immediately."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Who cannot undergo Accent Prime radiofrequency?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The treatment is not indicated for:<ul style='list-style: none; padding-left: 0;'><li>🚫 Pregnant or breastfeeding women.</li><li>🚫 Patients with pacemakers or metal implants in the area to be treated.</li><li>🚫 People with autoimmune diseases or active cancer.</li><li>🚫 People with infections or open wounds on the skin.</li></ul> Before starting, a medical evaluation is performed to rule out contraindications."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Does radiofrequency help improve cellulite?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, Accent Prime radiofrequency can improve the appearance of mild to moderate cellulite by stimulating collagen production, favoring lymphatic drainage, and improving skin firmness. <br>For more advanced cellulite, it is usually combined with other treatments such as mesotherapy or biostimulators."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is the difference between Accent Prime radiofrequency and other equipment?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Unlike other radiofrequency devices, Accent Prime combines:<br>🔹 <b>Unipolar Radiofrequency</b>: Acts on deep skin layers without affecting the surface.<br>🔹 <b>Selective Ultrasound</b>: Helps break down fat cells to improve body definition.<br>This combination allows for more effective results in fewer sessions and with greater safety."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is radiofrequency an alternative to surgery?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It does not replace surgery in cases of severe flaccidity, but it is an excellent option for those seeking to improve skin firmness without invasive procedures. <br>Accent Prime allows visible results without recovery times or surgical risks."
+            }
+        }
+    ]
+}

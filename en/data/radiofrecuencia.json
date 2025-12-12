@@ -1,0 +1,95 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Frequently Asked Questions - Accent Prime Facial Radiofrequency",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is facial radiofrequency and how does it act on the skin?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Facial radiofrequency is a non-invasive aesthetic treatment that uses electromagnetic waves to heat the deep layers of the skin. This stimulates the production of collagen and elastin, progressively improving skin firmness and elasticity."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What aesthetic conditions can be treated with facial radiofrequency?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Facial radiofrequency with Accent Prime is effective for:<br>✅ <b>Laxity:</b> Improves firmness in cheeks, facial oval, and neck.<br>✅ <b>Fine wrinkles:</b> Smooths expression lines without the need for injections.<br>✅ <b>Dark circles and bags:</b> Reduces fluid retention and improves microcirculation.<br>✅ <b>Dull or aged skin:</b> Provides luminosity and a natural lifting effect."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How many sessions are needed to see results?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The number of sessions varies according to age and skin condition. Generally, **4 to 6 sessions** are recommended, with a frequency of one every 15 days. Results begin to be noticed from the first session and are enhanced over time."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How long do the results of facial radiofrequency last?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Effects can last between **6 and 12 months**, depending on skin type and aftercare. It is recommended to perform maintenance sessions every 4 to 6 months to prolong benefits."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is the Accent Prime treatment painful?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the treatment is painless and generates only a sensation of moderate heat on the skin. <br>Accent Prime has a cooling system that protects the epidermis, ensuring a comfortable and safe experience."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is the difference between Accent Prime radiofrequency and other treatments?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Accent Prime combines two advanced technologies:<br>🔹 <b>Unipolar Radiofrequency:</b> Acts on deep layers, stimulating collagen.<br>🔹 <b>Selective Ultrasound:</b> Improves firmness and redefinition of the facial oval.<br>This equipment allows more effective results in fewer sessions, without recovery times."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Can radiofrequency be combined with other treatments?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, to enhance effects it can be combined with:<br>✅ <b>Botox:</b> Relaxes dynamic wrinkles while radiofrequency improves firmness.<br>✅ <b>Hyaluronic acid:</b> Hydrates and adds volume while radiofrequency stimulates collagen.<br>✅ <b>Peels and lasers:</b> Help improve skin texture and luminosity."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What care should be taken after facial radiofrequency?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After the treatment, it is recommended to:<br>✅ Avoid direct sun exposure and use sunscreen.<br>✅ Do not perform aggressive treatments on the skin in the first 48 hours.<br>✅ Hydrate the skin well and follow an appropriate facial care routine."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Who cannot undergo facial radiofrequency?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is not recommended for:<br>🚫 Pregnant or breastfeeding women.<br>🚫 People with pacemakers or metal implants in the area.<br>🚫 Patients with active infections or open wounds on the skin.<br>Before the procedure, a medical evaluation is performed to ensure treatment safety."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is facial radiofrequency an alternative to surgical facelift?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It does not replace a surgical facelift in cases of severe laxity, but it is an excellent option for those seeking to improve skin firmness without surgery. <br>Accent Prime allows a natural tensor effect without the need for recovery times."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is the difference between Accent Prime and Indiba or other radiofrequency equipment?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While both **Accent Prime and Indiba** use radiofrequency to stimulate collagen production, they present key differences:<br>✅ <b>Accent Prime:</b> Combines unipolar radiofrequency with ultrasound, allowing greater penetration and better results in fewer sessions.<br>✅ <b>Indiba:</b> Uses monopolar radiofrequency with Proionic technology, focused on improving cellular regeneration and microcirculation.<br>🔹 While **Indiba** is ideal for regenerative therapies and improving skin quality, **Accent Prime** is more effective for treating laxity and redefining facial contours more intensely."
+            }
+        }
+    ]
+}

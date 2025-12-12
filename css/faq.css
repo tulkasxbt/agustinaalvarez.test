@@ -1,0 +1,77 @@
+/*
+================================================
+1. Faq CSS
+================================================
+*/
+/* FAQ Accordion Styles */
+#faqAccordion {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.card {
+    margin-bottom: 10px;
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Light shadow for modern look */
+    transition: background-color 0.3s ease;
+}
+
+.card-header {
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 15px;
+    background-color: #f5f5f5; /* Light background color for headers */
+    color: #2c3e50; /* Darker text for readability */
+    transition: background-color 0.3s ease;
+}
+
+.card-header:hover {
+    background-color: #ebebeb; /* Slight hover effect for headers */
+}
+
+.card-body {
+    padding: 15px;
+    background-color: #ffffff;
+    font-size: 16px;
+    color: #595c65;
+    line-height: 1.6;
+    display: none; /* Initially hidden for accordion effect */
+}
+
+.card-body.show {
+    display: block;
+}
+
+/* Alternating background colors */
+.bg-light {
+    background-color: #F5C9B9 !important; /* Light tone */
+}
+
+.bg-dark {
+    background-color: #F4EDEB !important; /* Darker tone */
+}
+
+/* Styling for links within FAQ answers */
+.card-body a {
+    color: #007bff;
+    text-decoration: underline;
+}
+
+.card-body a:hover {
+    color: #0056b3;
+    text-decoration: none;
+}
+
+/* Additional question link styling */
+.card-header.pointer {
+    background-color: #f5f5f5;
+    color: #007bff;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+}
+
+.card-header.pointer:hover {
+    background-color: #e0e0e0;
+}

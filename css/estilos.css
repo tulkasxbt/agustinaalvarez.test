@@ -1,0 +1,136 @@
+/* Restablecimiento de estilos básicos */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: #f9f9f9;
+}
+
+/* Estilo para el encabezado y pie de página */
+header, footer {
+  text-align: center;
+  padding: 20px;
+}
+
+header h1 {
+  font-size: 1.8rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+header p {
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+/* Botón de WhatsApp */
+.whatsapp-btn {
+  display: inline-block;
+  background-color: #25D366;
+  color: #fff;
+  padding: 12px 20px;
+  text-decoration: none;
+  font-size: 1rem;
+  border-radius: 25px;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+}
+
+/* Estilo para la sección de imágenes */
+.imagenes-resultados {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.imagenes-resultados .imagen {
+  flex: 1;
+  text-align: center;
+  padding: 10px;
+}
+
+.imagenes-resultados img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  border-radius: 8px;
+}
+
+.imagenes-resultados p {
+  margin-top: 8px;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+/* Estilos para la sección de testimonios */
+.testimonios {
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+}
+
+.testimonios h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.testimonios blockquote {
+  font-style: italic;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.testimonios cite {
+  display: block;
+  font-size: 0.85rem;
+  color: #999;
+}
+
+/* Estilos para la sección de beneficios */
+.beneficios {
+  padding: 20px;
+  text-align: center;
+}
+
+.beneficios h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.beneficios ul {
+  list-style: none;
+  padding: 0;
+}
+
+.beneficios li {
+  margin: 5px 0;
+  font-size: 1rem;
+}
+
+/* Estilos para el pie de página */
+footer p {
+  font-size: 1rem;
+  margin-bottom: 15px;
+}
+
+/* Media query para dispositivos móviles */
+@media (max-width: 768px) {
+  .imagenes-resultados {
+    flex-direction: column;
+  }
+
+  .whatsapp-btn {
+    width: 80%;
+    left: 10%;
+    right: 10%;
+    bottom: 10px;
+  }
+}

@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Frequently Asked Questions - Intense Pulsed Light (IPL)",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is intense pulsed light (IPL) and how does it work?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Intense pulsed light (IPL) is a non-invasive medical treatment that uses high-intensity light pulses to treat various skin conditions. It works through the selective absorption of light by specific pigments, such as melanin or hemoglobin, allowing for the removal of spots, treatment of rosacea, and improvement of skin texture. <br>The Harmony XL Pro equipment incorporates advanced technology for greater precision and safety, achieving effective results with lower risk of adverse effects."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is the Harmony XL Pro intense pulsed light used for?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The intense pulsed light of the Harmony XL Pro is used in the treatment of:<ul style='list-style: none; padding-left: 0;'><li>✅ <b>Spots and dyschromias</b>: Improves skin tone by eliminating hyperpigmentation and solar lentigines.</li><li>✅ <b>Rosacea and redness</b>: Reduces redness and dilated vessels in the skin.</li><li>✅ <b>Photorejuvenation</b>: Stimulates collagen production, improving firmness and luminosity.</li><li>✅ <b>Hair Removal</b>: Can be used to reduce hair growth in certain areas.</li></ul> This equipment is known for its versatility and efficacy in multiple skin conditions."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How many pulsed light sessions are necessary?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The number of sessions varies according to the condition to be treated. On average:<ul style='list-style: none; padding-left: 0;'><li>🔹 For spots and photodamage: 3 to 5 sessions.</li><li>🔹 For rosacea and telangiectasias: 4 to 6 sessions.</li><li>🔹 For photorejuvenation: 3 to 4 sessions.</li></ul> Sessions are usually spaced between 3 and 4 weeks, allowing the skin to recover and collagen to regenerate progressively."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is the intense pulsed light treatment painful?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Pulsed light treatment is usually not painful, but may generate a mild sensation of heat or itching on the skin. Thanks to the advanced technology of the Harmony XL Pro, the procedure is more comfortable and safer, as it has a cooling system that minimizes discomfort. <br>In sensitive skins, topical anesthesia can be applied for greater comfort."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How long do the results of intense pulsed light last?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Results can last between 6 months and 1 year, depending on the treated condition and aftercare. <br>To maintain long-term effects, daily use of sunscreen and maintenance sessions every 6 to 12 months are recommended."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What are the side effects of intense pulsed light?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Side effects are mild and temporary in most cases. They can include:<ul style='list-style: none; padding-left: 0;'><li>⚠️ Redness or mild inflammation (disappears in a few hours).</li><li>⚠️ Temporary darkening of spots (subsequent exfoliation).</li><li>⚠️ Sensation of heat or mild burning on the skin.</li></ul> With the Harmony XL Pro equipment, the risk of adverse effects is lower due to its precision and personalized adjustment for each skin type."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Who cannot undergo intense pulsed light treatment?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The treatment is not recommended for:<ul style='list-style: none; padding-left: 0;'><li>🚫 Pregnant or breastfeeding women.</li><li>🚫 People with recently tanned skin.</li><li>🚫 Patients with active skin infections (severe inflammatory acne, herpes).</li><li>🚫 People undergoing treatment with isotretinoin in the last 6 months.</li></ul> Before starting the treatment, a medical evaluation is recommended to rule out contraindications."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is the difference between intense pulsed light (IPL) and laser?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Although both use light to treat the skin, they have important differences:<br>🔹 <b>Intense Pulsed Light (IPL)</b>: Uses a broad spectrum light that acts on different skin problems in a single session (spots, redness, texture).<br>🔹 <b>Laser</b>: Uses a more specific light, with a single wavelength, to treat more focused problems (such as deep scars or tattoos).<br>The Harmony XL Pro equipment combines both technologies to offer personalized treatments according to the patient's need."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What care should I take before and after intense pulsed light?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To ensure the safety and efficacy of the treatment, it is recommended:<br><b>Before treatment:</b><ul style='list-style: none; padding-left: 0;'><li>🛑 Avoid sun exposure 2 weeks before.</li><li>🛑 Do not use self-tanners or chemical peels.</li></ul><b>After treatment:</b><ul style='list-style: none; padding-left: 0;'><li>✅ Apply SPF 50+ sunscreen daily.</li><li>✅ Avoid sun and excessive heat for 48 hours.</li><li>✅ Hydrate the skin with restorative creams.</li></ul>"
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is intense pulsed light safe for all skin types?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Pulsed light is effective on light to medium skins, as melanin absorbs the light. However, the Harmony XL Pro features advanced technology that allows parameters to be adjusted according to skin type, reducing risk in higher phototypes. <br>Before treatment, a medical evaluation is performed to determine if it is suitable for each patient."
+            }
+        }
+    ]
+}

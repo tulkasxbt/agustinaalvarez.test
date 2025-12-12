@@ -1,0 +1,87 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Preguntas Frecuentes - Tratamientos Corporales con Accent Prime",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Qué tratamientos estéticos ayudan a mejorar la flacidez corporal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Los tratamientos más efectivos para mejorar la flacidez corporal son:<br>🔹 <b>Radiofrecuencia Accent Prime:</b> Estimula la producción de colágeno y mejora la firmeza de la piel.<br>🔹 <b>Ultrasonido Selectivo:</b> Ayuda a romper células grasas y mejorar el contorno corporal.<br>🔹 <b>Bioestimuladores como Sculptra o Radiesse:</b> Favorecen la producción de colágeno a nivel profundo.<br>Estos tratamientos son no invasivos y ofrecen resultados progresivos sin necesidad de cirugía."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How actúa el Accent Prime en la flacidez de abdomen, brazos y muslos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El Accent Prime utiliza <b>radiofrecuencia unipolar</b> para calentar las capas profundas de la piel y estimular la producción de colágeno.<br>📌 <b>Abdomen:</b> Reduce la flacidez post-parto o post-pérdida de peso.<br>📌 <b>Brazos:</b> Mejora la tonicidad y firmeza.<br>📌 <b>Muslos y glúteos:</b> Ayuda a tensar la piel y redefine el contorno corporal.<br>Los resultados se logran en pocas sesiones y se mantienen con mantenimiento periódico."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "El Accent Prime ayuda a reducir la grasa localizada?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sí, el Accent Prime combina <b>radiofrecuencia unipolar</b> con <b>ultrasonido selectivo</b>, que actúa sobre las células grasas, rompiéndolas y facilitando su eliminación natural por el cuerpo.<br>📌 Áreas recomendadas: abdomen, flancos, muslos y brazos.<br>📌 No es un tratamiento para bajar de peso, sino para mejorar el contorno corporal y reducir adiposidad localizada."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many sessions de Accent Prime are needed to see results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El número de sesiones varía según el grado de flacidez o adiposidad, pero generalmente se recomiendan:<br>🔹 <b>Flacidez leve a moderada:</b> 4 a 6 sesiones.<br>🔹 <b>Reducción de grasa localizada:</b> 6 a 8 sesiones.<br>🔹 <b>Celulitis:</b> 6 a 10 sesiones.<br>Los resultados comienzan a ser visibles después de la segunda o tercera sesión y continúan mejorando hasta 12 semanas después del tratamiento."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "El tratamiento con Accent Prime is it painful?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, es un procedimiento bien tolerado. Se siente una sensación de calor moderado en la zona tratada, pero el sistema de enfriamiento del Accent Prime protege la piel y minimiza cualquier molestia."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "La radiofrecuencia ayuda a mejorar la celulitis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sí, el Accent Prime mejora la celulitis leve a moderada al:<br>🔹 Favorecer la producción de colágeno y elastina.<br>🔹 Mejorar la circulación sanguínea y linfática.<br>🔹 Disminuir la retención de líquidos.<br>Para mejores resultados, se puede combinar con bioestimuladores como Radiesse o Sculptra."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long doesn los resultados del tratamiento con Accent Prime?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Los efectos son progresivos y pueden durar varios meses. Se recomienda realizar sesiones de mantenimiento cada 4 a 6 meses para prolongar los resultados."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who should not realizarse tratamientos con Accent Prime?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El tratamiento no está recomendado en:<br>🚫 Mujeres embarazadas o en lactancia.<br>🚫 Pacientes con marcapasos o implantes metálicos en la zona tratada.<br>🚫 Personas con enfermedades autoinmunes o infecciones en la piel.<br>🚫 Casos de obesidad severa, ya que el tratamiento está orientado a la mejora del contorno corporal, no a la pérdida de peso."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Accent Prime reemplaza la cirugía de lifting corporal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, el Accent Prime es un tratamiento no invasivo para mejorar la firmeza y la textura de la piel. No reemplaza una cirugía de lifting en casos de flacidez severa, pero es una excelente alternativa para quienes buscan mejorar su aspecto sin procedimientos quirúrgicos."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Se pueden combinar distintos tratamientos para mejores resultados?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sí, la combinación de tratamientos puede potenciar los resultados:<br>✅ <b>Accent Prime + Sculptra:</b> Mejora la firmeza de la piel con estimulación de colágeno.<br>✅ <b>Accent Prime + Radiesse:</b> Proporciona mayor tonicidad y efecto tensor.<br>✅ <b>Accent Prime + PB Serum:</b> Reduce grasa localizada y mejora la calidad de la piel.<br>Siempre realizamos una evaluación personalizada para diseñar el mejor plan de tratamiento."
+      }
+    }
+  ]
+}

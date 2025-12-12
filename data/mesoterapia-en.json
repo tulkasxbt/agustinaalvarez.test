@@ -1,0 +1,87 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Preguntas Frecuentes - Mesoterapia y Mesoterapia Filorga",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is la misoterapia y and how does it work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La mesoterapia es un tratamiento médico estético que consiste en la aplicación de microinyecciones de vitaminas, minerales, aminoácidos y ácido hialurónico en la piel para mejorar la hidratación, firmeza y luminosidad del rostro."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuális son the benefits de la misoterapia facial?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La mesoterapia ayuda a:<br>✅ Mejorar la hidratación profunda de la piel.<br>✅ Reducir líneas finas y arrugas.<br>✅ Aportar luminosidad y mejorar el tono.<br>✅ Estimular la producción de colágeno y elastina."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuántas sisionis de misoterapia son necisarias?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El protocolo habitual incluye **3 a 5 sesiones** realizadas cada 15 días. Luego, se recomienda una sesión de mantenimiento cada 2 o 3 meses para prolongar los resultados."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuális son the effects secundarios de la misoterapia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Los efectos secundarios son leves y pueden incluir:<br>✅ Enrojecimiento leve en la zona tratada.<br>✅ Pequeños hematomas que desaparecen en pocos días.<br>✅ Sensación de picazón o inflamación leve en las primeras horas."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "La misoterapia is compatible con otros tratamientos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sí, la mesoterapia puede combinarse con:<br>✅ <b>Radiofrecuencia</b> para mejorar la firmeza.<br>✅ <b>Peelings químicos</b> para una piel más uniforme.<br>✅ <b>Skin Boosters</b> para potenciar la hidratación."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is la Misoterapia Filorga y en qué se diferencia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La Mesoterapia Filorga es una fórmula exclusiva con ácido hialurónico y más de 50 ingredientes activos que revitalizan la piel. A diferencia de la mesoterapia convencional, aporta un efecto glow más duradero y mayor estimulación del colágeno."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuális son the benefits de la Misoterapia Filorga?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Los principales beneficios son:<br>✅ Hidratación profunda y mejora de la elasticidad.<br>✅ Reducción de arrugas finas y líneas de expresión.<br>✅ Aumento de la luminosidad y tono uniforme.<br>✅ Estimulación del colágeno con efecto reafirmante."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuántas sisionis de Misoterapia Filorga se recomiendan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Se recomienda un protocolo de **3 sesiones** cada 15 a 30 días, seguido de 1 sesión de mantenimiento cada 6 meses para prolongar los efectos."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Misoterapia Filorga reemplaza a los rellenos de ácido hialurónico?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, la mesoterapia Filorga hidrata y revitaliza la piel, pero no aporta volumen. Si se busca rellenar arrugas profundas o definir contornos, se pueden combinar ambos tratamientos."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuális son los cuidados dispués de una sisión de Misoterapia Filorga?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Después del tratamiento, se recomienda:<br>✅ No exponerse al sol directo y usar protector solar SPF 50.<br>✅ No realizar actividad física intensa por 24 horas.<br>✅ No aplicar maquillaje durante las primeras 12 horas.<br>✅ Mantener una hidratación adecuada con cremas específicas."
+      }
+    }
+  ]
+}

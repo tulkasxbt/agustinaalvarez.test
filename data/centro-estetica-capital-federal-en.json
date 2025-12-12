@@ -1,0 +1,55 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Preguntas Frecuentes - Capital Federal",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is the best aesthetic center in Capital Federal with medical care?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nuestro centro en Belgrano ofrece medicina estética supervisada por profesionales, con tratamientos personalizados para cada paciente. Nos eligen desde toda CABA por la calidad médica y los resultados visibles."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Do you treat patients from all over Buenos Aires City?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí, recibimos pacientes de Palermo, Caballito, Recoleta, Villa Urquiza y otros barrios de CABA. Nuestro centro en Belgrano es de fácil acceso y está preparado para brindar atención médica personalizada a quienes buscan resultados reales en estética."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Are aesthetic treatments really supervised by doctors?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí. Todos los tratamientos, desde bótox hasta depilación láser, están indicados y supervisados por la Dra. Agustina Álvarez y su equipo. Nuestro enfoque es médico, no comercial, priorizando siempre tu salud y resultados."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What treatments do you offer for non-surgical facial rejuvenation?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ofrecemos bótox, ácido hialurónico, Sculptra, Radiesse, PRP, láser Erbium y radiofrecuencia médica, entre otros. Todos son tratamientos no quirúrgicos con resultados visibles y naturales, ideales para pacientes que buscan armonizar su rostro."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What can I expect at my first aesthetic consultation in Capital Federal?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La primera visita incluye una evaluación médica personalizada, donde analizamos tus objetivos y diseñamos un plan adaptado a vos. Sin apuros, con total honestidad y sin presionarte a realizar tratamientos innecesarios."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How do I choose the most suitable body treatment for me?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La Dra. Álvarez evalúa tu caso y, según el tipo de celulitis, flacidez o adiposidad, se indican combinaciones como Accent Prime, enzimas PB Serum o bioestimuladores. No hay soluciones genéricas: cada cuerpo necesita una estrategia médica específica."
+            }
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Frequently Asked Questions - Aesthetic Conditions",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What are the most effective treatments for reducing wrinkles?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The most effective treatments for treating wrinkles are:<br>🔹 <b>Botulinum toxin (Botox):</b> Relaxes facial muscles and prevents expression wrinkles.<br>🔹 <b>Hyaluronic acid:</b> Hydrates the skin and fills fine lines and deep furrows.<br>🔹 <b>Accent Prime Radiofrequency:</b> Stimulates collagen production and improves firmness.<br>🔹 <b>Q-Switch Laser:</b> Rejuvenates the skin and improves texture.<br>The most suitable treatment depends on the type of wrinkle and the area to be treated."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How can facial and body sagging be improved?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sagging can be treated with:<br>✅ <b>Accent Prime Radiofrequency:</b> Acts on the deep layers of the skin, stimulating collagen and tightening tissues.<br>✅ <b>Biostimulators (Sculptra and Radiesse):</b> Firm the skin through collagen production.<br>✅ <b>Thread lifts:</b> Provide a lifting effect without surgery.<br>✅ <b>Erbium Laser:</b> Rejuvenates and improves skin firmness.<br>The treatment is chosen according to the area and the degree of sagging."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What options exist to increase lip volume?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The safest and most effective treatment is <b>hyaluronic acid filler</b>, as it:<br>🔹 Provides natural and defined volume.<br>🔹 Deeply hydrates the skin of the lips.<br>🔹 Can correct asymmetries and improve lip contour.<br>Results are immediate and can last between 6 and 12 months."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How can acne or surgical scars be treated?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The most effective treatments for scars are:<br>🔹 <b>Erbium Laser:</b> Reduces atrophic scars and improves skin texture.<br>🔹 <b>Chemical peel:</b> Promotes cell regeneration and softens marks.<br>🔹 <b>Hyaluronic acid:</b> Can fill depressed scars.<br>Depending on the type of scar, the most appropriate treatment is chosen."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Does Q-Switch laser help remove skin spots?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the <b>Q-Switch laser</b> is ideal for treating:<br>✅ Sun spots and melasma.<br>✅ Post-inflammatory hyperpigmentation.<br>✅ Age spots.<br>It works by eliminating the pigment accumulated in the skin, leaving a more uniform and luminous tone."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How long do the effects of wrinkle and sagging treatments last?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends on the treatment:<br>🔹 <b>Botox:</b> 4 to 6 months.<br>🔹 <b>Hyaluronic acid:</b> 6 to 12 months.<br>🔹 <b>Accent Prime Radiofrequency:</b> Maintenance is recommended every 4 to 6 months.<br>🔹 <b>Sculptra and Radiesse:</b> Up to 2 years.<br>Proper maintenance allows effects to be prolonged."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is radiofrequency effective for improving skin quality?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, <b>Accent Prime radiofrequency</b> improves skin quality by:<br>✅ Stimulating collagen and elastin production.<br>✅ Improving circulation and cellular oxygenation.<br>✅ Reducing the appearance of fine lines and mild sagging.<br>Results are progressive and visible from the first session."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How to eliminate 'barcode' or upper lip wrinkles?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Upper lip wrinkles can be treated with:<br>🔹 <b>Hyaluronic acid:</b> Fills and softens fine lines.<br>🔹 <b>Botox:</b> Relaxes the muscles that cause repetitive puckering.<br>🔹 <b>Erbium Laser:</b> Improves texture and stimulates collagen.<br>🔹 <b>Chemical peel:</b> Renews the skin and improves the appearance of fine wrinkles."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What treatment is best for rejuvenating neck skin?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To rejuvenate the neck, the best treatments are:<br>✅ <b>Accent Prime Radiofrequency:</b> Improves firmness and redefines contour.<br>✅ <b>Biostimulators (Sculptra and Radiesse):</b> Increase collagen production and improve texture.<br>✅ <b>Hyaluronic acid:</b> Restores hydration and volume.<br>✅ <b>Erbium Laser:</b> Rejuvenates and improves skin quality."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Can treatments be combined to improve results?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, combining treatments can enhance results:<br>✅ <b>Botox + hyaluronic acid:</b> For complete rejuvenation.<br>✅ <b>Radiofrequency + biostimulators:</b> To improve firmness.<br>✅ <b>Erbium Laser + dermal fillers:</b> To treat scars and improve texture.<br>✅ <b>Peeling + Q-Switch laser:</b> To unify skin tone.<br>Each plan is personalized according to the patient's needs."
+            }
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Preguntas Frecuentes - Enzimas PB Serum",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "¿Qué son las enzimas PB Serum y cómo funcionan?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "PB Serum es un tratamiento médico avanzado basado en enzimas recombinantes que degradan grasa localizada, mejoran la firmeza de la piel y reducen la fibrosis. <br>Utiliza tres enzimas clave: <b>lipasa</b> (para reducir grasa), <b>colagenasa</b> (para mejorar la elasticidad) y <b>hialuronidasa</b> (para disminuir fibrosis y retención de líquidos)."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿En qué zonas del cuerpo se pueden aplicar las enzimas PB Serum?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "PB Serum se aplica en áreas con acumulación de grasa localizada y pérdida de firmeza, tales como:<ul style='list-style: none; padding-left: 0;'><li>✅ <b>Abdomen:</b> Reducción de grasa resistente a dieta y ejercicio.</li><li>✅ <b>Papada:</b> Mejora el contorno facial y reduce el doble mentón.</li><li>✅ <b>Flancos y caderas:</b> Disminuye volumen y redefine la silueta.</li><li>✅ <b>Brazos y muslos:</b> Elimina adiposidad localizada y mejora la firmeza.</li></ul>"
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cuántas sesiones se necesitan para ver resultados?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La cantidad de sesiones varía según la zona tratada y la respuesta individual del paciente. <br>Generalmente, se recomiendan entre **3 y 6 sesiones**, con intervalos de 15 a 30 días entre cada una. <br>Los primeros resultados pueden apreciarse después de la segunda sesión, y la mejoría continua en las semanas posteriores."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cómo es la recuperación después de un tratamiento con PB Serum?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El tratamiento no requiere reposo, pero pueden presentarse leve inflamación y enrojecimiento en la zona tratada durante 24 a 48 horas. <br>Es fundamental evitar la exposición solar directa y utilizar protector solar en las áreas tratadas."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Duele la aplicación de enzimas PB Serum?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El procedimiento puede generar una sensación de leve ardor o presión en la zona, pero es bien tolerado. <br>En algunos casos, se utiliza anestesia tópica para mayor comodidad del paciente."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Quiénes no pueden realizarse un tratamiento con PB Serum?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El tratamiento está contraindicado en:<ul style='list-style: none; padding-left: 0;'><li>🚫 Mujeres embarazadas o en período de lactancia.</li><li>🚫 Pacientes con enfermedades autoinmunes o infecciones activas.</li><li>🚫 Personas con alteraciones en la coagulación o en tratamiento con anticoagulantes.</li></ul> Antes de comenzar, se realiza una evaluación médica para determinar si el tratamiento es seguro para el paciente."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cuánto duran los resultados de PB Serum?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Los resultados pueden mantenerse de forma prolongada si se acompaña con una alimentación equilibrada y actividad física regular. <br>Sin embargo, como el envejecimiento y el metabolismo continúan, se recomienda una sesión de mantenimiento cada 6 a 12 meses."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Qué diferencia hay entre PB Serum y otros tratamientos para grasa localizada?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "PB Serum actúa directamente sobre la grasa, sin necesidad de cirugía ni tiempos de recuperación prolongados. <br>A diferencia de la criolipólisis o cavitación, que destruyen células grasas por frío o ultrasonido, las enzimas PB Serum degradan la grasa mediante procesos bioquímicos, logrando una reducción progresiva y natural."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿PB Serum es un tratamiento seguro?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí, es un tratamiento seguro cuando es aplicado por profesionales capacitados. <br>Las enzimas utilizadas son biocompatibles y actúan de manera selectiva sobre el tejido adiposo sin afectar otras estructuras."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Se puede combinar PB Serum con otros tratamientos?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí, PB Serum puede combinarse con:<ul style='list-style: none; padding-left: 0;'><li>✅ <b>Radiofrecuencia (Accent Prime):</b> Para mejorar la firmeza de la piel.</li><li>✅ <b>Mesoterapia lipolítica:</b> Para potenciar la reducción de grasa localizada.</li><li>✅ <b>Bioestimuladores (Radiesse, Sculptra):</b> Para mejorar la calidad de la piel.</li></ul> La combinación debe ser evaluada por un especialista para maximizar los resultados."
+            }
+        }
+    ]
+}

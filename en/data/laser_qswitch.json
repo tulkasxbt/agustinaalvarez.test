@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Frequently Asked Questions - Laser Q-Switch",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "Is the Harmony Q-Switch laser treatment safe for all skin types?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the Harmony Q-Switch laser is safe and effective for most skin types when applied by trained professionals. We evaluate each case to offer the best treatment and avoid any adverse reactions."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What side effects or risks does the treatment have?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Side effects are mild and include temporary redness or swelling, which usually disappear in a few hours. We perform a detailed evaluation to minimize any risk."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is the treatment painful?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most people experience a mild sensation of heat or tingling. It is a well-tolerated procedure, but we also offer options to maximize patient comfort during the session."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How long will it take to see results?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Results vary depending on the condition treated. In general, it is possible to notice gradual improvement after the first session, but optimal results usually appear after several sessions."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How many sessions are needed and how often?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The number of sessions will depend on the goal and the area treated, but generally between 4 and 6 sessions are recommended, with intervals of 4 to 6 weeks between each one."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Can I have an adverse reaction after the treatment?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Some patients may experience redness or skin sensitivity, which is normal and disappears quickly. We recommend following post-treatment indications to reduce any possible discomfort."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How should I care for my skin before and after the treatment?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is recommended to avoid direct sun exposure before and after treatment and apply sunscreen to protect the skin. It is also important to avoid irritating products in the days following."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is it effective for removing spots and scars?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the Harmony Q-Switch laser is very effective for improving sun spots, melasma, and acne scars. Each case is evaluated individually to offer the best results."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is it a costly treatment in the long term?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The cost may seem high, but in the long term it is an investment in the skin that offers lasting benefits, decreasing the need for other treatments or products to improve the same conditions."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is it compatible with other aesthetic treatments?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the Harmony Q-Switch laser can be combined with other treatments, such as fillers and botulinum toxin. However, it is important to establish an appropriate routine and the order of treatments with the professional."
+            }
+        }
+    ]
+}

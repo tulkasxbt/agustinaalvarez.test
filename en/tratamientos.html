@@ -1,0 +1,853 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Facial Treatments in Belgrano - Medical Aesthetics Center in Buenos Aires" />
+    <meta name="keywords" content="Facial Treatments in Belgrano, Aesthetic Medicine Buenos Aires">
+    <link rel="canonical" href="https://agustinaalvarez.com/en/tratamientos.html" />
+    <meta name="author" content="Agustina Alvarez" />
+    <meta name="copyright" content="Agustina Alvarez" />
+    <link rel="alternate" hreflang="es" href="https://agustinaalvarez.com/tratamientos.html" />
+    <link rel="alternate" hreflang="en" href="https://agustinaalvarez.com/en/tratamientos.html" />
+
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Facial Treatments in Belgrano | Rejuvenate Your Skin with Advanced Technology</title>
+    <link rel="preload" href="../images/sliders/02_scultra.webp" as="image">
+    <link rel="stylesheet" href="../assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../assets/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon.webp">
+
+
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KQBMJZWL');</script>
+    <!-- End Google Tag Manager -->
+    <!--       // Load JSON-LD from external file//-->
+    <script>
+        fetch('data/tratamientos.json')
+            .then(response => response.json())
+            .then(data => {
+                let script = document.createElement('script');
+                script.type = "application/ld+json";
+                script.textContent = JSON.stringify(data);
+                document.head.appendChild(script);
+            })
+            .catch(error => console.error('Error loading JSON-LD:', error));
+    </script>
+
+
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQBMJZWL" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!--Header-->
+    <header id="home">
+        <div class="header-top-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3">
+                        <!-- START LOGO -->
+                        <div class="logo">
+                            <a href="https://agustinaalvarez.com/en">
+                                <img id="responsive-logo" src="../images/logo.webp" alt="Dr. Agustina Alvarez"
+                                    class="img-responsive" width="300" height="100">
+                            </a>
+                        </div>
+
+                        <script>
+                            function isMobileDevice() {
+                                // Detect mobile devices using user agent
+                                return /Mobi|Android|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+                            }
+
+                            function updateLogoSrc() {
+                                var img = document.getElementById('responsive-logo');
+
+                                // If device is mobile, use mobile image; otherwise, use desktop image
+                                if (isMobileDevice()) {
+                                    img.src = '../images/logo-mobile.webp';  // Image for mobile devices
+                                    img.width = 150;  // Adjust width for mobile devices
+                                    img.height = 50;  // Adjust height for mobile devices
+                                } else {
+                                    img.src = '../images/logo.webp';  // Image for desktop devices
+                                    img.width = 300;  // Adjust width for desktop devices
+                                    img.height = 100;  // Adjust height for desktop devices
+                                }
+                            }
+
+                            // Call function to update logo image
+                            updateLogoSrc();
+                        </script>
+
+                        <!-- END LOGO -->
+                    </div>
+                    <div class="col-md-9">
+                        <!-- START MAIN MENU -->
+                        <nav class="navbar navbar-default">
+                            <!-- Brand and toggle get grouped for better mobile display -->
+                            <div class="navbar-header">
+                                <button type="button" class="navbar-toggle collapsed" onclick="toggleMenu()"
+                                    aria-expanded="false" <span class="sr-only"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span> </button>
+                                <!-- Logo -->
+                            </div>
+                            <!-- Collect the nav links, forms, and other content for toggling -->
+                            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                                <ul class="nav navbar-nav">
+                                    <li><a class="smoth-scroll" href="https://agustinaalvarez.com/en">Home</a></li>
+                                    <li class="dropdown">
+                                        <a href="#" class="smoth-scroll">Treatments</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="tratamientos.html">Facial Treatments</a></li>
+                                            <li><a href="tratamientos_corporales.html">Body Treatments</a></li>
+                                            <li><a href="depilacion.html">Permanent Hair Removal</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a class="smoth-scroll" href="afecciones.html">Conditions We Treat</a></li>
+                                    <li><a class="smoth-scroll" href="https://agustinaalvarez.com/blog/">Blog</a></li>
+                                    <li><a class="smoth-scroll" href="faqs.html">Faqs</a></li>
+                                    <li><a class="smoth-scroll" href="contacto.html">Contact Us!</a></li>
+                                </ul>
+                            </div>
+                            <!-- /.navbar-collapse -->
+                        </nav>
+                        <!-- END MAIN MENU -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--Header-->
+        <div class="header-full-width-tratamientos"
+            style="background-image: url('../images/sliders/02_scultra.webp'); background-size: cover; background-position: center;">
+
+            <!-- H1 Text -->
+            <div class="header-content">
+                <h1>Treatments in Belgrano</h1>
+                <p>A space dedicated just for you, with exclusive treatments designed for your skin.</p>
+                <a href="https://api.whatsapp.com/send?phone=5491124717170&amp;text=I+want+an+Initial+Consultation"
+                    class="btn-action">
+                    Book Your Initial Consultation Now!
+                </a>
+            </div>
+        </div>
+        </div>
+
+
+    </header>
+
+
+    <div class="clearfix"></div>
+    <!--About Us 2 End-->
+    <!--Service start-->
+    <section id="services" class="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="section-title">
+                        <h2 class="font-weight">Treatments</h2>
+
+                    </div>
+                    <div class="section">
+                        <!-- Botox - Botulinum Toxin Start -->
+                        <div class="col-md-4 col-sm-6 col-xs-12">
+                            <a href="botox.html" class="treatment-link" target="_blank">
+                                <div class="item">
+                                    <img src="../images/botox.webp" loading="lazy" alt="Botox"
+                                        class="img-responsive img-circle" height="295" width="295">
+                                    <h3 class="font-weight">Botox - Botulinum Toxin</h3>
+                                    <div class="card">
+                                        <p class="line-height-1">
+                                            Botulinum toxin is a common tool in aesthetics for men and women, used to
+                                            relax facial muscles and smooth expression lines.
+                                        </p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <!-- Botox - Botulinum Toxin End -->
+
+                        <!-- Sculptra Start -->
+                        <div class="col-md-4 col-sm-6 col-xs-12">
+                            <div class="item">
+                                <a href="sculptra.html" target="_blank">
+                                    <img src="../images/sculptra.webp" loading="lazy" alt="Sculptra"
+                                        class="img-responsive img-circle" height="295" width="295">
+
+                                    <h3 class="font-weight">Sculptra</h3>
+                                    <div class="card" data-city="sculptra">
+                                        <p class="line-height-1">Sculptra is a treatment that stimulates collagen
+                                            production, improving skin firmness and elasticity. Each person is unique,
+                                            and the treatment is personalized to address specific rejuvenation needs.
+                                        </p>
+                                    </div>
+                            </div>
+                            </a>
+                        </div>
+                        <!-- Sculptra End -->
+
+                        <!-- Fillers - Hyaluronic Acid Start -->
+                        <div class="col-md-4 col-sm-6 col-xs-12">
+                            <div class="item">
+                                <a href="rellenos.html" target="_blank">
+                                    <img src="../images/acido_hialuronico.webp" loading="lazy" alt="Fillers"
+                                        class="img-responsive img-circle" height="295" width="295">
+
+                                    <h3 class="font-weight">Hyaluronic Acid Fillers</h3>
+                                    <div class="card" data-city="acido_hialuronico">
+                                        <p class="line-height-1">Hyaluronic acid fillers are popular treatments to
+                                            restore lost volume in the face, smooth fine lines and wrinkles, and improve
+                                            skin hydration. Each person is unique, so the treatment is adapted to
+                                            individual needs to achieve natural results.
+                                        </p>
+                                    </div>
+                            </div>
+                            </a>
+                        </div>
+                        <!-- Fillers - Hyaluronic Acid End -->
+
+                        <!-- Lip Filler Start -->
+                        <div class="col-md-4 col-sm-6 col-xs-12">
+                            <div class="item">
+                                <a href="labios.html" target="_blank">
+                                    <img src="../images/labios.webp" loading="lazy" alt="Lip Filler"
+                                        class="img-responsive img-circle" height="295" width="295">
+
+                                    <h3 class="font-weight">Lip Filler</h3>
+                                    <div class="card" data-city="relleno_labios">
+                                        <p class="line-height-1">Lip filler with hyaluronic acid is a technique used to
+                                            increase volume, improve shape, and define the lip contour. Each case is
+                                            special, and the treatment is adapted to the patient's aesthetic and
+                                            functional needs.
+                                            <span class="dots"></span>
+                                            <span class="more" style="display: none;"><br><strong>What is lip
+                                                    filling?</strong></br>Lip filling is an aesthetic procedure in which
+                                                hyaluronic acid is injected to increase lip volume, improve symmetry,
+                                                and smooth lines around the mouth. Results are usually natural and
+                                                temporary, and the treatment is safe when performed by trained
+                                                professionals.</span>
+                                        </p>
+                                        <button onclick="readMore('relleno_labios')" class="myBtn">Read more...</button>
+                                    </div>
+                            </div>
+                            </a>
+                        </div>
+                        <!-- Lip Filler End -->
+
+
+
+                        <!-- Radiesse Start -->
+                        <div class="col-md-4 col-sm-6 col-xs-12">
+                            <div class="item">
+                                <a href="radiesse.html" target="_blank">
+                                    <img src="../images/radiesse.webp" loading="lazy" alt="Radiesse"
+                                        class="img-responsive img-circle" height="295" width="295">
+                                </a>
+                                <h3 class="font-weight">Radiesse</h3>
+                                <div class="card" data-city="radiesse">
+                                    <p class="line-height-1">Radiesse is a dermal filler that provides immediate volume
+                                        and stimulates collagen production for long-lasting results. Each treatment is
+                                        personalized according to the patient's needs, as each case is special.
+                                        <span class="dots"></span>
+                                        <span class="more" style="display: none;"><br><strong>What is
+                                                Radiesse?</strong></br>Radiesse is a dermal filler composed of calcium
+                                            hydroxylapatite microspheres that not only provides volume but also improves
+                                            skin firmness by stimulating the body's natural collagen.</span>
+                                    </p>
+                                    <button onclick="readMore('radiesse')" class="myBtn">Read more...</button>
+                                </div>
+                            </div>
+                            </a>
+                        </div>
+                        <!-- Radiesse End -->
+
+                        <!-- Pb Serum Enzymes Start -->
+                        <div class="col-md-4 col-sm-6 col-xs-12">
+                            <div class="item">
+                                <a href="enzimas_pbserum.html" target="_blank">
+                                    <img src="../images/enzimas_pbserum.webp" loading="lazy" alt="Pb Serum Enzymes"
+                                        class="img-responsive img-circle" height="295" width="295">
+                                    <h3 class="font-weight">Pb Serum Enzymes</h3>
+                                    <div class="card" data-city="enzimas_pbserum">
+                                        <p class="line-height-1">Pb Serum enzymes are a non-invasive alternative to
+                                            treat localized fat and improve skin appearance. Like all treatments, each
+                                            case is special and requires a personalized approach.
+                                            <span class="dots"></span>
+                                            <span class="more" style="display: none;"><br><strong>What are Pb Serum
+                                                    enzymes?</strong></br>Pb Serum enzymes are a combination of enzymes
+                                                injected into specific areas to dissolve localized fat and improve skin
+                                                texture. It is a safe and effective treatment to reduce adiposity in
+                                                difficult-to-treat areas.</span>
+                                        </p>
+                                        <button onclick="readMore('enzimas_pbserum')" class="myBtn">Read
+                                            more...</button>
+                                    </div>
+                            </div>
+                            </a>
+                        </div>
+                        <!-- Pb Serum Enzymes End -->
+
+                        <!-- Peeling Start -->
+                        <div class="col-md-4 col-sm-6 col-xs-12">
+                            <div class="item">
+                                <a href="peeling.html" target="_blank">
+                                    <img src="../images/peeling.webp" loading="lazy" alt="Peeling"
+                                        class="img-responsive img-circle" height="295" width="295">
+
+                                    <h3 class="font-weight">Peeling</h3>
+                                    <div class="card" data-city="peeling">
+                                        <p class="line-height-1">Peeling is a treatment used to improve skin texture and
+                                            tone by exfoliating surface layers. Each skin type is different, and the
+                                            treatment is adjusted to obtain the best results.
+                                            <span class="dots"></span>
+                                            <span class="more" style="display: none;"><br><strong>What is
+                                                    peeling?</strong></br>Chemical peeling consists of applying acids to
+                                                the skin to exfoliate and stimulate cell regeneration. It is used to
+                                                treat wrinkles, spots, and mild scars, leaving the skin smoother and
+                                                more uniform.</span>
+                                        </p>
+                                        <button onclick="readMore('peeling')" class="myBtn">Read more...</button>
+                                    </div>
+                            </div>
+                            </a>
+                        </div>
+                        <!-- Peeling End -->
+
+                        <!-- Q-Switch Laser Start -->
+                        <div class="col-md-4 col-sm-6 col-xs-12">
+                            <div class="item">
+                                <a href="laser_qswitch.html" target="_blank">
+                                    <img src="../images/lifting.webp" loading="lazy" alt="Q-Switch Laser"
+                                        class="img-responsive img-circle" height="295" width="295">
+
+                                    <h3 class="font-weight">Q-Switch Laser</h3>
+                                    <div class="card" data-city="laser_qswitch">
+                                        <p class="line-height-1">The Q-Switch laser is ideal for treating spots,
+                                            tattoos, and other skin irregularities. Each treatment is personalized, as
+                                            each skin and case are unique.
+                                            <span class="dots"></span>
+                                            <span class="more" style="display: none;"><br><strong>What is the Q-Switch
+                                                    laser?</strong></br>The Q-Switch laser emits high-intensity light
+                                                pulses that fragment ink particles in tattoos and pigments in spots,
+                                                allowing the body to eliminate them naturally. It is safe and effective
+                                                for improving skin appearance.</span>
+                                        </p>
+                                        <button onclick="readMore('laser_qswitch')" class="myBtn">Read more...</button>
+                                    </div>
+                            </div>
+                            </a>
+                        </div>
+                        <!-- Q-Switch Laser End -->
+
+                        <!-- Intense Pulsed Light Start -->
+                        <div class="col-md-4 col-sm-6 col-xs-12">
+                            <div class="item">
+                                <a href="luz_pulsada.html" target="_blank">
+                                    <img src="../images/luz_pulsada.webp" loading="lazy" alt="Intense Pulsed Light"
+                                        class="img-responsive img-circle" height="295" width="295">
+
+                                    <h3 class="font-weight">Intense Pulsed Light</h3>
+                                    <div class="card" data-city="luz_pulsada">
+                                        <p class="line-height-1">Intense Pulsed Light is a versatile treatment to
+                                            improve skin texture, reduce spots, and treat redness. Each session is
+                                            adapted to the patient's needs to obtain the best results.
+                                            <span class="dots"></span>
+                                            <span class="more" style="display: none;"><br><strong>What is Intense Pulsed
+                                                    Light?</strong></br>Intense Pulsed Light (IPL) uses high-intensity
+                                                light pulses to treat a variety of skin problems, such as spots,
+                                                rosacea, and fine lines. It is a non-invasive treatment that improves
+                                                the overall appearance of the skin.</span>
+                                        </p>
+                                        <button onclick="readMore('luz_pulsada')" class="myBtn">Read more...</button>
+                                    </div>
+                            </div>
+                            </a>
+                        </div>
+                        <!-- Intense Pulsed Light End -->
+
+                        <!-- Radiofrequency Start -->
+                        <div class="col-md-4 col-sm-6 col-xs-12">
+                            <div class="item">
+                                <a href="radiofrecuencia.html" target="_blank">
+                                    <img src="../images/radiofrecuencia.webp" loading="lazy" alt="Radiofrequency"
+                                        class="img-responsive img-circle" height="295" width="295">
+
+                                    <h3 class="font-weight">Radiofrequency</h3>
+                                    <div class="card" data-city="radiofrecuencia">
+                                        <p class="line-height-1">Radiofrequency is a non-invasive treatment used to
+                                            tighten skin and reduce localized fat. Each case is unique, and the
+                                            treatment is adapted to the patient's needs.
+                                            <span class="dots"></span>
+                                            <span class="more" style="display: none;"><br><strong>What is
+                                                    radiofrequency?</strong></br>Radiofrequency uses heat waves to
+                                                stimulate collagen production and improve skin firmness. It is also
+                                                effective for reducing localized fat in specific areas of the
+                                                body.</span>
+                                        </p>
+                                        <button onclick="readMore('radiofrecuencia')" class="myBtn">Read
+                                            more...</button>
+                                    </div>
+                            </div>
+                            </a>
+                        </div>
+                        <!-- Radiofrequency End -->
+
+                        <!-- Mesotherapy Start -->
+                        <div class="col-md-4 col-sm-6 col-xs-12">
+                            <div class="item">
+                                <a href="mesoterapia.html" target="_blank">
+                                    <img src="../images/mesoterapia.webp" loading="lazy" alt="Mesotherapy"
+                                        class="img-responsive img-circle" height="295" width="295">
+
+                                    <h3 class="font-weight">Mesotherapy</h3>
+                                    <div class="card" data-city="mesoterapia">
+                                        <p class="line-height-1">Mesotherapy consists of applying microinjections of
+                                            vitamins, minerals, and medications into the skin to improve its appearance
+                                            and treat problems such as cellulite and sagging. Each treatment is
+                                            personalized.
+                                            <span class="dots"></span>
+                                            <span class="more" style="display: none;"><br><strong>What is
+                                                    mesotherapy?</strong></br>Mesotherapy is a non-invasive treatment
+                                                that uses microinjections to deliver nutrients directly into the skin,
+                                                helping to improve its quality and reduce problems such as cellulite and
+                                                sagging.</span>
+                                        </p>
+                                        <button onclick="readMore('mesoterapia')" class="myBtn">Read more...</button>
+                                    </div>
+                            </div>
+                            </a>
+                        </div>
+                        <!-- Mesotherapy End -->
+
+                        <!-- Erbium Start -->
+                        <div class="col-md-4 col-sm-6 col-xs-12">
+                            <div class="item">
+                                <a href="erbium.html" target="_blank">
+                                    <img src="../images/erbium.webp" loading="lazy" alt="CO2 Erbium Laser"
+                                        class="img-responsive img-circle" height="295" width="295">
+
+                                    <h3 class="font-weight">CO2 Erbium Laser</h3>
+                                    <div class="card" data-city="erbium">
+                                        <p class="line-height-1">The Erbium laser is used to treat wrinkles, scars, and
+                                            other skin imperfections by removing superficial layers. Each skin is
+                                            unique, and the treatment is adjusted to obtain optimal results.
+                                            <span class="dots"></span>
+                                            <span class="more" style="display: none;"><br><strong>What is the Erbium
+                                                    laser?</strong></br>The Erbium laser emits light pulses that remove
+                                                very thin layers of the skin, stimulating cell regeneration and
+                                                improving the appearance of wrinkles, scars, and other imperfections. It
+                                                is a precise and safe treatment.</span>
+                                        </p>
+                                        <button onclick="readMore('erbium')" class="myBtn">Read more...</button>
+                                    </div>
+                            </div>
+                            </a>
+                        </div>
+                        <!-- Erbium End -->
+
+                        <!-- Profhilo Start -->
+                        <div class="col-md-4 col-sm-6 col-xs-12">
+                            <div class="item">
+                                <a href="profhilo.html" target="_blank">
+                                    <img src="../images/tensores.webp" loading="lazy" alt="Profhilo"
+                                        class="img-responsive img-circle" height="295" width="295">
+
+                                    <h3 class="font-weight">Profhilo</h3>
+                                    <div class="card" data-city="profhilo">
+                                        <p class="line-height-1">Profhilo is a deep hydration treatment that improves
+                                            skin quality and stimulates collagen and elastin production. Each treatment
+                                            is personalized to address the specific needs of each patient.
+                                            <span class="dots"></span>
+                                            <span class="more" style="display: none;"><br><strong>What is
+                                                    Profhilo?</strong></br>Profhilo is an injectable treatment based on
+                                                high-concentration hyaluronic acid, which deeply hydrates the skin and
+                                                improves its elasticity and firmness. It is ideal for rejuvenating skin
+                                                without adding volume.</span>
+                                        </p>
+                                        <button onclick="readMore('profhilo')" class="myBtn">Read more...</button>
+                                    </div>
+                            </div>
+                            </a>
+                        </div>
+                        <!-- Profhilo End -->
+
+                        <!-- Platelet Rich Plasma Start -->
+                        <div class="col-md-4 col-sm-6 col-xs-12">
+                            <div class="item">
+                                <a href="plasma.html" target="_blank">
+                                    <img src="../images/plasma.webp" loading="lazy" alt="Platelet Rich Plasma"
+                                        class="img-responsive img-circle" height="295" width="295">
+
+                                    <h3 class="font-weight">Platelet Rich Plasma</h3>
+                                    <div class="card" data-city="plasma_rico_plaquetas">
+                                        <p class="line-height-1">Platelet Rich Plasma (PRP) is a treatment that uses the
+                                            patient's own platelets to rejuvenate the skin and promote healing. Each
+                                            case is special, and the treatment is adapted to individual needs.
+                                            <span class="dots"></span>
+                                            <span class="more" style="display: none;"><br><strong>What is Platelet Rich
+                                                    Plasma (PRP)?</strong></br>PRP is obtained from the patient's blood,
+                                                centrifuged to concentrate the platelets, and then injected into the
+                                                skin to stimulate cell regeneration and improve skin appearance.</span>
+                                        </p>
+                                        <button onclick="readMore('plasma_rico_plaquetas')" class="myBtn">Read
+                                            more...</button>
+                                    </div>
+                            </div>
+                            </a>
+                        </div>
+                        <!-- Platelet Rich Plasma End -->
+
+                        <!-- Skinbooster Start -->
+                        <div class="col-md-4 col-sm-6 col-xs-12">
+                            <div class="item">
+                                <a href="longlasting.html" target="_blank">
+                                    <img src="../images/skinbooster.webp" loading="lazy" alt="Longlasting"
+                                        class="img-responsive img-circle" height="295" width="295">
+
+                                    <h3 class="font-weight">Long Lasting</h3>
+                                    <div class="card" data-city="skinbooster">
+                                        <p class="line-height-1">The LongLasting treatment stimulates collagen and
+                                            elastin production, improving skin firmness and quality. It is ideal for
+                                            those looking for progressive and natural rejuvenation without altering
+                                            facial structure. Each case is unique, and the treatment is personalized to
+                                            obtain the best results.
+                                            <span class="dots"></span>
+                                            <span class="more" style="display: none;"><br><strong>What is
+                                                    LongLasting?</strong></br>LongLasting is a biostimulator that,
+                                                through microinjections, promotes collagen regeneration, achieving
+                                                firmer, hydrated skin with better texture. Its effect is progressive and
+                                                natural, providing a long-lasting result without the need for volumetric
+                                                fillers.</span>
+                                        </p>
+                                        <button onclick="readMore('skinbooster')" class="myBtn">Read more...</button>
+                                    </div>
+                            </div>
+                            </a>
+                        </div>
+                        <!-- Skinbooster End -->
+
+
+                        <!-- Mesotherapy Filorga Start -->
+                        <div class="col-md-4 col-sm-6 col-xs-12">
+                            <div class="item">
+                                <a href="mesoterapia_filorga.html" target="_blank">
+                                    <img src="../images/mesoterapia_filorga_icon.webp" loading="lazy"
+                                        alt="Mesotherapy Filorga" class="img-responsive img-circle" height="295"
+                                        width="295">
+
+                                    <h3 class="font-weight">Mesotherapy Filorga</h3>
+                                    <div class="card" data-city="mesoterapia">
+                                        <p class="line-height-1">Mesotherapy Filorga is ideal for those looking for
+                                            brighter, hydrated, and firmer skin, thanks to its unique combination of
+                                            vitamins, minerals, and hyaluronic acid. Each treatment is adapted according
+                                            to skin needs.
+                                            <span class="dots"></span>
+                                            <span class="more" style="display: none;"><br><strong>What is Mesotherapy
+                                                    Filorga?</strong><br>It is a medical treatment that, through
+                                                microinjections, improves skin texture, tone, and hydration. Its effect
+                                                is visible from the first sessions and helps prevent skin aging.</span>
+                                        </p>
+                                        <button onclick="readMore('mesoterapia')" class="myBtn">Read more...</button>
+                                    </div>
+                            </div>
+                            </a>
+                        </div>
+                        <!-- Mesotherapy Filorga End -->
+
+                        <!-- Hair Treatment Start -->
+                        <div class="col-md-4 col-sm-6 col-xs-12">
+                            <div class="item">
+                                <a href="tratamiento_capilar.html" target="_blank">
+                                    <img src="../images/tratamiento_capilar_icon.webp" loading="lazy"
+                                        alt="Hair Treatment" class="img-responsive img-circle" height="295" width="295">
+
+                                    <h3 class="font-weight">Hair Treatment</h3>
+                                    <div class="card" data-city="capilar">
+                                        <p class="line-height-1">The Hair Treatment combines laser technology and active
+                                            ingredients to strengthen hair, improve scalp health, and stop hair loss.
+                                            Personalized for each type of alopecia.
+                                            <span class="dots"></span>
+                                            <span class="more" style="display: none;"><br><strong>What is Hair
+                                                    Treatment?</strong><br>It is a medical protocol that stimulates
+                                                microcirculation and capillary regeneration through safe and fast
+                                                sessions. It improves hair thickness and quality.</span>
+                                        </p>
+                                        <button onclick="readMore('capilar')" class="myBtn">Read more...</button>
+                                    </div>
+                            </div>
+                            </a>
+                        </div>
+                        <!-- Hair Treatment End -->
+
+                        <!-- Alquimia Start -->
+                        <div class="col-md-4 col-sm-6 col-xs-12">
+                            <div class="item">
+                                <a href="alquimia.html" target="_blank">
+                                    <img src="../images/alquimia.webp" loading="lazy" alt="Alquimia Peeling"
+                                        class="img-responsive img-circle" height="295" width="295">
+
+                                    <h3 class="font-weight">Alquimia</h3>
+                                    <div class="card" data-city="alquimia">
+                                        <p class="line-height-1">Alquimia is our peeling treatment with Eccleris
+                                            technology, designed to renew skin in a controlled and safe way, improving
+                                            spots, pores, and texture.
+                                            <span class="dots"></span>
+                                            <span class="more" style="display: none;"><br><strong>What is
+                                                    Alquimia?</strong><br>It is a deep exfoliation procedure that
+                                                combines chemical and mechanical peeling to stimulate skin regeneration
+                                                and restore natural luminosity.</span>
+                                        </p>
+                                        <button onclick="readMore('alquimia')" class="myBtn">Read more...</button>
+                                    </div>
+                            </div>
+                            </a>
+                        </div>
+                        <!-- Alquimia End -->
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="clearfix"></div>
+    <!--Service end-->
+
+
+    <section style="margin-bottom: 40px;">
+        <h2 style="color: #2c3e50; font-size: 24px; text-align: center;">Frequently Asked Questions</h2>
+        <div id="faqAccordion"></div>
+    </section>
+
+    <!-- JSON-LD for FAQ Rich Results -->
+    <script id="faqJsonLd" type="application/ld+json"></script>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const faqContainer = document.getElementById("faqAccordion");
+            const jsonFilePath = "data/tratamientos.json";
+
+            fetch(jsonFilePath)
+                .then(response => {
+                    if (!response.ok) throw new Error("Could not load JSON file.");
+                    return response.json();
+                })
+                .then(data => {
+                    if (!data.mainEntity || data.mainEntity.length === 0) {
+                        faqContainer.innerHTML = "<p>No frequently asked questions available.</p>";
+                        return;
+                    }
+
+                    data.mainEntity.forEach((faq, index) => {
+                        const isLight = index % 2 === 0 ? "bg-light" : "bg-dark";
+                        const faqItem = `
+                    <div class="card ${isLight}">
+                        <div class="card-header">${faq.name}</div>
+                        <div class="card-body">${faq.acceptedAnswer.text}</div>
+                    </div>
+                `;
+                        faqContainer.innerHTML += faqItem;
+                    });
+
+                    const generalFaqItem = `
+                <div class="card bg-light">
+                    <div class="card-header" onclick="window.location.href='faqs.html';" style="cursor: pointer;">
+                        More frequently asked questions.
+                    </div>
+                </div>
+            `;
+                    faqContainer.innerHTML += generalFaqItem;
+
+                    agregarEventosPreguntas();
+                })
+                .catch(error => {
+                    console.error("Error loading questions:", error);
+                    faqContainer.innerHTML = "<p>Error loading questions.</p>";
+                });
+
+            function agregarEventosPreguntas() {
+                document.querySelectorAll(".card-header").forEach(header => {
+                    header.addEventListener("click", function () {
+                        const body = this.nextElementSibling;
+                        document.querySelectorAll(".card-body").forEach(b => { if (b !== body) b.classList.remove("active"); });
+                        if (body) body.classList.toggle("active");
+                    });
+                });
+            }
+        });
+    </script>
+
+
+    <!-- Script to open and close FAQs -->
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const headers = document.querySelectorAll(".card-header");
+
+            headers.forEach(header => {
+                header.addEventListener("click", function () {
+                    const body = this.nextElementSibling;
+
+                    // Close all other elements
+                    document.querySelectorAll(".card-body").forEach(b => {
+                        if (b !== body) b.classList.remove("active");
+                    });
+
+                    // Toggle active state of selected answer
+                    body.classList.toggle("active");
+                });
+            });
+        });
+    </script>
+
+    <style>
+        /* Main accordion container style */
+        #faqAccordion {
+            max-width: 800px;
+            /* Maximum width of accordion */
+            margin: 0 auto;
+            /* Horizontal centering */
+        }
+
+        /* Card styles */
+        .card {
+            margin-bottom: 20px;
+            border-radius: 8px;
+            text-align: center;
+            overflow: hidden;
+            /* Prevents rounded border from being cut off */
+        }
+
+        .card-header {
+            padding: 15px;
+            cursor: pointer;
+            font-weight: bold;
+            color: #333;
+            font-size: 16px;
+            /* Font size same as answer */
+            line-height: 1.6;
+            /* Line height same as answer */
+        }
+
+        /* Color styles for questions */
+        .bg-light {
+            background-color: #f7f7f7;
+        }
+
+        .bg-dark {
+            background-color: #ecf0f1;
+        }
+
+        /* Answer styles */
+        .card-body {
+            display: none;
+            padding: 15px;
+            background-color: #ecf0f1;
+            font-size: 16px;
+            line-height: 1.6;
+        }
+
+        /* Active style to show answer */
+        .card-body.active {
+            display: block;
+        }
+    </style>
+
+    <footer>
+        <div class="container">
+            <p>&copy; Copyright
+                <script type="text/javascript">
+                    var d = new Date();
+                    document.write(d.getFullYear());
+                </script> 2021 © Dr. Agustina Alvarez. All Rights Reserved.
+            </p>
+            <p>Address: Lacroze 2306, Capital Federal, Buenos Aires.</p>
+            <p>Results cannot be 100% guaranteed, and may vary from person to person.</p>
+            <div class="social-btns text-center">
+                <div class="social">
+                    <ul class="social-network social-circle">
+                        <li><a href="https://www.facebook.com/draagustinaalvarez"
+                                aria-label="Facebook of Dr. Agustina Álvarez"> <i class="fa fa-lg fa-facebook"></i></a>
+                        </li>
+                        <li><a href="https://www.instagram.com/draagustinaalvarez"
+                                aria-label="Instagram of Dr. Agustina Álvarez"> <i
+                                    class="fa fa-lg fa-instagram"></i></a></li>
+                        <li><a href="https://www.linkedin.com/in/draagustina-alvarez"
+                                aria-label="LinkedIn of Dr. Agustina Álvarez"> <i class="fa fa-lg fa-linkedin"></i></a>
+                        </li>
+                        <li><a href="https://agustina-alvarez.medium.com/" aria-label="Medium of Dr. Agustina Álvarez">
+                                <i class="fa fa-lg fa-medium"></i></a></li>
+                        <!--<li><a href="#"><i class="fa fa-lg fa-youtube"></i></a></li>-->
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script>
+        function toggleMenu() {
+            var menu = document.getElementById('bs-example-navbar-collapse-1');
+            if (menu.classList.contains('open')) {
+                menu.classList.remove('open');
+            } else {
+                menu.classList.add('open');
+            }
+        }
+    </script>
+    <script type="application/ld+json">
+			{
+			  "@context": "https://schema.org",
+			  "@type": "BreadcrumbList",
+			  "itemListElement": [
+				{
+				  "@type": "ListItem",
+				  "position": 1,
+				  "name": "Home",
+				  "item": "https://agustinaalvarez.com/en"
+				},
+				{
+				  "@type": "ListItem",
+				  "position": 2,
+				  "name": "Treatments",
+				  "item": "https://agustinaalvarez.com/en/tratamientos.html"
+				}
+			  ]
+			}
+		</script>
+    <!--Change Scroll Menu Color-->
+    <script>
+        window.addEventListener('scroll', function () {
+            var navbar = document.querySelector('.navbar');
+            if (window.pageYOffset > 50) { // Change this value according to when you want the change to occur
+                navbar.classList.add('scrolled');
+            } else {
+                navbar.classList.remove('scrolled');
+            }
+        });
+    </script>
+    <!--Whatsapp-->
+    <div id="whatsapp-link"></div>
+    <script>
+        window.addEventListener('scroll', function () {
+            var whatsappLink = '<a href="https://api.whatsapp.com/send?phone=5491124717170&text=I+want+an+Initial+Consultation" class="float" target="_blank"><i class="fa fa-whatsapp my-float"></i></a>';
+            document.getElementById('whatsapp-link').innerHTML = whatsappLink;
+        }, { once: true }); // This ensures the event is executed only once.
+    </script>
+
+</body>
+
+</html>

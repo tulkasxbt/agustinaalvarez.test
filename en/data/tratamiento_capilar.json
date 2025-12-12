@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Frequently Asked Questions - Hair Erbium",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is hair Erbium laser and how does it work?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hair Erbium laser is a medical treatment that generates controlled microchannels in the scalp, allowing better absorption of actives such as vitamins, growth factors or drugs, and stimulating the hair follicle to improve hair quality."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is the hair Erbium treatment painful?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is a minimally invasive procedure that is usually well tolerated. It may generate a slight sensation of heat or small discomfort during application, but does not require anesthesia or prolonged recovery times."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How many hair Erbium sessions do I need?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Usually between 4 and 6 sessions, spaced every 3 to 4 weeks. The amount is adjusted according to medical diagnosis and the evolution of each patient."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What results can I expect from hair Erbium laser?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The treatment helps reduce hair loss, improve hair density and thickness, and provide greater vitality and shine. Results are progressive and optimized when combined with mesotherapy or PRP."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "For what type of hair loss is hair Erbium indicated?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Erbium laser is useful in cases of diffuse hair loss, telogen effluvium due to stress or postpartum, and hair thinning. In advanced androgenetic alopecia it is used as part of a comprehensive treatment plan."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Can hair Erbium be combined with other treatments?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, it is common to combine it with mesotherapy, platelet-rich plasma (PRP), and topical drugs like minoxidil to enhance results."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is there recovery time after the treatment?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No recovery time is required. The patient can return to their usual activities immediately, although a slight temporary redness may be observed in the treated area."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How long does a hair Erbium session last?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Each session usually lasts between 30 and 45 minutes, depending on the extent of the area to be treated and the products applied in combination."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is hair Erbium a safe treatment?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, it is a safe treatment when performed by a specialized doctor with appropriate equipment. A medical protocol is followed that minimizes risks and ensures an effective procedure."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is hair Erbium laser only for men?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the treatment is indicated for both men and women, adapting the protocol to the causes of hair loss and the individual characteristics of each patient."
+            }
+        }
+    ]
+}

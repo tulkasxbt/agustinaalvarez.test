@@ -1,0 +1,537 @@
+{
+  "sculptra": {
+    "display": "Sculptra",
+    "currency": "ARS",
+    "variants": [
+      {
+        "key": "default",
+        "name": "Sculptra",
+        "price": 660000
+      }
+    ],
+    "featured": {
+      "key": "default",
+      "price": 660000
+    }
+  },
+  "long-lasting": {
+    "display": "Long Lasting",
+    "currency": "ARS",
+    "variants": [
+      {
+        "key": "default",
+        "name": "Long Lasting",
+        "price": 420000
+      }
+    ],
+    "featured": {
+      "key": "default",
+      "price": 420000
+    }
+  },
+  "radiesse": {
+    "display": "Radiesse",
+    "currency": "ARS",
+    "variants": [
+      {
+        "key": "default",
+        "name": "Radiesse",
+        "price": 420000
+      }
+    ],
+    "featured": {
+      "key": "default",
+      "price": 420000
+    }
+  },
+  "profhilo": {
+    "display": "Profhilo",
+    "currency": "ARS",
+    "variants": [
+      {
+        "key": "default",
+        "name": "Profhilo",
+        "price": 480000
+      }
+    ],
+    "featured": {
+      "key": "default",
+      "price": 480000
+    }
+  },
+  "enzimas-pb-serum": {
+    "display": "Enzimas PB Serum",
+    "currency": "ARS",
+    "variants": [
+      {
+        "key": "default",
+        "name": "Enzimas PB Serum",
+        "price": 192000
+      }
+    ],
+    "featured": {
+      "key": "default",
+      "price": 192000
+    }
+  },
+  "botox": {
+    "display": "Botox",
+    "currency": "ARS",
+    "variants": [
+      {
+        "key": "frente",
+        "name": "Frente Completa",
+        "price": 360000
+      },
+      {
+        "key": "entrecejo",
+        "name": "Entrecejo",
+        "price": 254000
+      },
+      {
+        "key": "patas-de-gallo",
+        "name": "Patas de Gallo",
+        "price": 277000
+      },
+      {
+        "key": "bruxismo",
+        "name": "Bruxismo",
+        "price": 432000
+      },
+      {
+        "key": "gingivitis",
+        "name": "Sonrisa Gingival",
+        "price": 227000
+      },
+      {
+        "key": "axila",
+        "name": "Hiperhidrosis",
+        "price": 692400
+      },
+      {
+        "key": "cuello",
+        "name": "Cuello",
+        "price": 692400
+      }
+    ],
+    "featured": {
+      "key": "frente",
+        "price": 360000
+    }
+  },
+  "rellenos-acido-hialuronico": {
+    "display": "Rellenos con Ácido Hialurónico",
+    "currency": "ARS",
+    "variants": [
+      {
+        "key": "periorbicular",
+        "name": "Periorbicular",
+        "price": 360000
+      },
+      {
+        "key": "peribucal",
+        "name": "Peribucal",
+        "price": 360000
+      },
+      {
+        "key": "ojeras",
+        "name": "Ojeras",
+        "price": 360000
+      },
+      {
+        "key": "labios",
+        "name": "Labios",
+        "price": 360000
+      },
+      {
+        "key": "marioneta",
+        "name": "Marioneta",
+        "price": 360000
+      },
+      {
+        "key": "reposicion-malar",
+        "name": "Reposición Malar",
+        "price": 360000
+      },
+      {
+        "key": "menton-mandibular",
+        "name": "Menton - Mandibular",
+        "price": 360000
+      }
+    ],
+    "featured": {
+      "key": "periorbicular",
+      "price": 360000
+    }
+  },
+    "rellenos-labios-hialuronico": {
+    "display": "Rellenos de Labios",
+    "currency": "ARS",
+    "variants": [
+      {
+        "key": "labios",
+        "name": "Labios",
+        "price": 360000
+      }
+    ],
+    "featured": {
+      "key": "labios",
+        "price": 360000
+    }
+  },
+  "plasma": {
+    "display": "Plasma Rico en Plaquetas (PRP)",
+    "currency": "ARS",
+    "variants": [
+      {
+        "key": "facial",
+        "name": "Facial",
+        "price": 149000
+      },
+      {
+        "key": "ojeras",
+        "name": "Ojeras",
+        "price": 82000
+      },
+      {
+        "key": "escote",
+        "name": "Escote",
+        "price": 140000
+      },
+      {
+        "key": "cuello",
+        "name": "Cuello",
+        "price": 47000
+      },
+      {
+        "key": "manos",
+        "name": "Manos",
+        "price": 47000
+      }
+    ],
+    "featured": {
+      "key": "facial",
+      "price": 149000
+    }
+  },
+  "luz-pulsada-ipl": {
+    "display": "Luz Pulsada (IPL)",
+    "currency": "ARS",
+    "variants": [
+      {
+        "key": "facial",
+        "name": "Facial",
+        "price": 300000
+      },
+      {
+        "key": "escote",
+        "name": "Escote",
+        "price": 300000
+      },
+      {
+        "key": "cuello",
+        "name": "Cuello",
+        "price": 180000
+      },
+      {
+        "key": "manos",
+        "name": "Manos",
+        "price": 180000
+      }
+    ],
+    "featured": {
+      "key": "facial",
+      "price": 300000
+    }
+  },
+  "laser-qswitch-clearlift": {
+    "display": "Láser Q-Switch",
+    "currency": "ARS",
+    "variants": [
+      {
+        "key": "melasma",
+        "name": "Melasma",
+        "price": 300000
+      },
+      {
+        "key": "acne",
+        "name": "Acné",
+        "price": 300000
+      },
+      {
+        "key": "rejuvenecimiento",
+        "name": "Rejuvenecimiento",
+        "price": 300000
+      },
+      {
+        "key": "ojeras-o-labios",
+        "name": "Ojeras o Labios",
+        "price": 150000
+      },
+      {
+        "key": "manos",
+        "name": "Manos",
+        "price": 210000
+      },
+      {
+        "key": "cuello",
+        "name": "Cuello",
+        "price": 210000
+      },
+      {
+        "key": "escote",
+        "name": "Escote",
+        "price": 300000
+      }
+    ],
+    "featured": {
+      "key": "melasma",
+      "price": 300000
+    }
+  },
+  "laser-erbium": {
+    "display": "Láser Erbium",
+    "currency": "ARS",
+    "variants": [
+      {
+        "key": "facial",
+        "name": "Facial",
+        "price": 240000
+      },
+      {
+        "key": "ojeras",
+        "name": "Ojeras",
+        "price": 120000
+      },
+      {
+        "key": "nariz",
+        "name": "Nariz",
+        "price": 96000
+      },
+      {
+        "key": "escote",
+        "name": "Escote",
+        "price": 192000
+      },
+      {
+        "key": "manos",
+        "name": "Manos",
+        "price": 120000
+      },
+      {
+        "key": "cuello",
+        "name": "Cuello",
+        "price": 120000
+      },
+      {
+        "key": "nariz-menton",
+        "name": "Nariz + Mentón",
+        "price": 120000
+      },
+      {
+        "key": "facial-escote-manos",
+        "name": "Facial + Escote + Manos",
+        "price": 414000
+      }
+    ],
+    "featured": {
+      "key": "facial-escote-manos",
+      "price": 414000
+    }
+  },
+  "peeling": {
+    "display": "Peeling Médico",
+    "currency": "ARS",
+    "variants": [
+      {
+        "key": "peeling",
+        "name": "Peeling Médico",
+        "price": 96000
+      },
+      {
+        "key": "peeling-periocular",
+        "name": "Peeling Periocular con la Dra.",
+        "price": 80500
+      }
+    ],
+    "featured": {
+      "key": "peeling",
+      "price": 96000
+    }
+  },
+  "alquimia": {
+    "display": "Alquimia",
+    "currency": "ARS",
+    "variants": [
+      {
+        "key": "facial",
+        "name": "Limpieza Profunda Facial",
+        "price": 60000
+      },
+      {
+        "key": "cuello",
+        "name": "Limpieza Profunda Cuello",
+        "price": 30000
+      },
+      {
+        "key": "escote",
+        "name": "Limpieza Profunda Escote",
+        "price": 60000
+      }
+    ],
+    "featured": {
+      "key": "facial",
+      "price": 60000
+    }
+  },
+  "mesoterapia": {
+    "display": "Mesoterapia Española",
+    "currency": "ARS",
+    "variants": [
+      {
+        "key": "espanola-facial",
+        "name": "Meso Española Facial",
+        "price": 42000
+      },
+      {
+        "key": "espanola-labios",
+        "name": "Meso Española Labios",
+        "price": 42000
+      },
+      {
+        "key": "espanola-ojeras",
+        "name": "Meso Española Ojeras",
+        "price": 42000
+      }
+    ],
+    "featured": {
+      "key": "espanola-facial",
+        "price": 42000
+    }
+  },  
+  "mesoterapia-filorga": {
+    "display": "Mesoterapia Filorga",
+    "currency": "ARS",
+    "variants": [
+      {
+        "key": "francesa-facial-150",
+        "name": "Mesoterapia Francesa Facial - Filorga",
+        "price": 150000
+      },
+      {
+        "key": "francesa-ojeras",
+        "name": "Mesoterapia Francesa Ojeras - Filorga",
+        "price": 130000
+      }
+    ],
+    "featured": {
+      "key": "francesa-facial-150",
+      "price": 150000
+    }
+  }, 
+  "radiofrecuencia": {
+    "display": "Radiofrecuencia Facial",
+    "currency": "ARS",
+    "variants": [
+      {
+        "key": "facial",
+        "name": "Radiofrecuencia Facial",
+        "price": 120000
+      },
+      {
+        "key": "cuello",
+        "name": "Radiofrecuencia Cuello",
+        "price": 73000
+      },
+      {
+        "key": "escote",
+        "name": "Radiofrecuencia Escote",
+        "price": 120000
+      }
+    ],
+    "featured": {
+      "key": "facial",
+      "price": 120000
+    }
+  },
+    "capilar": {
+    "display": "Tratamiento Capilar",
+    "currency": "ARS",
+    "variants": [
+      {
+        "key": "prpcapilar",
+        "name": "PRP Capilar",
+        "price": 132000
+      },
+      {
+        "key": "mesoterapia",
+        "name": "Mesoterapia",
+        "price": 48000
+      },
+      {
+        "key": "erbium",
+        "name": "Mesoterapia + Erbium",
+        "price": 96000
+      }
+    ],
+    "featured": {
+      "key": "prpcapilar",
+        "price": 132000
+    }
+  },
+  "celulitis": {
+    "display": "Tratamiento de Celulitis (por zona)",
+    "currency": "ARS",
+    "variants": [
+      {
+        "key": "pierna-anterior",
+        "name": "Pierna Anterior",
+        "price": 130000
+      },
+      {
+        "key": "pierna-posterior",
+        "name": "Pierna Posterior",
+        "price": 130000
+      },
+      {
+        "key": "pierna-interna",
+        "name": "Pierna Interna",
+        "price": 130000
+      },
+      {
+        "key": "silla-de-montar",
+        "name": "Silla de Montar",
+        "price": 130000
+      },
+      {
+        "key": "flancos",
+        "name": "Flancos",
+        "price": 130000
+      },
+      {
+        "key": "abdomen",
+        "name": "Abdomen",
+        "price": 130000
+      },
+      {
+        "key": "gluteos",
+        "name": "Glúteos",
+        "price": 130000
+      },
+      {
+        "key": "brazos",
+        "name": "Brazos",
+        "price": 130000
+      },
+      {
+        "key": "rodilla",
+        "name": "Rodilla",
+        "price": 130000
+      }
+    ],
+    "featured": {
+      "key": "pierna-anterior",
+      "price": 130000
+    }
+  }
+}

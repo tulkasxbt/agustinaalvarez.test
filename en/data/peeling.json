@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Frequently Asked Questions - Peeling and Alquimia",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is peeling and what is it for?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Peeling is a dermatological procedure that removes the superficial layers of the skin to improve its texture, eliminate imperfections, and stimulate cellular regeneration. It is used to treat fine wrinkles, spots, scars, and acne."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What types of peeling are available?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "There are several types of peeling:<br>✅ <b>Chemical Peeling</b>: Acids are used to exfoliate the skin and stimulate collagen.<br>✅ <b>Mechanical Peeling</b>: Performed with microdermabrasion or special equipment.<br>✅ <b>Enzymatic Peeling</b>: Uses natural enzymes to gently exfoliate the skin."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How many peeling sessions are needed to see results?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The number of sessions depends on the type of peeling and the problem to be treated. Generally, between **3 and 6 sessions** are recommended, with an interval of 15 to 30 days between each one."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What are the aftercare instructions after a peeling?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After a peeling, it is recommended to:<br>✅ Avoid direct sun exposure.<br>✅ Apply sunscreen with SPF 50.<br>✅ Use moisturizing and repairing creams.<br>✅ Do not exfoliate or use irritating products until full skin recovery."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Who cannot get a peeling?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Peeling is not recommended for:<br>🚫 People with active skin infections.<br>🚫 Pregnant or breastfeeding women.<br>🚫 People with very sensitive skin or allergic reactions to the acids used in the peeling."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is Alquimia and how does it work?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Alquimia is an advanced system that combines mechanical and chemical exfoliation technology with personalized active ingredients. It is used to renew the skin, improve its texture, and treat conditions such as spots, wrinkles, and acne scars."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What benefits does the Alquimia treatment have?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The benefits of Alquimia include:<br>✅ Deep exfoliation without damaging the skin.<br>✅ Collagen stimulation to improve skin firmness.<br>✅ Attenuation of spots, scars, and expression lines.<br>✅ Progressive and lasting results."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How many Alquimia sessions are recommended?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An average of **4 to 6 sessions** is recommended, depending on the needs of each patient. Intervals may vary between 15 and 30 days depending on the intensity of the treatment."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Can Alquimia be combined with other treatments?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, Alquimia complements:<br>✅ <b>PRP (Platelet Rich Plasma)</b> to enhance cellular regeneration.<br>✅ <b>Radiofrequency</b> to improve skin firmness.<br>✅ <b>Skin Boosters</b> for greater hydration and luminosity."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What are the aftercare instructions after an Alquimia session?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After the Alquimia treatment, it is recommended to:<br>✅ Use SPF 50 sunscreen daily.<br>✅ Hydrate the skin with appropriate creams.<br>✅ Avoid intense sun exposure and makeup for 24 hours.<br>✅ Do not perform additional exfoliations for at least 7 days."
+            }
+        }
+    ]
+}

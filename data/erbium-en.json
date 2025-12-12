@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Preguntas Frecuentes - Láser Erbium Harmony XL Pro",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is the Erbium laser and how does it work?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El láser Erbium del sistema Harmony XL Pro es una tecnología ablativa que elimina las capas superficiales de la piel para tratar manchas, arrugas finas y cicatrices. <br>Su longitud de onda de 2940 nm permite una ablación precisa con menor daño térmico en comparación con otros láseres, favoreciendo una recuperación más rápida y resultados efectivos en rejuvenecimiento facial."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What conditions can be treated with the Erbium laser?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El láser Erbium es ideal para mejorar:<ul style='list-style: none; padding-left: 0;'><li>✅ <b>Manchas solares y melasma leve:</b> Reduce la pigmentación sin riesgo de hiperpigmentación postinflamatoria.</li><li>✅ <b>Arrugas finas y líneas de expresión:</b> Mejora la textura y estimula la producción de colágeno.</li><li>✅ <b>Cicatrices de acné:</b> Reduce la profundidad de cicatrices atróficas.</li><li>✅ <b>Piel opaca o dañada por el sol:</b> Unifica el tono y mejora la luminosidad.</li></ul> Se puede aplicar en rostro, cuello, escote y manos."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How many sessions are needed to see results?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El número de sesiones varía según la condición a tratar. Para manchas y rejuvenecimiento, suelen recomendarse **1 a 3 sesiones**, con intervalos de 4 a 6 semanas. <br>Los primeros cambios pueden notarse después de la primera sesión, pero los efectos de regeneración y producción de colágeno continúan mejorando en los meses siguientes."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is the recovery like after the treatment?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El tiempo de recuperación depende de la intensidad del tratamiento. <br>En procedimientos suaves, hay un leve enrojecimiento y descamación durante 3 a 5 días. En tratamientos más profundos, la recuperación puede tardar entre 7 y 10 días. <br>Es fundamental usar protector solar y evitar la exposición directa al sol."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Does the Erbium laser treatment hurt?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El procedimiento puede generar una sensación de calor o ardor, pero se aplica anestesia tópica para mayor comodidad. <br>Después de la sesión, la piel puede estar enrojecida y con una leve inflamación, similar a una quemadura solar leve, que desaparece en pocos días."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Can the Erbium laser be used on dark skin?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí, pero con precaución. <br>A diferencia de otros láseres ablativos, el Erbium tiene menor riesgo de hiperpigmentación en pieles oscuras. <br>Sin embargo, en casos de pieles fototipo IV-VI, se recomienda una evaluación médica previa y un protocolo personalizado para evitar efectos secundarios."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What are the aftercare instructions following an Erbium laser treatment?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Después del tratamiento, es clave:<ul style='list-style: none; padding-left: 0;'><li>✅ Usar protector solar SPF 50+ diariamente.</li><li>✅ Mantener la piel hidratada con cremas específicas.</li><li>✅ Evitar exfoliantes o productos irritantes por al menos una semana.</li><li>✅ No exponerse al sol directamente por 4 a 6 semanas.</li></ul> Seguir estos cuidados asegura una correcta regeneración de la piel y mejores resultados."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is the difference between the Erbium and CO2 lasers?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ambos son láseres ablativos, pero el Erbium tiene menos daño térmico y una recuperación más rápida. <br>🔹 <b>Erbium (2940 nm):</b> Ablación más superficial, ideal para manchas, arrugas finas y piel sensible. <br>🔹 <b>CO2 (10.600 nm):</b> Penetración más profunda, recomendado para cicatrices severas y envejecimiento avanzado."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How long do Erbium laser results last?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Los resultados pueden durar entre **1 y 3 años**, dependiendo del tipo de piel, los cuidados posteriores y la exposición solar. <br>Para mantener los efectos, se recomienda una sesión anual de mantenimiento junto con una rutina de cuidado de la piel adecuada."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is it safe to combine the Erbium laser with other treatments?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí, se puede combinar con:<ul style='list-style: none; padding-left: 0;'><li>✅ <b>Bioestimuladores (Sculptra, Radiesse):</b> Potencian la producción de colágeno.</li><li>✅ <b>Peelings químicos:</b> Complementan el tratamiento en pieles con daño solar.</li><li>✅ <b>Toxina botulínica (Botox):</b> Mejora arrugas dinámicas mientras el láser trabaja en la textura.</li></ul> La combinación debe ser indicada por un profesional para evitar reacciones adversas."
+            }
+        }
+    ]
+}

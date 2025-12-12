@@ -1,0 +1,87 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Frequently Asked Questions - Home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can the Aesthetic Center help me improve my appearance and confidence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "At Dr. Agustina Álvarez’s Aesthetic Center in Belgrano, we focus on creating changes that go beyond the aesthetic. We accompany you so you feel good about yourself, achieving a positive impact on your image and confidence."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How are treatments personalized for each patient?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "At Dr. Álvarez’s Aesthetic Center in Belgrano, every treatment is designed around your individual needs. Dr. Álvarez and her team adjust each session to reflect the results you want, giving you the confidence of a center that adapts to you every step of the way."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What types of facial and body treatments do you offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We offer a wide range of aesthetic treatments, from botulinum toxin and hyaluronic acid to advanced laser procedures like Erbium and Q-Switch. At Dr. Agustina Álvarez’s Aesthetic Center in Belgrano, we help you find the ideal treatment to care for and enhance your natural beauty."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the approach of the Aesthetic Center to support patients through their aesthetic journey?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Aesthetic Center in Belgrano stands out for its warm, personalized care and comprehensive support in every treatment. We want you to leave thinking, 'This aesthetic center is close to me,' both in terms of location and emotional connection."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are the treatments medically supervised?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Dr. Agustina Álvarez personally supervises each treatment along with a trained team, ensuring a safe and professional experience. When you choose the Aesthetic Center in Belgrano, you’re placing your trust in highly qualified aesthetic medicine specialists."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What results can I expect from body treatments for cellulite, sagging, or localized fat?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You’ll start noticing improvements in skin texture and firmness from the first sessions. We use state-of-the-art technology like Accent Prime, specifically designed for advanced body treatments. At Dr. Álvarez’s Aesthetic Center in Belgrano, every plan is tailored to meet your goals with visible and natural results."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much time does the Aesthetic Center dedicate to each patient?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We’re known for unhurried, personalized care. At Dr. Agustina Álvarez’s Aesthetic Center in Belgrano, each patient receives the time and attention needed to achieve the best results, in a space designed for your comfort."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What can I expect during my first visit to the Aesthetic Center?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "During your first visit, Dr. Agustina Álvarez and her team will listen to your expectations and answer your questions to create a personalized plan. We want you to feel understood and cared for, in the expert hands of our Belgrano team."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it possible to achieve natural-looking results with aesthetic treatments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Our philosophy is to enhance your beauty in a natural way. With options like botulinum toxin, biostimulators, and hyaluronic acid, we aim to harmonize your face and body. At Dr. Álvarez’s Aesthetic Center in Belgrano, the results respect your essence so you feel truly yourself."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What makes Dr. Agustina Álvarez’s Aesthetic Center in Belgrano different?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dr. Agustina Álvarez leads our Aesthetic Center in Belgrano, ensuring that every treatment is carefully planned and medically supervised. We offer personalized and dedicated care at every stage, always prioritizing your well-being and satisfaction."
+      }
+    }
+  ]
+}

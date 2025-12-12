@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Frequently Asked Questions - Body Treatments with Accent Prime",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What aesthetic treatments help improve body laxity?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The most effective treatments for improving body laxity are:<br>🔹 <b>Accent Prime Radiofrequency:</b> Stimulates collagen production and improves skin firmness.<br>🔹 <b>Selective Ultrasound:</b> Helps break down fat cells and improve body contour.<br>🔹 <b>Biostimulators like Sculptra or Radiesse:</b> Promote deep collagen production.<br>These treatments are non-invasive and offer progressive results without surgery."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How does Accent Prime work on abdomen, arm, and thigh laxity?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Accent Prime uses <b>unipolar radiofrequency</b> to heat the deep layers of the skin and stimulate collagen production.<br>📌 <b>Abdomen:</b> Reduces post-partum or post-weight loss laxity.<br>📌 <b>Arms:</b> Improves tone and firmness.<br>📌 <b>Thighs and buttocks:</b> Helps tighten skin and redefines body contour.<br>Results are achieved in a few sessions and maintained with periodic maintenance."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Does Accent Prime help reduce localized fat?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, Accent Prime combines <b>unipolar radiofrequency</b> with <b>selective ultrasound</b>, which acts on fat cells, breaking them down and facilitating their natural elimination by the body.<br>📌 Recommended areas: abdomen, flanks, thighs, and arms.<br>📌 It is not a weight loss treatment, but rather for improving body contour and reducing localized adiposity."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How many Accent Prime sessions are needed to see results?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The number of sessions varies according to the degree of laxity or adiposity, but generally recommended are:<br>🔹 <b>Mild to moderate laxity:</b> 4 to 6 sessions.<br>🔹 <b>Localized fat reduction:</b> 6 to 8 sessions.<br>🔹 <b>Cellulite:</b> 6 to 10 sessions.<br>Results begin to be visible after the second or third session and continue to improve up to 12 weeks after treatment."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is the Accent Prime treatment painful?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, it is a well-tolerated procedure. A sensation of moderate heat is felt in the treated area, but the Accent Prime cooling system protects the skin and minimizes any discomfort."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Does radiofrequency help improve cellulite?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, Accent Prime improves mild to moderate cellulite by:<br>🔹 Favoring collagen and elastin production.<br>🔹 Improving blood and lymphatic circulation.<br>🔹 Decreasing fluid retention.<br>For better results, it can be combined with biostimulators like Radiesse or Sculptra."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How long do Accent Prime treatment results last?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Effects are progressive and can last several months. Maintenance sessions are recommended every 4 to 6 months to prolong results."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Who cannot undergo treatments with Accent Prime?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The treatment is not recommended for:<br>🚫 Pregnant or breastfeeding women.<br>🚫 Patients with pacemakers or metal implants in the treated area.<br>🚫 People with autoimmune diseases or skin infections.<br>🚫 Cases of severe obesity, as the treatment is aimed at improving body contour, not weight loss."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Does Accent Prime replace body lifting surgery?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, Accent Prime is a non-invasive treatment to improve skin firmness and texture. It does not replace lifting surgery in cases of severe laxity, but it is an excellent alternative for those looking to improve their appearance without surgical procedures."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Can different treatments be combined for better results?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, combining treatments can enhance results:<br>✅ <b>Accent Prime + Sculptra:</b> Improves skin firmness with collagen stimulation.<br>✅ <b>Accent Prime + Radiesse:</b> Provides greater tone and tightening effect.<br>✅ <b>Accent Prime + PB Serum:</b> Reduces localized fat and improves skin quality.<br>We always perform a personalized evaluation to design the best treatment plan."
+            }
+        }
+    ]
+}

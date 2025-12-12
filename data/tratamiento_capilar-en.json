@@ -1,0 +1,87 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Preguntas Frecuentes - Erbium Capilar",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is el láser Erbium capilar y cómo does it work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El láser Erbium capilar es un tratamiento médico que genera microcanales controlados en el cuero cabelludo, permitiendo una mejor absorción de activos como vitaminas, factores de crecimiento o fármacos, y estimulando el folículo piloso para mejorar la calidad del cabello."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "El tratamiento con Erbium capilar is it painful?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Es un procedimiento mínimamente invasivo que suele ser bien tolerado. Puede generar una leve sensación de calor o pequeñas molestias durante la aplicación, pero no requiere anestesia ni tiempos prolongados de recuperación."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many sessions de Erbium capilar necesito?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lo habitual son entre 4 y 6 sesiones, espaciadas cada 3 a 4 semanas. La cantidad se ajusta según el diagnóstico médico y la evolución de cada paciente."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qué resultados puedo esperar del láser Erbium capilar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El tratamiento ayuda a reducir la caída del cabello, mejorar la densidad y el grosor del pelo y aportar mayor vitalidad y brillo. Los resultados son progresivos y se optimizan al combinarlo con mesoterapia o PRP."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Para qué tipo de caída del cabello está indicado el Erbium capilar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El láser Erbium es útil en casos de caída difusa, efluvio telógeno por estrés o postparto y en afinamiento capilar. En alopecia androgenética avanzada se utiliza como parte de un plan integral de tratamiento."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can it be combined el Erbium capilar con otros tratamientos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sí, es habitual combinarlo con mesoterapia, plasma rico en plaquetas (PRP) y fármacos tópicos como minoxidil para potenciar los resultados."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Hay tiempo de recuperación después del tratamiento?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No se requiere tiempo de recuperación. El paciente puede retomar sus actividades habituales de inmediato, aunque puede observarse un leve enrojecimiento temporal en la zona tratada."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuánto tiempo dura una sesión de Erbium capilar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cada sesión suele durar entre 30 y 45 minutos, dependiendo de la extensión del área a tratar y de los productos que se apliquen en combinación."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "El Erbium capilar es un tratamiento seguro?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sí, es un tratamiento seguro cuando lo realiza un médico especializado con equipos adecuados. Se sigue un protocolo médico que minimiza los riesgos y asegura un procedimiento eficaz."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "El láser Erbium capilar es solo para hombres?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, el tratamiento está indicado tanto para hombres como para mujeres, adaptando el protocolo a las causas de la caída y las características individuales de cada paciente."
+      }
+    }
+  ]
+}

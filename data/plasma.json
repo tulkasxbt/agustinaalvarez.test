@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Preguntas Frecuentes - Plasma Rico en Plaquetas (PRP)",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "¿Qué es el Plasma Rico en Plaquetas (PRP) y cómo funciona?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El PRP es un tratamiento regenerativo que utiliza los factores de crecimiento presentes en la sangre del paciente para estimular la producción de colágeno, mejorar la calidad de la piel y acelerar la regeneración celular."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cuáles son los beneficios del PRP para la piel?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El PRP mejora la calidad de la piel gracias a:<br>✅ <b>Estimulación del colágeno</b>, reduciendo arrugas y líneas finas.<br>✅ <b>Mayor luminosidad</b> y aspecto rejuvenecido.<br>✅ <b>Mejora de cicatrices</b> de acné y manchas cutáneas.<br>✅ <b>Hidratación y firmeza</b> de la piel."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿En qué zonas del rostro y cuerpo se puede aplicar PRP?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El PRP es ideal para:<br>✅ <b>Rostro</b>: Arrugas, flacidez y rejuvenecimiento general.<br>✅ <b>Cuello y escote</b>: Piel más firme y luminosa.<br>✅ <b>Manos</b>: Rejuvenecimiento y tratamiento de manchas.<br>✅ <b>Cuero cabelludo</b>: Estimulación del crecimiento capilar en alopecia."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cuántas sesiones de PRP se necesitan para ver resultados?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Generalmente, se recomiendan **3 sesiones** con un intervalo de **4 semanas** entre cada una. Los resultados comienzan a ser visibles a partir del primer mes y continúan mejorando con el tiempo."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cuánto duran los efectos del PRP?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Los efectos pueden durar entre **6 y 12 meses**, dependiendo del tipo de piel y los cuidados posteriores. Se recomienda una sesión de mantenimiento cada 6 meses para prolongar los beneficios."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿El tratamiento con PRP es doloroso?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La aplicación puede generar una leve molestia, pero en general es bien tolerada. Se pueden utilizar anestésicos tópicos para minimizar cualquier incomodidad."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cuáles son los cuidados después de un tratamiento con PRP?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Después del tratamiento se recomienda:<br>✅ Evitar maquillaje y productos irritantes por 24 horas.<br>✅ No exponerse al sol directamente ni usar camas solares.<br>✅ Evitar actividad física intensa y sauna por 48 horas.<br>✅ Mantener una hidratación adecuada."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Quiénes no pueden realizarse el tratamiento con PRP?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El tratamiento no está indicado en:<br>🚫 Mujeres embarazadas o en período de lactancia.<br>🚫 Pacientes con trastornos de coagulación o en tratamiento con anticoagulantes.<br>🚫 Personas con infecciones activas en la piel."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿El PRP se puede combinar con otros tratamientos?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí, el PRP se complementa con:<br>✅ <b>Botox</b> para arrugas dinámicas.<br>✅ <b>Rellenos dérmicos</b> para restaurar volumen.<br>✅ <b>Radiofrecuencia</b> para potenciar la firmeza de la piel."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿El PRP sirve para la caída del cabello?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí, el PRP capilar estimula el crecimiento del cabello y fortalece los folículos. Se utiliza en alopecia androgenética y caída estacional."
+            }
+        }
+    ]
+}

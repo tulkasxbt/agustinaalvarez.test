@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Preguntas Frecuentes - Rellenos de Ácido Hialurónico",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "¿Qué es el ácido hialurónico y para qué sirve?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El ácido hialurónico es una sustancia natural presente en la piel que retiene agua y mantiene la hidratación. <br>En estética, se utiliza para rellenar arrugas, restaurar volumen y mejorar la estructura facial y corporal de manera segura y efectiva."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cuáles son las zonas más tratadas con ácido hialurónico?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Las áreas más comunes para aplicar ácido hialurónico son:<br>✅ <b>Labios:</b> Aumento de volumen y definición.<br>✅ <b>Ojeras:</b> Reducción de sombras y surcos.<br>✅ <b>Surcos nasogenianos:</b> Atenuación de pliegues profundos.<br>✅ <b>Pómulos y mandíbula:</b> Reafirmación y contorno facial.<br>✅ <b>Manos:</b> Hidratación y rejuvenecimiento.<br>✅ <b>Glúteos:</b> Definición y aumento de volumen."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cuánto dura el efecto del ácido hialurónico?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La duración depende de la zona tratada y el tipo de ácido hialurónico utilizado. Generalmente, los efectos duran entre **6 y 18 meses**, dependiendo del metabolismo del paciente y el producto inyectado."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿El relleno con ácido hialurónico se puede revertir?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí, si el paciente no está conforme con los resultados, se puede aplicar <b>hialuronidasa</b>, una enzima que disuelve el ácido hialurónico de manera segura y rápida."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿El tratamiento con ácido hialurónico duele?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El procedimiento es bien tolerado. Se utiliza anestesia tópica para minimizar molestias y las microinyecciones son rápidas. Algunas zonas pueden presentar leve hinchazón o enrojecimiento, que desaparecen en pocas horas."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Qué cuidados se deben tener después del tratamiento?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Después de la aplicación de ácido hialurónico, se recomienda:<br>✅ No tocar ni masajear la zona tratada.<br>✅ Evitar exposición directa al sol y calor intenso (saunas, gimnasios) por 24-48 horas.<br>✅ No consumir alcohol ni anticoagulantes el mismo día del procedimiento."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cuáles son los riesgos o efectos secundarios del ácido hialurónico?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El ácido hialurónico es seguro cuando es aplicado por profesionales capacitados. Posibles efectos secundarios leves incluyen:<br>🔹 Hinchazón temporal.<br>🔹 Enrojecimiento o hematomas en la zona.<br>🔹 Sensibilidad pasajera.<br>Estos efectos desaparecen en pocos días."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cómo elegir el mejor tipo de ácido hialurónico para mi piel?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Existen distintos tipos de ácido hialurónico según su densidad y reticulación:<br>✅ <b>Ácido hialurónico ligero:</b> Ideal para hidratación y líneas finas (labios, ojeras).<br>✅ <b>Ácido hialurónico de media densidad:</b> Para arrugas moderadas y surcos.<br>✅ <b>Ácido hialurónico denso:</b> Usado en pómulos, mandíbula y aumento de volumen en glúteos.<br>Un especialista evalúa cada caso y recomienda la mejor opción."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿El relleno con ácido hialurónico se puede combinar con otros tratamientos?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí, para mejorar los resultados se puede combinar con:<br>✅ <b>Botox:</b> Para arrugas dinámicas en frente y patas de gallo.<br>✅ <b>Radiofrecuencia Accent Prime:</b> Para mejorar la firmeza y estimular colágeno.<br>✅ <b>Peelings o láser Erbium:</b> Para renovar la piel y mejorar la textura.<br>✅ <b>Sculptra o Radiesse:</b> Para mayor producción de colágeno y duración prolongada."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Quiénes no deberían aplicarse ácido hialurónico?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No se recomienda en:<br>🚫 Mujeres embarazadas o en período de lactancia.<br>🚫 Pacientes con infecciones activas en la piel.<br>🚫 Personas con enfermedades autoinmunes sin control médico.<br>Antes de cualquier procedimiento, se realiza una evaluación médica para garantizar la seguridad del paciente."
+            }
+        }
+    ]
+}

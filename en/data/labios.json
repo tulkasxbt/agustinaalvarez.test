@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Frequently Asked Questions - Hyaluronic Acid Lip Fillers",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is lips filler with hyaluronic acid and how does it work?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lip filling with hyaluronic acid is a minimally invasive procedure that improves the shape, volume, and hydration of the lips. It is applied through microinjections of hyaluronic acid, a biocompatible and absorbable substance, which allows for natural and reversible results."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What are the benefits of lip fillers?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The main benefits are:<br>✅ <b>Volume and definition</b> without losing naturalness.<br>✅ <b>Deep hydration</b> that improves texture and elasticity.<br>✅ <b>Asymmetry correction</b> in lip contour.<br>✅ <b>Rejuvenation</b> of the perioral area, smoothing fine wrinkles ('barcode')."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How long do lip filler results last?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hyaluronic acid is naturally reabsorbed over time. Results last between **6 and 12 months**, depending on each patient's metabolism, the type of product used, and personal habits (hydration, sun exposure, smoking)."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Can lip fillers be reversed if I don't like the result?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, if necessary, hyaluronic acid can be dissolved with hyaluronidase, an enzyme that acts in minutes and allows restoring the appearance prior to treatment."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Does the lip filler procedure hurt?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The pain level is minimal. Topical anesthesia is applied before treatment, which reduces any discomfort. Additionally, some products contain lidocaine, a local anesthetic that improves tolerance during application."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is the aftercare for lip fillers?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After the procedure, it is recommended to:<br>✅ Avoid intense sun exposure for 48 hours.<br>✅ Do not massage the treated area.<br>✅ Do not consume alcohol or tobacco on the same day of treatment.<br>✅ Maintain proper hydration."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "When are lip filler results visible?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The effect is immediate, although there may be slight inflammation in the first few days. The definitive result is appreciated from **7 to 10 days**, when the product fully integrates into the tissues."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How many ml of hyaluronic acid are needed for a lip filler?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The amount varies according to the lip structure and the goal of each patient. Generally, between **0.5 ml and 1 ml** are applied in the first session to achieve a harmonious and natural result."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What are the contraindications for lip fillers?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is not recommended for:<br>🚫 Pregnant or breastfeeding women.<br>🚫 Patients with autoimmune diseases without medical control.<br>🚫 People with active infections in the area (cold sores).<br>🚫 Patients with known allergy to hyaluronic acid."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Are lip fillers safe?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, it is a safe treatment when performed by a qualified medical professional. Products approved by health authorities and with clinical backing are used."
+            }
+        }
+    ]
+}

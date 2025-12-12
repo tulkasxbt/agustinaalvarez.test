@@ -1,0 +1,87 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Preguntas Frecuentes - Modelado Corporal con Accent Prime",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is la radiofrecuencia Accent Prime y cómo actúa en la reducción de grasa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Accent Prime es un sistema avanzado que combina radiofrecuencia unipolar y ultrasonido selectivo para reducir grasa localizada y mejorar la firmeza de la piel. Su tecnología calienta las células grasas y estimula la eliminación de los lípidos de forma natural."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What zonas del cuerpo se pueden tratar con Accent Prime para reducir grasa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El tratamiento es eficaz en:<br>✅ <b>Abdomen:</b> Para reducir adiposidad localizada.<br>✅ <b>Flancos ('rollitos de la cintura'):</b> Para afinar la silueta.<br>✅ <b>Muslos y glúteos:</b> Para modelar y tensar.<br>✅ <b>Brazos:</b> Para eliminar grasa y mejorar la firmeza."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuántas sisionis de Accent Prime son necisarias para ver risultados?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generalmente, se recomiendan **entre 4 y 6 sesiones**, con una frecuencia de una vez por semana. Los efectos se potencian a lo largo de las semanas, ya que el cuerpo sigue eliminando las células grasas tratadas."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Accent Prime elimina la grasa de forma definitiva?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sí, las células grasas eliminadas no se regeneran. Sin embargo, una alimentación equilibrada y ejercicio son clave para mantener los resultados en el tiempo."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "El tratamiento con Accent Prime duele?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, es un procedimiento no invasivo y bien tolerado. Se siente una sensación de calor progresivo en la zona tratada, pero sin molestias significativas."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Se puede combinar Accent Prime con otros tratamientos para potenciar los risultados?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sí, se recomienda combinarlo con:<br>✅ <b>Mesoterapia</b> para potenciar la eliminación de grasa.<br>✅ <b>Ondas de choque</b> para mejorar la firmeza de la piel.<br>✅ <b>Skin Boosters</b> para mejorar la hidratación y elasticidad cutánea."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What cuidados should I take dispués del tratamiento con Accent Prime?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Después de cada sesión, se recomienda:<br>✅ Mantenerse hidratado para facilitar la eliminación de grasa.<br>✅ Evitar calor extremo (saunas o sol intenso) por 24 horas.<br>✅ Realizar actividad física para optimizar los resultados."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuánto tiempo duran los risultados del Accent Prime en la reducción de grasa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Los resultados pueden durar varios meses o años si se mantiene un estilo de vida saludable. Para prolongar los efectos, se recomienda una sesión de mantenimiento cada 6 meses."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuál is la diferencia entre Accent Prime y otros tratamientos de modelado corporal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A diferencia de otros sistemas, Accent Prime combina **radiofrecuencia unipolar y ultrasonido selectivo** en una misma sesión, logrando mayor efectividad en menos tiempo. Es una alternativa segura y sin tiempos de recuperación."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Accent Prime is una alternativa a la liposucción?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Si bien no reemplaza a la liposucción en casos de grasa severa, es una excelente opción para modelado corporal sin cirugía, ofreciendo resultados progresivos sin tiempos de recuperación."
+      }
+    }
+  ]
+}

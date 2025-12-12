@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Preguntas Frecuentes - laser_qswitch",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "¿Es seguro el tratamiento con láser Q-Switch Harmony para todo tipo de piel?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí, el láser Q-Switch Harmony es seguro y efectivo para la mayoría de los tipos de piel cuando es aplicado por profesionales capacitados. Evaluamos cada caso para ofrecer el mejor tratamiento y evitar cualquier reacción adversa."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Qué efectos secundarios o riesgos tiene el tratamiento?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Los efectos secundarios son leves e incluyen un enrojecimiento o hinchazón temporales, que suelen desaparecer en pocas horas. Realizamos una evaluación detallada para minimizar cualquier riesgo."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Es doloroso el tratamiento?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La mayoría de las personas experimentan una leve sensación de calor o cosquilleo. Es un procedimiento bien tolerado, pero también ofrecemos opciones para maximizar el confort del paciente durante la sesión."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cuánto tiempo tardaré en ver resultados?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Los resultados varían según la condición tratada. En general, es posible notar una mejora gradual después de la primera sesión, pero los resultados óptimos suelen aparecer tras varias sesiones."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cuántas sesiones se necesitan y cada cuánto tiempo?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La cantidad de sesiones dependerá del objetivo y el área tratada, pero en general se recomienda entre 4 y 6 sesiones, con intervalos de 4 a 6 semanas entre cada una."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Puedo tener una reacción adversa después del tratamiento?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Algunos pacientes pueden experimentar enrojecimiento o sensibilidad en la piel, lo cual es normal y desaparece rápidamente. Recomendamos seguir las indicaciones post-tratamiento para reducir cualquier posible molestia."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cómo debo cuidar mi piel antes y después del tratamiento?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Se recomienda evitar la exposición directa al sol antes y después del tratamiento y aplicar protector solar para proteger la piel. También es importante evitar productos irritantes en los días posteriores."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Es efectivo para eliminar manchas y cicatrices?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí, el láser Q-Switch Harmony es muy efectivo para mejorar manchas de sol, melasma y cicatrices de acné. Cada caso se evalúa de forma personalizada para ofrecer los mejores resultados."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Es un tratamiento costoso a largo plazo?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El costo puede parecer alto, pero a largo plazo es una inversión en la piel que ofrece beneficios duraderos, disminuyendo la necesidad de otros tratamientos o productos para mejorar las mismas condiciones."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Es compatible con otros tratamientos estéticos?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí, el láser Q-Switch Harmony puede combinarse con otros tratamientos, como rellenos y toxina botulínica. Sin embargo, es importante establecer una rutina adecuada y el orden de los tratamientos con el profesional."
+            }
+        }
+    ]
+}

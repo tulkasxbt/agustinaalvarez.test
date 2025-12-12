@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Preguntas Frecuentes - Afecciones Estéticas",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What are the most effective treatments to reduce wrinkles?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Los tratamientos más eficaces para tratar arrugas son:<br>🔹 <b>Toxina botulínica (Botox):</b> Relaja los músculos faciales y previene la formación de arrugas de expresión.<br>🔹 <b>Ácido hialurónico:</b> Hidrata la piel y rellena líneas finas y surcos profundos.<br>🔹 <b>Radiofrecuencia Accent Prime:</b> Estimula la producción de colágeno y mejora la firmeza.<br>🔹 <b>Láser Q-Switch:</b> Rejuvenece la piel y mejora la textura.<br>El tratamiento más adecuado depende del tipo de arruga y la zona a tratar."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How can facial and body laxity be improved?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La flacidez se puede tratar con:<br>✅ <b>Radiofrecuencia Accent Prime:</b> Actúa en las capas profundas de la piel, estimulando colágeno y tensando los tejidos.<br>✅ <b>Bioestimuladores (Sculptra y Radiesse):</b> Reafirman la piel mediante la producción de colágeno.<br>✅ <b>Hilos tensores:</b> Proveen un efecto lifting sin cirugía.<br>✅ <b>Láser Erbium:</b> Rejuvenece y mejora la firmeza cutánea.<br>El tratamiento se elige según la zona y el grado de flacidez."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What options are there to increase lip volume?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El tratamiento más seguro y efectivo es el <b>relleno con ácido hialurónico</b>, ya que:<br>🔹 Aporta volumen natural y definido.<br>🔹 Hidrata profundamente la piel de los labios.<br>🔹 Puede corregir asimetrías y mejorar el contorno labial.<br>Los resultados son inmediatos y pueden durar entre 6 y 12 meses."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How can acne or surgical scars be treated?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Los tratamientos más efectivos para cicatrices son:<br>🔹 <b>Láser Erbium:</b> Reduce cicatrices atróficas y mejora la textura de la piel.<br>🔹 <b>Peeling químico:</b> Favorece la regeneración celular y suaviza marcas.<br>🔹 <b>Ácido hialurónico:</b> Puede rellenar cicatrices deprimidas.<br>Dependiendo del tipo de cicatriz, se elige el tratamiento más adecuado."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Does the Q-Switch laser help remove skin spots?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí, el <b>láser Q-Switch</b> es ideal para tratar:<br>✅ Manchas solares y melasma.<br>✅ Hiperpigmentaciones postinflamatorias.<br>✅ Manchas de la edad.<br>Funciona eliminando el pigmento acumulado en la piel, dejando un tono más uniforme y luminoso."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How long do the effects of wrinkle and laxity treatments last?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depende del tratamiento:<br>🔹 <b>Botox:</b> 4 a 6 meses.<br>🔹 <b>Ácido hialurónico:</b> 6 a 12 meses.<br>🔹 <b>Radiofrecuencia Accent Prime:</b> Se recomienda mantenimiento cada 4 a 6 meses.<br>🔹 <b>Sculptra y Radiesse:</b> Hasta 2 años.<br>El mantenimiento adecuado permite prolongar los efectos."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is radiofrequency effective in improving skin quality?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí, la <b>radiofrecuencia Accent Prime</b> mejora la calidad de la piel al:<br>✅ Estimular la producción de colágeno y elastina.<br>✅ Mejorar la circulación y oxigenación celular.<br>✅ Reducir la apariencia de líneas finas y flacidez leve.<br>Los resultados son progresivos y visibles desde la primera sesión."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How to remove 'barcode' or upper lip wrinkles?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Las arrugas del labio superior pueden tratarse con:<br>🔹 <b>Ácido hialurónico:</b> Rellena y suaviza las líneas finas.<br>🔹 <b>Botox:</b> Relaja los músculos que generan el fruncimiento repetitivo.<br>🔹 <b>Láser Erbium:</b> Mejora la textura y estimula el colágeno.<br>🔹 <b>Peeling químico:</b> Renueva la piel y mejora la apariencia de arrugas finas."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What treatment is best for rejuvenating the neck skin?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Para rejuvenecer el cuello, los mejores tratamientos son:<br>✅ <b>Radiofrecuencia Accent Prime:</b> Mejora la firmeza y redefine el contorno.<br>✅ <b>Bioestimuladores (Sculptra y Radiesse):</b> Aumentan la producción de colágeno y mejoran la textura.<br>✅ <b>Ácido hialurónico:</b> Restaura hidratación y volumen.<br>✅ <b>Láser Erbium:</b> Rejuvenece y mejora la calidad de la piel."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Can treatments be combined to improve results?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí, la combinación de tratamientos puede potenciar los resultados:<br>✅ <b>Botox + ácido hialurónico:</b> Para un rejuvenecimiento completo.<br>✅ <b>Radiofrecuencia + bioestimuladores:</b> Para mejorar la firmeza.<br>✅ <b>Láser Erbium + rellenos dérmicos:</b> Para tratar cicatrices y mejorar la textura.<br>✅ <b>Peeling + láser Q-Switch:</b> Para unificar el tono de piel.<br>Cada plan se personaliza según las necesidades del paciente."
+            }
+        }
+    ]
+}

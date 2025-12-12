@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Frequently Asked Questions - Hyaluronic Acid Fillers",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is hyaluronic acid and what is it for?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hyaluronic acid is a natural substance present in the skin that retains water and maintains hydration. <br>In aesthetics, it is used to fill wrinkles, restore volume, and improve facial and body structure safely and effectively."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What are the most commonly treated areas with hyaluronic acid?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The most common areas for applying hyaluronic acid are:<br>✅ <b>Lips:</b> Volume increase and definition.<br>✅ <b>Dark circles:</b> Reduction of shadows and hollows.<br>✅ <b>Nasolabial folds:</b> Attenuation of deep folds.<br>✅ <b>Cheekbones and jawline:</b> Firming and facial contouring.<br>✅ <b>Hands:</b> Hydration and rejuvenation.<br>✅ <b>Gluteus:</b> Definition and volume increase."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How long does the effect of hyaluronic acid last?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The duration depends on the treated area and the type of hyaluronic acid used. Generally, effects last between **6 and 18 months**, depending on the patient's metabolism and the injected product."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Can hyaluronic acid filler be reversed?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, if the patient is not satisfied with the results, <b>hyaluronidase</b> can be applied, an enzyme that dissolves hyaluronic acid safely and quickly."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is the hyaluronic acid treatment painful?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The procedure is well tolerated. Topical anesthesia is used to minimize discomfort, and microinjections are quick. Some areas may present mild swelling or redness, which disappear in a few hours."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What care should be taken after the treatment?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After the application of hyaluronic acid, it is recommended to:<br>✅ Do not touch or massage the treated area.<br>✅ Avoid direct sun exposure and intense heat (saunas, gyms) for 24-48 hours.<br>✅ Do not consume alcohol or anticoagulants on the same day of the procedure."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What are the risks or side effects of hyaluronic acid?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hyaluronic acid is safe when applied by trained professionals. Possible mild side effects include:<br>🔹 Temporary swelling.<br>🔹 Redness or bruising in the area.<br>🔹 Transient sensitivity.<br>These effects disappear in a few days."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How to choose the best type of hyaluronic acid for my skin?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "There are different types of hyaluronic acid according to their density and cross-linking:<br>✅ <b>Light hyaluronic acid:</b> Ideal for hydration and fine lines (lips, dark circles).<br>✅ <b>Medium density hyaluronic acid:</b> For moderate wrinkles and folds.<br>✅ <b>Dense hyaluronic acid:</b> Used in cheekbones, jawline, and gluteal volume increase.<br>A specialist evaluates each case and recommends the best option."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Can hyaluronic acid filler be combined with other treatments?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, to improve results it can be combined with:<br>✅ <b>Botox:</b> For dynamic wrinkles on forehead and crow's feet.<br>✅ <b>Accent Prime Radiofrequency:</b> To improve firmness and stimulate collagen.<br>✅ <b>Peels or Erbium laser:</b> To renew skin and improve texture.<br>✅ <b>Sculptra or Radiesse:</b> For greater collagen production and prolonged duration."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Who should not apply hyaluronic acid?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is not recommended for:<br>🚫 Pregnant or breastfeeding women.<br>🚫 Patients with active skin infections.<br>🚫 People with autoimmune diseases without medical control.<br>Before any procedure, a medical evaluation is performed to ensure patient safety."
+            }
+        }
+    ]
+}

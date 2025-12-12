@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Preguntas Frecuentes - Skin Booster",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "¿Qué es un Skin Booster y cómo actúa en la piel?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El Skin Booster es un tratamiento de hidratación profunda basado en ácido hialurónico, vitaminas y antioxidantes. Su función es mejorar la calidad de la piel, aumentar la luminosidad y restaurar la hidratación perdida debido al envejecimiento o factores externos como el sol y la contaminación."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cuáles son los beneficios del Skin Booster?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El Skin Booster ofrece múltiples beneficios:<br>✅ <b>Hidratación profunda:</b> Restaura el equilibrio hídrico de la piel.<br>✅ <b>Mejora la elasticidad:</b> Aumenta la producción de colágeno.<br>✅ <b>Reducción de líneas finas:</b> Aporta un efecto de suavidad y rejuvenecimiento.<br>✅ <b>Glow up inmediato:</b> La piel luce más luminosa y saludable después de cada sesión."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Para quién está recomendado el tratamiento de Skin Booster?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Es ideal para:<br>✅ Personas con piel deshidratada o apagada.<br>✅ Quienes desean prevenir los signos del envejecimiento.<br>✅ Pacientes con piel fina o con pérdida de elasticidad.<br>✅ Personas que buscan mejorar la textura y el brillo natural de su piel."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cuántas sesiones de Skin Booster se necesitan para ver resultados?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Los resultados comienzan a notarse desde la primera sesión. Se recomiendan entre **2 y 3 sesiones** espaciadas por 15 a 30 días para obtener un efecto duradero. Luego, se puede realizar un mantenimiento cada 4 a 6 meses."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cuánto duran los efectos del Skin Booster?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Los resultados pueden durar entre **4 y 6 meses**, dependiendo del tipo de piel, el estilo de vida y los cuidados posteriores. Se recomienda mantener una rutina de hidratación y protección solar para prolongar sus beneficios."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿El Skin Booster es doloroso?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El tratamiento se realiza con microinyecciones que pueden generar una leve molestia. Para mayor confort, se puede aplicar anestesia tópica en la zona antes del procedimiento."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cuáles son los cuidados después del tratamiento con Skin Booster?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Después del tratamiento, se recomienda:<br>✅ Evitar la exposición solar directa y usar protector solar.<br>✅ No masajear la zona tratada en las primeras 24 horas.<br>✅ No aplicar maquillaje durante las primeras 12 horas.<br>✅ Mantener una buena hidratación para potenciar los resultados."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Se puede combinar Skin Booster con otros tratamientos?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí, se puede combinar con:<br>✅ <b>Botox:</b> Para suavizar arrugas dinámicas y mejorar la calidad de la piel.<br>✅ <b>Rellenos con ácido hialurónico:</b> Para definir volúmenes y aportar hidratación.<br>✅ <b>Peelings químicos o láser:</b> Para mejorar la textura y uniformidad de la piel."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Quiénes no pueden realizarse el tratamiento con Skin Booster?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El tratamiento no está indicado en:<br>🚫 Mujeres embarazadas o en período de lactancia.<br>🚫 Pacientes con infecciones o enfermedades en la piel en la zona a tratar.<br>🚫 Personas con antecedentes de alergia a alguno de los componentes del Skin Booster."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cuál es la diferencia entre Skin Booster y los rellenos de ácido hialurónico?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La principal diferencia es la finalidad del tratamiento:<br>✅ <b>Skin Booster:</b> Se utiliza para hidratar y mejorar la calidad de la piel sin modificar los volúmenes faciales.<br>✅ <b>Rellenos de ácido hialurónico:</b> Se utilizan para dar volumen a ciertas áreas del rostro, como labios, pómulos y surcos nasogenianos."
+            }
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Frequently Asked Questions - Profhilo",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is Profhilo and how does it work?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Profhilo is an ultrapure hyaluronic acid biostimulator that improves skin hydration, elasticity, and firmness. It is injected into strategic points to distribute evenly, stimulating collagen and elastin production without adding volume."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What are the benefits of Profhilo treatment?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Profhilo offers multiple benefits:<br>✅ <b>Deep hydration</b> without filler effect.<br>✅ <b>Improvement of skin elasticity</b> and firmness.<br>✅ <b>Reduction of fine lines and wrinkles</b>.<br>✅ <b>Collagen stimulation</b> for healthier and more luminous skin."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "In which areas of the face and body can Profhilo be applied?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Profhilo is ideal for:<br>✅ <b>Face</b>: Improves skin quality and reduces laxity.<br>✅ <b>Neck and Décolleté</b>: Hydrates and smoothes fine wrinkles.<br>✅ <b>Hands and arms</b>: Restores elasticity and firmness."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How many Profhilo sessions are needed to see results?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The usual protocol consists of **2 sessions** with an interval of **4 weeks**. In cases of more aged skin, a third session may be required. Effects are progressive and seen between the first 4 and 6 weeks."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How long do the effects of Profhilo last?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Effects can last up to **6-9 months**. To maintain results, a booster session every 6 months is recommended."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is Profhilo a hyaluronic acid filler?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, Profhilo is not a filler. It is a hyaluronic acid biostimulator that improves skin quality without adding volume or modifying facial structure."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is the Profhilo treatment painful?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Profhilo is applied in only 5 points per side of the face, making it less bothersome than other injectables. Slight discomfort may be felt, but it is not considered a painful procedure."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What are the aftercare instructions after a Profhilo treatment?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After the treatment it is recommended to:<br>✅ Avoid makeup for 24 hours.<br>✅ Do not perform intense physical activity for 48 hours.<br>✅ Avoid saunas and direct sun exposure for the first few days."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Who cannot undergo Profhilo treatment?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The treatment is not indicated for:<br>🚫 Pregnant or breastfeeding women.<br>🚫 Patients with skin infections or wounds.<br>🚫 People with a history of allergy to any of the components."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Can Profhilo be combined with other treatments?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, Profhilo complements well with:<br>✅ <b>Botox:</b> To smooth dynamic wrinkles.<br>✅ <b>Dermal Fillers:</b> To add volume if necessary.<br>✅ <b>Radiofrequency:</b> To enhance skin firmness."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is the difference between Profhilo and Radiesse?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Profhilo and Radiesse are biostimulators, but work differently:<br>✅ <b>Profhilo:</b> Is an ultrapure hyaluronic acid that improves skin quality without adding volume.<br>✅ <b>Radiesse:</b> Contains Calcium Hydroxyapatite, which in addition to stimulating collagen, offers a lifting effect and volume restoration.<br>Profhilo is ideal for general hydration and firmness, while Radiesse is better for restoring contours and treating laxity."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is the difference between Profhilo and Sculptra?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Both are biostimulators, but with differences:<br>✅ <b>Profhilo:</b> Acts as a moisturizer and collagen stimulator, with visible effects in a few weeks.<br>✅ <b>Sculptra:</b> Contains poly-L-lactic acid, which stimulates collagen more gradually and with results visible in months.<br>If hydration and immediate effect are sought, Profhilo is ideal. For deeper and progressive correction, Sculptra may be the best option."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is the difference between Profhilo and Long Lasting?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Profhilo and Long Lasting are different treatments:<br>✅ <b>Profhilo:</b> Focuses on hydration and improving skin quality with ultrapure hyaluronic acid.<br>✅ <b>Long Lasting:</b> Is a biostimulator designed for firmness and prolonged skin regeneration.<br>If a glow up effect and rapid rejuvenation are sought, Profhilo is the best option. For more sustained stimulation, Long Lasting can be a suitable alternative."
+            }
+        }
+    ]
+}

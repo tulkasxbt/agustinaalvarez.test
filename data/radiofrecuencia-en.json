@@ -1,0 +1,95 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Preguntas Frecuentes - Radiofrecuencia Facial Accent Prime",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is la radiofrecuencia facial y cómo actúa en la piel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La radiofrecuencia facial es un tratamiento estético no invasivo que utiliza ondas electromagnéticas para calentar las capas profundas de la piel. Esto estimula la producción de colágeno y elastina, mejorando la firmeza y elasticidad cutánea de manera progresiva."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What afeccionis istéticas se pueden tratar con radiofrecuencia facial?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La radiofrecuencia facial con Accent Prime es efectiva para:<br>✅ <b>Flacidez:</b> Mejora la firmeza en mejillas, óvalo facial y cuello.<br>✅ <b>Arrugas finas:</b> Suaviza líneas de expresión sin necesidad de inyecciones.<br>✅ <b>Ojeras y bolsas:</b> Reduce la retención de líquidos y mejora la microcirculación.<br>✅ <b>Piel apagada o envejecida:</b> Aporta luminosidad y un efecto tensor natural."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuántas sisionis se necisitan para ver risultados?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El número de sesiones varía según la edad y condición de la piel. Generalmente, se recomiendan entre **4 y 6 sesiones**, con una frecuencia de 1 cada 15 días. Los resultados comienzan a notarse desde la primera sesión y se potencian con el tiempo."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long do los risultados de la radiofrecuencia facial?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Los efectos pueden durar entre **6 y 12 meses**, dependiendo del tipo de piel y los cuidados posteriores. Se recomienda realizar sesiones de mantenimiento cada 4 a 6 meses para prolongar los beneficios."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "El tratamiento con Accent Prime is doloroso?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, el tratamiento es indoloro y genera solo una sensación de calor moderado en la piel. <br>El Accent Prime cuenta con un sistema de enfriamiento que protege la epidermis, garantizando una experiencia cómoda y segura."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What diferencia tiene la radiofrecuencia Accent Prime con otros tratamientos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Accent Prime combina dos tecnologías avanzadas:<br>🔹 <b>Radiofrecuencia Unipolar:</b> Actúa en capas profundas, estimulando colágeno.<br>🔹 <b>Ultrasonido selectivo:</b> Mejora la firmeza y redefinición del óvalo facial.<br>Este equipo permite resultados más efectivos en menos sesiones, sin tiempos de recuperación."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Se puede combinar la radiofrecuencia con otros tratamientos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sí, para potenciar los efectos puede combinarse con:<br>✅ <b>Botox:</b> Relaja arrugas dinámicas mientras la radiofrecuencia mejora la firmeza.<br>✅ <b>Ácido hialurónico:</b> Hidrata y da volumen mientras la radiofrecuencia estimula colágeno.<br>✅ <b>Peelings y láser:</b> Ayudan a mejorar la textura y luminosidad de la piel."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What cuidados se deben tener dispués de la radiofrecuencia facial?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Luego del tratamiento, se recomienda:<br>✅ Evitar la exposición solar directa y usar protector solar.<br>✅ No realizar tratamientos agresivos en la piel en las primeras 48 horas.<br>✅ Hidratar bien la piel y seguir una rutina de cuidado facial adecuada."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quiénis no pueden realizarse radiofrecuencia facial?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No se recomienda en:<br>🚫 Mujeres embarazadas o en período de lactancia.<br>🚫 Personas con marcapasos o implantes metálicos en la zona.<br>🚫 Pacientes con infecciones activas o heridas abiertas en la piel.<br>Antes del procedimiento, se realiza una evaluación médica para garantizar la seguridad del tratamiento."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "La radiofrecuencia facial is una alternativa al lifting quirúrgico?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No reemplaza al lifting quirúrgico en casos de flacidez severa, pero es una excelente opción para quienes buscan mejorar la firmeza de la piel sin cirugía. <br>El Accent Prime permite un efecto tensor natural sin necesidad de tiempos de recuperación."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuál is la diferencia entre Accent Prime e Indiba u otros equipos de radiofrecuencia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Si bien tanto **Accent Prime como Indiba** utilizan radiofrecuencia para estimular la producción de colágeno, presentan diferencias clave:<br>✅ <b>Accent Prime:</b> Combina radiofrecuencia unipolar con ultrasonido, permitiendo una mayor penetración y mejores resultados en menos sesiones.<br>✅ <b>Indiba:</b> Usa radiofrecuencia monopolar con tecnología Proionic, enfocada en mejorar la regeneración celular y la microcirculación.<br>🔹 Mientras **Indiba** es ideal para terapias regenerativas y mejora de la calidad de la piel, **Accent Prime** es más efectivo para tratar flacidez y redefinir contornos faciales de manera más intensa."
+      }
+    }
+  ]
+}

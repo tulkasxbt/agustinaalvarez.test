@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Frequently Asked Questions - Aesthetic Treatments",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What aesthetic treatments help prevent facial aging?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The most recommended treatments to prevent and attenuate aging signs are:<br>🔹 <b>Botox:</b> Relaxes muscles to prevent expression lines.<br>🔹 <b>Sculptra:</b> Stimulates collagen production to improve firmness.<br>🔹 <b>Radiesse:</b> Acts as a biostimulator, restoring lost volume.<br>🔹 <b>Q-Switch Laser:</b> Treats spots and improves skin texture.<br>🔹 <b>Radiofrequency:</b> Helps tighten skin and improve elasticity.<br>All these procedures are performed in my office and are scientifically endorsed."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What are the benefits of Botox and where is it applied?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Botox is a neuromodulator that relaxes muscles and prevents the formation of dynamic wrinkles.<br>The main application areas are:<ul style='list-style: none; padding-left: 0;'><li>✅ <b>Forehead:</b> Softens horizontal lines.</li><li>✅ <b>Glabella:</b> Decreases frown lines.</li><li>✅ <b>Crow's feet:</b> Reduces lines around the eyes.</li></ul>It is a safe procedure, with clinical studies supporting its effectiveness in facial rejuvenation."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is the difference between Sculptra and Radiesse?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "<b>Sculptra</b> and <b>Radiesse</b> are biostimulators that improve firmness and restore volume, but they work differently:<br>🔹 <b>Sculptra:</b> Contains poly-L-lactic acid, stimulates collagen, and has progressive results.<br>🔹 <b>Radiesse:</b> Made of calcium hydroxylapatite, provides immediate and long-lasting volume.<br>Both treatments are performed in my office and backed by medical studies."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How does the Q-Switch Laser work and what is it for?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The <b>Q-Switch Laser</b> emits high-energy pulses to treat spots, pigmented lesions, and remove tattoos.<br>Proven benefits:<ul style='list-style: none; padding-left: 0;'><li>✅ <b>Sun spots and melasma:</b> Reduces hyperpigmentation without damaging the skin.</li><li>✅ <b>Skin rejuvenation:</b> Improves skin texture and tone.</li><li>✅ <b>Tattoo removal:</b> Breaks down ink particles without affecting surrounding tissue.</li></ul>Several sessions are required for best results."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Does radiofrequency improve facial and body sagging?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, <b>radiofrequency</b> stimulates collagen production by heating the deep layers of the skin.<br>🔹 <b>Facial:</b> Improves firmness and redefines facial contours.<br>🔹 <b>Body:</b> Reduces sagging in abdomen, arms, and thighs.<br>The equipment used in my office, <b>Accent Prime</b>, combines radiofrequency with ultrasound to enhance results."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How many sessions of each treatment are necessary?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends on the treatment and each patient's response:<br>🔹 <b>Botox:</b> Every 3 to 4 months.<br>🔹 <b>Sculptra:</b> 2 to 3 sessions separated by 4-6 weeks.<br>🔹 <b>Radiesse:</b> 1 session, with annual maintenance.<br>🔹 <b>Q-Switch Laser:</b> 3 to 6 sessions for spots and tattoos.<br>🔹 <b>Radiofrequency:</b> 4 to 6 sessions, with maintenance every 6 months.<br>We always perform a personalized evaluation to determine the best strategy."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How long do the results of these treatments last?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Duration depends on the treatment type:<br>🔹 <b>Botox:</b> 3 to 4 months.<br>🔹 <b>Sculptra:</b> Up to 2 years.<br>🔹 <b>Radiesse:</b> 12 to 18 months.<br>🔹 <b>Q-Switch Laser:</b> Permanent results on spots, with proper care.<br>🔹 <b>Radiofrequency:</b> Maintained results with booster sessions."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Do these treatments have side effects?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "All aesthetic treatments I perform are safe and medically approved.<br>Possible mild side effects:<ul style='list-style: none; padding-left: 0;'><li>🔹 <b>Botox:</b> Small red marks that disappear in hours.</li><li>🔹 <b>Sculptra and Radiesse:</b> Mild inflammation or bruising, resolving in days.</li><li>🔹 <b>Q-Switch Laser:</b> Temporary redness.</li><li>🔹 <b>Radiofrequency:</b> Moderate heat sensation.</li></ul>All procedures are performed under medical supervision to minimize risks."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Who should not undergo these treatments?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Some treatments are contraindicated in:<ul style='list-style: none; padding-left: 0;'><li>🚫 <b>Pregnancy or breastfeeding:</b> Waiting is recommended.</li><li>🚫 <b>Autoimmune disorders or active infections:</b> Prior evaluation required.</li><li>🚫 <b>Patients with pacemakers:</b> Cannot receive radiofrequency.</li></ul>In my office, we perform a prior evaluation to ensure each patient's safety."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Can I combine several treatments to enhance results?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, combining treatments often offers better results:<br>✅ <b>Botox + Sculptra:</b> Relaxes wrinkles and improves firmness.<br>✅ <b>Radiesse + Radiofrequency:</b> Tightens skin and redefines contours.<br>✅ <b>Q-Switch Laser + Biostimulators:</b> Improves spots and skin quality.<br>The combination is personalized according to each patient's needs."
+            }
+        }
+    ]
+}

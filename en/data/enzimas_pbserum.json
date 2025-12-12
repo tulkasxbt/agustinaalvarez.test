@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Frequently Asked Questions - PB Serum Enzymes",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What are PB Serum enzymes and how do they work?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "PB Serum is an advanced medical treatment based on recombinant enzymes that degrade localized fat, improve skin firmness, and reduce fibrosis. <br>It uses three key enzymes: <b>lipase</b> (to reduce fat), <b>collagenase</b> (to improve elasticity), and <b>hyaluronidase</b> (to decrease fibrosis and fluid retention)."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "In which areas of the body can PB Serum enzymes be applied?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "PB Serum is applied in areas with localized fat accumulation and loss of firmness, such as:<ul style='list-style: none; padding-left: 0;'><li>✅ <b>Abdomen:</b> Reduction of fat resistant to diet and exercise.</li><li>✅ <b>Double Chin:</b> Improves facial contour and reduces double chin.</li><li>✅ <b>Flanks and hips:</b> Decreases volume and redefines silhouette.</li><li>✅ <b>Arms and thighs:</b> Eliminates localized adiposity and improves firmness.</li></ul>"
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How many sessions are needed to see results?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The number of sessions varies according to the treated area and the individual response of the patient. <br>Generally, between **3 and 6 sessions** are recommended, with intervals of 15 to 30 days between each one. <br>First results can be appreciated after the second session, and continuous improvement in subsequent weeks."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How is the recovery after a PB Serum treatment?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The treatment does not require rest, but slight inflammation and redness may appear in the treated area for 24 to 48 hours. <br>It is fundamental to avoid direct sun exposure and use sunscreen on treated areas."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Does the application of PB Serum enzymes hurt?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The procedure may generate a sensation of slight burning or pressure in the area, but it is well tolerated. <br>In some cases, topical anesthesia is used for greater patient comfort."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Who cannot undergo a PB Serum treatment?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The treatment is contraindicated in:<ul style='list-style: none; padding-left: 0;'><li>🚫 Pregnant or lactating women.</li><li>🚫 Patients with autoimmune diseases or active infections.</li><li>🚫 People with coagulation disorders or on anticoagulant treatment.</li></ul> Before starting, a medical evaluation is performed to determine if the treatment is safe for the patient."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How long do PB Serum results last?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Results can be maintained for a long time if accompanied by a balanced diet and regular physical activity. <br>However, as aging and metabolism continue, a maintenance session every 6 to 12 months is recommended."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is the difference between PB Serum and other localized fat treatments?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "PB Serum acts directly on fat, without need for surgery or prolonged recovery times. <br>Unlike cryolipolysis or cavitation, which destroy fat cells by cold or ultrasound, PB Serum enzymes degrade fat through biochemical processes, achieving a progressive and natural reduction."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is PB Serum a safe treatment?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, it is a safe treatment when applied by trained professionals. <br>The enzymes used are biocompatible and act selectively on adipose tissue without affecting other structures."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Can PB Serum be combined with other treatments?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, PB Serum can be combined with:<ul style='list-style: none; padding-left: 0;'><li>✅ <b>Radiofrequency (Accent Prime):</b> To improve skin firmness.</li><li>✅ <b>Lipolytic Mesotherapy:</b> To boost localized fat reduction.</li><li>✅ <b>Biostimulators (Radiesse, Sculptra):</b> To improve skin quality.</li></ul> The combination must be evaluated by a specialist to maximize results."
+            }
+        }
+    ]
+}

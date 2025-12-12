@@ -1,0 +1,92 @@
+{
+    "depilacion-combo-pierna-entera-cavado-axilas-tira-sin-cargo": {
+        "display": "Full Leg + Bikini + Underarms (Free Strip)",
+        "currency": "ARS",
+        "variants": [
+            {
+                "key": "default",
+                "name": "Full Leg + Bikini + Underarms (Free Strip)",
+                "price": 90000
+            }
+        ],
+        "featured": {
+            "key": "default",
+            "price": 90000
+        }
+    },
+    "depilacion-combo-1-2-pierna-cavado-axilas-tira-sin-cargo": {
+        "display": "1/2 Leg + Bikini + Underarms (Free Strip)",
+        "currency": "ARS",
+        "variants": [
+            {
+                "key": "default",
+                "name": "1/2 Leg + Bikini + Underarms (Free Strip)",
+                "price": 70000
+            }
+        ],
+        "featured": {
+            "key": "default",
+            "price": 70000
+        }
+    },
+    "depilacion-combo-cavado-tira-de-cola": {
+        "display": "Bikini + Gluteal Strip",
+        "currency": "ARS",
+        "variants": [
+            {
+                "key": "default",
+                "name": "Bikini + Gluteal Strip",
+                "price": 36000
+            }
+        ],
+        "featured": {
+            "key": "default",
+            "price": 36000
+        }
+    },
+    "depilacion-combo-cavado-axilas": {
+        "display": "Bikini + Underarms",
+        "currency": "ARS",
+        "variants": [
+            {
+                "key": "default",
+                "name": "Bikini + Underarms",
+                "price": 36000
+            }
+        ],
+        "featured": {
+            "key": "default",
+            "price": 36000
+        }
+    },
+    "depilacion-combo-torax-abdomen-espalda-hombre": {
+        "display": "Chest + Abdomen + Back (Men)",
+        "currency": "ARS",
+        "variants": [
+            {
+                "key": "default",
+                "name": "Chest + Abdomen + Back (Men)",
+                "price": 56000
+            }
+        ],
+        "featured": {
+            "key": "default",
+            "price": 56000
+        }
+    },
+    "depilacion-combo-torax-abdomen-hombre": {
+        "display": "Chest + Abdomen (Men)",
+        "currency": "ARS",
+        "variants": [
+            {
+                "key": "default",
+                "name": "Chest + Abdomen (Men)",
+                "price": 35000
+            }
+        ],
+        "featured": {
+            "key": "default",
+            "price": 35000
+        }
+    }
+}

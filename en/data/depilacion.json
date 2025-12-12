@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Frequently Asked Questions - Laser Hair Removal",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What laser hair removal system do you use?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "We use the Soprano Ice Laser Hair Removal system."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Risks of laser hair removal?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Although medical laser hair removal is a safe procedure when performed by trained professionals, it is important to know the possible risks. These include redness, swelling, temporary changes in skin pigmentation, and rarely, burns or scars. Following the professional's instructions before and after treatment is crucial to minimize these risks and ensure the medical laser hair removal is effective and safe."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How long does permanent hair removal last?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Laser hair removal offers a significant and lasting reduction of hair growth. In most cases, after completing the treatment (generally between 6 and 8 sessions), hair does not grow back or grows back very reduced and fine. \t\t\t\t<br/><br/> \t\t\t\tHowever, results may vary depending on factors such as skin type, hair color and thickness, and hormonal characteristics of each person. Although many people experience permanent results, in some cases annual maintenance sessions are recommended to prolong results over time. \t\t\t\t<br/><br/> \t\t\t\tTo guarantee a safe and effective treatment, it is fundamental to perform it in a center supervised by specialized doctors, like ours, where we use state-of-the-art equipment and offer personalized attention for each patient."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is laser hair removal safe?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Laser hair removal is a generally safe procedure when performed in specialized centers and under the supervision of trained professionals. It is fundamental to choose a place that has state-of-the-art equipment and where the treatment is supervised by doctors, as this guarantees not only the effectiveness of the procedure but also safety for your skin. \t\t\t\t<br/><br/> \t\t\t\tIn our center, we prioritize the health and well-being of each patient. We perform a personalized medical evaluation before starting any treatment, adjusting laser parameters to your skin type and specific needs. Additionally, our equipment meets the highest quality and safety standards, minimizing any risk associated with the procedure."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What are the disadvantages of permanent hair removal?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Medical laser hair removal may require a significant economic investment and, in some people, generate slight discomfort during the session, depending on skin sensitivity and the treated area. However, with advanced technologies like those we use in our center, these discomforts are minimal and the treatment is well tolerated by most patients."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How many sessions are needed?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The number of sessions varies according to the treated area, skin type, and hair thickness. Generally, between 6 and 8 sessions are required to obtain optimal results."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How effective is laser hair removal?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In our center we use Soprano Ice laser technology, globally recognized for its effectiveness. Although it is often called \"permanent hair removal\", it is important to note that results depend on skin type, hair color, and sessions performed. With Soprano Ice, we achieve reducing hair growth significantly and lastingly, offering a comfortable and safe solution."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Can I shave the same day?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is recommended to shave 24 hours before the session or the same day."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How to shave the intimate area?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Shave the intimate area with a clean and sharp safety razor the night before."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How long should the hair be for hair removal?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The hair must be shaved before the laser session. It should not be long."
+            }
+        }
+    ]
+}

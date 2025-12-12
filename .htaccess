@@ -1,0 +1,115 @@
+# Activar mod_rewrite
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # Redirigir todo a https://agustinaalvarez.com (unificada y segura)
+  RewriteCond %{HTTP_HOST} ^www\.agustinaalvarez\.com [NC,OR]
+  RewriteCond %{HTTPS} off
+  RewriteRule ^(.*)$ https://agustinaalvarez.com/$1 [L,R=301]
+
+  # Redirigir URLs con múltiples barras a una sola barra
+  RewriteCond %{THE_REQUEST} "^(GET|POST|HEAD) /(.*)//+(.*) HTTP/"
+  RewriteRule .* https://agustinaalvarez.com/%2/%3 [R=301,L]
+
+  # Asegurar que /blog redirija a /blog/
+  RewriteCond %{REQUEST_URI} ^/blog$ [NC]
+  RewriteRule ^blog$ /blog/ [R=301,L]
+
+  # Canonicalizar doble extensión .html.html
+  RewriteRule ^(.+?)\.html\.html$ /$1.html [R=301,L]
+
+  # ===========================================================
+  # I18N / ENTRADA EN INGLÉS
+  # /en/index.html -> /en/
+  RewriteRule ^en/index\.html$ /en/ [R=301,L]
+  # /en/ se sirve desde /index.html (sin cambiar la URL visible)
+  RewriteRule ^en/?$ /index.html [L]
+
+  # Permitir override de idioma (?lang=en|es) -> setea cookie 'lang'
+  RewriteCond %{QUERY_STRING} (^|&)lang=(en|es)(&|$) [NC]
+  RewriteRule ^ - [CO=lang:%2:.agustinaalvarez.com:31536000:/,L]
+
+  # Redirección por idioma del navegador (SUAVE):
+  # Solo si la lengua PRINCIPAL empieza con 'en' (en, en-US, etc.)
+  # No aplica si ya estamos en /en/, ni si hay override por query/cookie, ni para bots.
+  RewriteCond %{REQUEST_URI} !^/en/ [NC]
+  RewriteCond %{REQUEST_URI} \.html$ [NC]
+  RewriteCond %{QUERY_STRING} !(^|&)lang=(en|es)(&|$) [NC]
+  RewriteCond %{HTTP:Cookie} !(^|;\s*)lang=(en|es)(;|$) [NC]
+  RewriteCond %{HTTP_USER_AGENT} !(googlebot|bingbot|duckduckbot|baiduspider|yandex|facebookexternalhit|twitterbot) [NC]
+  RewriteCond %{HTTP:Accept-Language} ^en(\-|,|;|$) [NC]
+  # Solo si existe la versión en /en/ del mismo .html
+  RewriteCond %{DOCUMENT_ROOT}/en%{REQUEST_URI} -f
+  RewriteRule ^(.*)$ /en/$1 [R=302,L]
+  # ===========================================================
+
+  # ===========================================================
+  # FIX BLOG (reglas específicas primero)
+  RewriteRule ^blog/rosacea-enfoque-2024/?$     /afecciones/rosacea.html [R=301,L]
+  RewriteRule ^blog/rosacea-enfoque-2024\.html$ /afecciones/rosacea.html [R=301,L]
+  RewriteRule ^blog/celulitis/?$                /afecciones/celulitis.html [R=301,L]
+  RewriteRule ^blog/celulitis\.html$            /afecciones/celulitis.html [R=301,L]
+  RewriteRule ^blog/menos-es-mas-en-estetica/?$     /blog/ [R=301,L]
+  RewriteRule ^blog/menos-es-mas-en-estetica\.html$ /blog/ [R=301,L]
+  RewriteRule ^blog/depilacion-definitiva/?$        /depilacion.html [R=301,L]
+  RewriteRule ^blog/depilacion-definitiva\.html$    /depilacion.html [R=301,L]
+
+  # Feeds/admin/categorías obsoletos -> 410 (Gone)
+  RewriteRule ^blog/.+?/feed/?$ - [G,L]
+  RewriteRule ^blog/comments/feed/?$ - [G,L]
+  RewriteRule ^blog/wp-admin/admin-ajax\.php$ - [G,L]
+  RewriteRule ^blog/category/ - [G,L]
+
+  # /blog/slug o /blog/slug/ -> /blog/slug.html (si es un post real)
+  RewriteCond %{REQUEST_URI} !\.html$ [NC]
+  RewriteRule ^blog/([^/]+)/?$ /blog/$1.html [R=301,L]
+  # ===========================================================
+
+  # ====================
+  # JSON: mover /en/data -> /data (evita 404 en GSC)
+  RewriteRule ^en/data/?$ /data/ [R=301,L]
+  RewriteRule ^en/data/(.+\.json)$ /data/$1 [R=301,L]
+  # ====================
+
+  # Redirigir URLs sin .html a su versión con .html si existe el archivo (excluir blog)
+  RewriteCond %{REQUEST_FILENAME}.html -f
+  RewriteCond %{REQUEST_URI} !^/blog/           # EXCLUIR BLOG
+  RewriteCond %{REQUEST_URI} !\.html$ [NC]
+  RewriteRule ^(.*)$ /$1.html [R=301,L]
+
+  # Redirigir URLs con barra final a la versión sin barra
+  # (excepto raíz, /blog/ y /en/)
+  RewriteCond %{REQUEST_URI} !^/$
+  RewriteCond %{REQUEST_URI} !^/blog/?$
+  RewriteCond %{REQUEST_URI} !^/blog/
+  RewriteCond %{REQUEST_URI} !^/en/?$
+  RewriteCond %{REQUEST_URI} !^/en/
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_URI} ^(.+)/$ [NC]
+  RewriteRule ^ %1 [R=301,L]
+
+  # Si una URL tiene algo después de .html, redirigir a /404.html
+  RewriteCond %{REQUEST_URI} ^(.+)\.html/.+$ [NC]
+  RewriteRule .* /404.html [L,R=301]
+
+  # Redirección de index.html solo en la raíz
+  RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.html\ HTTP [NC]
+  RewriteRule ^index\.html$ / [R=301,L]
+
+  # Redirigir /blog/index.html → /blog/
+  RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /blog/index\.html\ HTTP [NC]
+  RewriteRule ^blog/index\.html$ /blog/ [R=301,L]
+</IfModule>
+
+# Página de error personalizada
+ErrorDocument 404 /404.html
+
+# Evitar indexación de JSON por buscadores (sin bloquear acceso)
+<IfModule mod_headers.c>
+  # Solo a /data/*.json
+  SetEnvIf Request_URI "^/data/.*\.json$" is_data_json=1
+  Header set X-Robots-Tag "noindex, nofollow, nosnippet, noarchive" env=is_data_json
+
+  # Buena práctica SEO para variantes por idioma
+  Header merge Vary "Accept-Language"
+</IfModule>

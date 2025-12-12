@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Preguntas Frecuentes - Luz Pulsada Intensa (IPL)",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "¿Qué es la luz pulsada intensa (IPL) y cómo funciona?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La luz pulsada intensa (IPL) es un tratamiento médico no invasivo que utiliza pulsos de luz de alta intensidad para tratar diversas afecciones de la piel. Funciona mediante la absorción selectiva de la luz por pigmentos específicos, como la melanina o la hemoglobina, lo que permite eliminar manchas, tratar la rosácea y mejorar la textura de la piel. <br>El equipo Harmony XL Pro incorpora tecnología avanzada para una mayor precisión y seguridad, logrando resultados efectivos con menor riesgo de efectos adversos."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Para qué sirve la luz pulsada intensa Harmony XL Pro?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La luz pulsada intensa del Harmony XL Pro se utiliza en el tratamiento de:<ul style='list-style: none; padding-left: 0;'><li>✅ <b>Manchas y discromías</b>: Mejora el tono de la piel eliminando hiperpigmentaciones y lentigos solares.</li><li>✅ <b>Rosácea y enrojecimiento</b>: Reduce el enrojecimiento y los vasos dilatados en la piel.</li><li>✅ <b>Fotorejuvenecimiento</b>: Estimula la producción de colágeno, mejorando la firmeza y luminosidad.</li><li>✅ <b>Depilación</b>: Puede utilizarse para reducir el crecimiento del vello en ciertas áreas.</li></ul> Este equipo es conocido por su versatilidad y eficacia en múltiples afecciones cutáneas."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cuántas sesiones de luz pulsada son necesarias?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El número de sesiones varía según la condición a tratar. En promedio:<ul style='list-style: none; padding-left: 0;'><li>🔹 Para manchas y fotodaño: 3 a 5 sesiones.</li><li>🔹 Para rosácea y telangiectasias: 4 a 6 sesiones.</li><li>🔹 Para fotorejuvenecimiento: 3 a 4 sesiones.</li></ul> Las sesiones suelen espaciarse entre 3 y 4 semanas, permitiendo que la piel se recupere y el colágeno se regenere progresivamente."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Es doloroso el tratamiento con luz pulsada intensa?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El tratamiento con luz pulsada no suele ser doloroso, pero puede generar una leve sensación de calor o picazón en la piel. Gracias a la tecnología avanzada del Harmony XL Pro, el procedimiento es más cómodo y seguro, ya que cuenta con un sistema de enfriamiento que minimiza la incomodidad. <br>En pieles sensibles, se puede aplicar anestesia tópica para mayor confort."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cuánto duran los resultados de la luz pulsada intensa?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Los resultados pueden durar entre 6 meses y 1 año, dependiendo de la condición tratada y los cuidados posteriores. <br>Para mantener los efectos a largo plazo, se recomienda el uso diario de protector solar y sesiones de mantenimiento cada 6 a 12 meses."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cuáles son los efectos secundarios de la luz pulsada intensa?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Los efectos secundarios son leves y temporales en la mayoría de los casos. Pueden incluir:<ul style='list-style: none; padding-left: 0;'><li>⚠️ Enrojecimiento o leve inflamación (desaparece en pocas horas).</li><li>⚠️ Oscurecimiento temporal de manchas (exfoliación posterior).</li><li>⚠️ Sensación de calor o leve ardor en la piel.</li></ul> Con el equipo Harmony XL Pro, el riesgo de efectos adversos es menor debido a su precisión y ajuste personalizado para cada tipo de piel."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Quiénes no pueden hacerse el tratamiento con luz pulsada intensa?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El tratamiento no es recomendable para:<ul style='list-style: none; padding-left: 0;'><li>🚫 Mujeres embarazadas o en período de lactancia.</li><li>🚫 Personas con piel bronceada recientemente.</li><li>🚫 Pacientes con infecciones activas en la piel (acné inflamatorio severo, herpes).</li><li>🚫 Personas en tratamiento con isotretinoína en los últimos 6 meses.</li></ul> Antes de iniciar el tratamiento, se recomienda una evaluación médica para descartar contraindicaciones."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cuál es la diferencia entre la luz pulsada intensa (IPL) y el láser?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Aunque ambos utilizan luz para tratar la piel, tienen diferencias importantes:<br>🔹 <b>Luz Pulsada Intensa (IPL)</b>: Usa una luz de amplio espectro que actúa sobre diferentes problemas de la piel en una sola sesión (manchas, enrojecimiento, textura).<br>🔹 <b>Láser</b>: Usa una luz más específica, con una sola longitud de onda, para tratar problemas más focalizados (como cicatrices profundas o tatuajes).<br>El equipo Harmony XL Pro combina ambas tecnologías para ofrecer tratamientos personalizados según la necesidad del paciente."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Qué cuidados debo tener antes y después de la luz pulsada intensa?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Para garantizar la seguridad y eficacia del tratamiento, se recomienda:<br><b>Antes del tratamiento:</b><ul style='list-style: none; padding-left: 0;'><li>🛑 Evitar la exposición solar 2 semanas antes.</li><li>🛑 No usar autobronceantes ni peelings químicos.</li></ul><b>Después del tratamiento:</b><ul style='list-style: none; padding-left: 0;'><li>✅ Aplicar protector solar SPF 50+ a diario.</li><li>✅ Evitar el sol y el calor excesivo durante 48 horas.</li><li>✅ Hidratar la piel con cremas reparadoras.</li></ul>"
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿La luz pulsada intensa es segura para todo tipo de piel?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La luz pulsada es más efectiva en pieles claras a medias, ya que la melanina absorbe la luz. Sin embargo, el Harmony XL Pro cuenta con tecnología avanzada que permite ajustar los parámetros según el tipo de piel, reduciendo el riesgo en fototipos más altos. <br>Antes del tratamiento, se realiza una evaluación médica para determinar si es adecuado para cada paciente."
+            }
+        }
+    ]
+}

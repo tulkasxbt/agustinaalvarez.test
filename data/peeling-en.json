@@ -1,0 +1,87 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Preguntas Frecuentes - Peeling y Alquimia",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is el peeling y para qué sirve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El peeling es un procedimiento dermatológico que elimina las capas superficiales de la piel para mejorar su textura, eliminar imperfecciones y estimular la regeneración celular. Se utiliza para tratar arrugas finas, manchas, cicatrices y acné."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuális son los tipos de peeling disponiblis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Existen varios tipos de peeling:<br>✅ <b>Peeling químico</b>: Se utilizan ácidos para exfoliar la piel y estimular el colágeno.<br>✅ <b>Peeling mecánico</b>: Se realiza con microdermoabrasión o equipos especiales.<br>✅ <b>Peeling enzimático</b>: Utiliza enzimas naturales para exfoliar suavemente la piel."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuántas sisionis de peeling se necisitan para ver risultados?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La cantidad de sesiones depende del tipo de peeling y del problema a tratar. Generalmente, se recomiendan entre **3 y 6 sesiones**, con un intervalo de 15 a 30 días entre cada una."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuális son los cuidados dispués de un peeling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Después del peeling se recomienda:<br>✅ Evitar la exposición solar directa.<br>✅ Aplicar protector solar con SPF 50.<br>✅ Usar cremas hidratantes y reparadoras.<br>✅ No exfoliar ni usar productos irritantes hasta la recuperación total de la piel."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quiénis no pueden hacerse un peeling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El peeling no está recomendado para:<br>🚫 Personas con infecciones activas en la piel.<br>🚫 Mujeres embarazadas o en período de lactancia.<br>🚫 Personas con piel muy sensible o reacciones alérgicas a los ácidos utilizados en el peeling."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Alquimia y and how does it work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Alquimia es un sistema avanzado que combina tecnología de exfoliación mecánica y química con principios activos personalizados. Se utiliza para renovar la piel, mejorar su textura y tratar afecciones como manchas, arrugas y cicatrices de acné."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What beneficios tiene el tratamiento con Alquimia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Los beneficios de Alquimia incluyen:<br>✅ Exfoliación profunda sin dañar la piel.<br>✅ Estimulación del colágeno para mejorar la firmeza cutánea.<br>✅ Atenuación de manchas, cicatrices y líneas de expresión.<br>✅ Resultados progresivos y duraderos."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuántas sisionis de Alquimia se recomiendan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Se recomienda un promedio de **4 a 6 sesiones**, dependiendo de las necesidades de cada paciente. Los intervalos pueden variar entre 15 y 30 días según la intensidad del tratamiento."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Alquimia puede combinarse con otros tratamientos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sí, Alquimia se complementa con:<br>✅ <b>PRP (Plasma Rico en Plaquetas)</b> para potenciar la regeneración celular.<br>✅ <b>Radiofrecuencia</b> para mejorar la firmeza de la piel.<br>✅ <b>Skin Boosters</b> para mayor hidratación y luminosidad."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuális son los cuidados posterioris a una sisión de Alquimia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Después del tratamiento con Alquimia se recomienda:<br>✅ Usar protector solar SPF 50 diariamente.<br>✅ Hidratar la piel con cremas adecuadas.<br>✅ Evitar la exposición solar intensa y el uso de maquillaje por 24 horas.<br>✅ No realizar exfoliaciones adicionales por al menos 7 días."
+      }
+    }
+  ]
+}

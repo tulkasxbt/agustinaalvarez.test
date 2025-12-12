@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Frequently Asked Questions - Body Contouring with Accent Prime",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is Accent Prime radiofrequency and how does it reduce fat?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Accent Prime is an advanced system that combines unipolar radiofrequency and selective ultrasound to reduce localized fat and improve skin firmness. Its technology heats fat cells and stimulates the natural elimination of lipids."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Which body areas can be treated with Accent Prime to reduce fat?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The treatment is effective on:<br>✅ <b>Abdomen:</b> To reduce localized adiposity.<br>✅ <b>Flanks ('love handles'):</b> To refine the silhouette.<br>✅ <b>Thighs and buttocks:</b> To contour and tighten.<br>✅ <b>Arms:</b> To eliminate fat and improve firmness."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How many Accent Prime sessions are necessary to see results?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Generally, **between 4 and 6 sessions** are recommended, with a frequency of once a week. The effects are enhanced over the weeks as the body continues to eliminate the treated fat cells."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Does Accent Prime eliminate fat permanently?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, eliminated fat cells do not regenerate. However, a balanced diet and exercise are key to maintaining results over time."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Does the Accent Prime treatment hurt?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, it is a non-invasive and well-tolerated procedure. A progressive sensation of heat is felt in the treated area, but without significant discomfort."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Can Accent Prime be combined with other treatments to enhance results?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, it is recommended to combine it with:<br>✅ <b>Mesotherapy</b> to enhance fat elimination.<br>✅ <b>Shock Waves</b> to improve skin firmness.<br>✅ <b>Skin Boosters</b> to improve skin hydration and elasticity."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What care should I take after Accent Prime treatment?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After each session, it is recommended to:<br>✅ Stay hydrated to facilitate fat elimination.<br>✅ Avoid extreme heat (saunas or intense sun) for 24 hours.<br>✅ Perform physical activity to optimize results."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How long do Accent Prime fat reduction results last?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Results can last several months or years if a healthy lifestyle is maintained. To prolong effects, a maintenance session every 6 months is recommended."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is the difference between Accent Prime and other body contouring treatments?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Unlike other systems, Accent Prime combines **unipolar radiofrequency and selective ultrasound** in the same session, achieving greater effectiveness in less time. It is a safe alternative with no recovery time."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is Accent Prime an alternative to liposuction?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While it does not replace liposuction in cases of severe fat, it is an excellent option for body contouring without surgery, offering progressive results without recovery times."
+            }
+        }
+    ]
+}

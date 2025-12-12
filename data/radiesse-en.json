@@ -1,0 +1,103 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Preguntas Frecuentes - Radiesse",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Radiisse y and how does it work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Radiesse es un bioestimulador dérmico compuesto por hidroxiapatita de calcio, diseñado para restaurar volumen, mejorar la calidad de la piel y estimular la producción de colágeno. Se utiliza en rostro, cuello y manos para aportar firmeza y elasticidad de manera natural y progresiva."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuális son the benefits del tratamiento con Radiisse?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Radiesse ofrece múltiples beneficios:<br>✅ <b>Estimula la producción de colágeno</b>, mejorando la firmeza de la piel.<br>✅ <b>Restaura volumen</b> en mejillas, mandíbula y manos.<br>✅ <b>Rejuvenece la piel</b> al mejorar su textura y calidad.<br>✅ <b>Efecto prolongado</b>, con resultados que pueden durar hasta 18 meses."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "In which areas can it be applied Radiisse?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Radiesse es ideal para:<br>✅ <b>Rostro</b>: Redefinir contornos y mejorar la firmeza de la piel.<br>✅ <b>Manos</b>: Disimular la pérdida de volumen y mejorar la textura.<br>✅ <b>Cuello y escote</b>: Reducir arrugas y mejorar la calidad cutánea.<br>✅ <b>Brazos y rodillas</b>: Mejorar la laxitud de la piel."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuánto tiempo duran the effects de Radiisse?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Los resultados pueden durar entre **12 y 18 meses**, dependiendo del metabolismo de cada paciente, el área tratada y los cuidados posteriores. Se recomienda una sesión de mantenimiento anual para prolongar los efectos."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Radiisse is un relleno o un bioistimulador?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Radiesse es un bioestimulador que, además de restaurar volumen, estimula la producción de colágeno, logrando una mejoría progresiva y natural de la piel. A diferencia de los rellenos de ácido hialurónico, que aportan volumen inmediato, Radiesse trabaja sobre la firmeza y calidad cutánea a largo plazo."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "El tratamiento con Radiisse is doloroso?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Radiesse se aplica con microcánulas o agujas finas, generando solo una leve molestia. Para mayor confort, se puede utilizar anestesia tópica en la zona antes del procedimiento."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuális son los cuidados dispués de un tratamiento con Radiisse?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Después del procedimiento, se recomienda:<br>✅ Evitar el ejercicio intenso durante 24-48 horas.<br>✅ No masajear la zona tratada en las primeras 48 horas.<br>✅ Usar protector solar y evitar la exposición prolongada al sol.<br>✅ Aplicar frío local si hay leve inflamación."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Radiisse Can it be combined con otros tratamientos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sí, Radiesse se puede combinar con:<br>✅ <b>Botox:</b> Para suavizar arrugas de expresión.<br>✅ <b>Skin Booster:</b> Para mejorar la hidratación y luminosidad de la piel.<br>✅ <b>Hilos tensores:</b> Para potenciar el efecto lifting sin cirugía."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quiénis no pueden realizarse el tratamiento con Radiisse?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El tratamiento no está indicado en:<br>🚫 Mujeres embarazadas o en período de lactancia.<br>🚫 Pacientes con enfermedades autoinmunes activas.<br>🚫 Personas con infecciones o heridas abiertas en la piel.<br>🚫 Personas con antecedentes de alergia a alguno de los componentes de Radiesse."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuál is la diferencia entre Radiisse y Sculptra?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Radiesse y Sculptra son bioestimuladores, pero presentan diferencias:<br>✅ <b>Radiesse:</b> Contiene hidroxiapatita de calcio y ofrece un efecto inmediato de volumen junto con la estimulación de colágeno.<br>✅ <b>Sculptra:</b> Contiene ácido poliláctico y trabaja exclusivamente en la estimulación de colágeno con un resultado más progresivo.<br>La elección del tratamiento dependerá del objetivo del paciente y la evaluación del médico."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuál is la diferencia entre Radiisse y Long Lasting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Radiesse y Long Lasting son dos opciones de bioestimuladores pero con diferencias clave:<br>✅ <b>Radiesse:</b> Contiene hidroxiapatita de calcio y proporciona un efecto inmediato en la piel junto con la estimulación del colágeno.<br>✅ <b>Long Lasting:</b> Tiene una composición específica para mejorar la firmeza de la piel y generar una regeneración progresiva más prolongada.<br>Si bien ambos tratamientos mejoran la calidad de la piel y la elasticidad, la elección dependerá de las necesidades del paciente y la evaluación médica."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuál is la diferencia entre Radiisse y Profhilo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Radiesse y Profhilo tienen usos y mecanismos de acción distintos:<br>✅ <b>Radiesse:</b> Actúa como un bioestimulador y relleno, aportando volumen en zonas específicas y estimulando la producción de colágeno.<br>✅ <b>Profhilo:</b> Es un inyectable de ácido hialurónico que mejora la hidratación y elasticidad sin aportar volumen.<br>Si el objetivo es redefinir contornos y restaurar volumen, Radiesse es la mejor opción. Para una piel más luminosa y con mayor hidratación, Profhilo puede ser más adecuado."
+      }
+    }
+  ]
+}

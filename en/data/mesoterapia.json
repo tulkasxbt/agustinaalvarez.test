@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Frequently Asked Questions - Mesotherapy and Filorga Mesotherapy",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is mesotherapy and how does it work?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mesotherapy is an aesthetic medical treatment that consists of the application of microinjections of vitamins, minerals, amino acids, and hyaluronic acid into the skin to improve the hydration, firmness, and luminosity of the face."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What are the benefits of facial mesotherapy?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mesotherapy helps to:<br>✅ Improve deep hydration of the skin.<br>✅ Reduce fine lines and wrinkles.<br>✅ Provide luminosity and improve tone.<br>✅ Stimulate collagen and elastin production."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How many mesotherapy sessions are necessary?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The usual protocol includes **3 to 5 sessions** performed every 15 days. Afterwards, a maintenance session every 2 or 3 months is recommended to prolong the results."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What are the side effects of mesotherapy?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Side effects are mild and may include:<br>✅ Mild redness in the treated area.<br>✅ Small bruises that disappear in a few days.<br>✅ Sensation of itching or mild inflammation in the first few hours."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is mesotherapy compatible with other treatments?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, mesotherapy can be combined with:<br>✅ <b>Radiofrequency</b> to improve firmness.<br>✅ <b>Chemical Peels</b> for more uniform skin.<br>✅ <b>Skin Boosters</b> to enhance hydration."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is Filorga Mesotherapy and how does it differ?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Filorga Mesotherapy is an exclusive formula with hyaluronic acid and over 50 active ingredients that revitalize the skin. Unlike conventional mesotherapy, it provides a longer-lasting glow effect and greater collagen stimulation."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What are the benefits of Filorga Mesotherapy?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The main benefits are:<br>✅ Deep hydration and improved elasticity.<br>✅ Reduction of fine wrinkles and expression lines.<br>✅ Increased luminosity and uniform tone.<br>✅ Collagen stimulation with a firming effect."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How many Filorga Mesotherapy sessions are recommended?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A protocol of **3 sessions** every 15 to 30 days is recommended, followed by 1 maintenance session every 6 months to prolong effects."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Does Filorga Mesotherapy replace hyaluronic acid fillers?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, Filorga mesotherapy hydrates and revitalizes the skin, but does not provide volume. If filling deep wrinkles or defining contours is sought, both treatments can be combined."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What are the aftercare instructions for Filorga Mesotherapy?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After treatment, it is recommended:<br>✅ Do not expose yourself to direct sunlight and use SPF 50 sunscreen.<br>✅ Do not perform intense physical activity for 24 hours.<br>✅ Do not apply makeup during the first 12 hours.<br>✅ Maintain adequate hydration with specific creams."
+            }
+        }
+    ]
+}

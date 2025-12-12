@@ -1,0 +1,111 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Preguntas Frecuentes - Long Lasting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Long Lasting y and how does it work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Long Lasting es un bioestimulador que estimula la producción de colágeno y elastina en la piel. Su fórmula avanzada permite mejorar la firmeza, hidratación y textura de la piel de forma prolongada."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuális son the benefits del tratamiento con Long Lasting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Los beneficios incluyen:<br>✅ <b>Estimulación de colágeno</b> para una piel más firme.<br>✅ <b>Hidratación profunda</b> sin volumen excesivo.<br>✅ <b>Mejora de arrugas y flacidez</b>.<br>✅ <b>Efecto prolongado</b> que se mantiene por varios meses."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "In which areas del rostro y cuerpo can it be applied Long Lasting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Long Lasting es ideal para:<br>✅ <b>Rostro</b>: Redefinición del óvalo facial y tratamiento de flacidez.<br>✅ <b>Cuello y escote</b>: Rejuvenecimiento y mayor firmeza.<br>✅ <b>Manos</b>: Hidratación y mejora de la textura."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuántas sisionis de Long Lasting se necisitan para ver risultados?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generalmente, se recomiendan **2 sesiones** con un intervalo de **4 a 6 semanas**. En pieles más envejecidas, pueden ser necesarias más sesiones para potenciar los efectos."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long do the effects de Long Lasting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Los efectos pueden durar hasta **12 meses**, dependiendo del paciente. Se recomienda una sesión de refuerzo anual para mantener los resultados."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Long Lasting is un relleno de ácido hialurónico?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, Long Lasting no es un relleno. Es un bioestimulador diseñado para mejorar la calidad de la piel sin aportar volumen excesivo."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "El tratamiento con Long Lasting is doloroso?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La aplicación puede generar una leve incomodidad, pero generalmente es bien tolerado. Se pueden utilizar anestésicos tópicos para mayor confort."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuális son los cuidados dispués de un tratamiento con Long Lasting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Después del tratamiento se recomienda:<br>✅ Evitar maquillaje por 24 horas.<br>✅ No realizar actividad física intensa por 48 horas.<br>✅ No exponerse al sol ni a temperaturas extremas los primeros días."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quiénis no pueden realizarse el tratamiento con Long Lasting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El tratamiento no está indicado en:<br>🚫 Mujeres embarazadas o en período de lactancia.<br>🚫 Personas con infecciones en la piel.<br>🚫 Pacientes con antecedentes de alergia a alguno de sus componentes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Long Lasting Can it be combined con otros tratamientos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sí, Long Lasting se complementa bien con:<br>✅ <b>Botox:</b> Para mejorar arrugas dinámicas.<br>✅ <b>Radiofrecuencia:</b> Para potenciar la firmeza.<br>✅ <b>Rellenos dérmicos:</b> Para restaurar volumen en zonas específicas."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuál is la diferencia entre Long Lasting y Radiisse?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ambos son bioestimuladores, pero tienen diferencias:<br>✅ <b>Long Lasting:</b> Estimula el colágeno de manera gradual y con efecto prolongado.<br>✅ <b>Radiesse:</b> Contiene hidroxiapatita de calcio, que además de estimular colágeno, aporta un leve efecto tensor inmediato.<br>Si se busca una mayor definición y volumen, Radiesse es la mejor opción. Para un rejuvenecimiento progresivo y duradero, Long Lasting es ideal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuál is la diferencia entre Long Lasting y Sculptra?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Long Lasting y Sculptra son bioestimuladores que inducen la producción de colágeno:<br>✅ <b>Long Lasting:</b> Tiene un efecto más prolongado y una aplicación menos invasiva.<br>✅ <b>Sculptra:</b> Contiene ácido poliláctico y actúa de manera más gradual.<br>Si se busca un efecto más duradero con menos sesiones, Long Lasting es la mejor opción. Para un estímulo progresivo del colágeno con efecto más sutil, Sculptra puede ser una alternativa."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuál is la diferencia entre Long Lasting y Profhilo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Long Lasting y Profhilo son tratamientos distintos:<br>✅ <b>Long Lasting:</b> Bioestimulador de larga duración con efecto reafirmante.<br>✅ <b>Profhilo:</b> Ácido hialurónico ultrapuro que mejora la hidratación y elasticidad.<br>Si se busca mejorar la calidad de la piel con hidratación profunda, Profhilo es la mejor opción. Para una firmeza prolongada y un efecto más estructural, Long Lasting es ideal."
+      }
+    }
+  ]
+}

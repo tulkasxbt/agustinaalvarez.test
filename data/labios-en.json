@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Preguntas Frecuentes - Relleno de Labios con Ácido Hialurónico",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is lip filler with hyaluronic acid and how does it work?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El relleno de labios con ácido hialurónico es un procedimiento mínimamente invasivo que mejora la forma, volumen e hidratación de los labios. Se aplica mediante microinyecciones de ácido hialurónico, una sustancia biocompatible y reabsorbible, que permite resultados naturales y reversibles."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What are the benefits of lip fillers?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Los principales beneficios son:<br>✅ <b>Volumen y definición</b> sin perder naturalidad.<br>✅ <b>Hidratación profunda</b> que mejora la textura y elasticidad.<br>✅ <b>Corrección de asimetrías</b> en el contorno labial.<br>✅ <b>Rejuvenecimiento</b> del área peribucal, suavizando arrugas finas ('código de barras')."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How long do lip filler results last?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El ácido hialurónico se reabsorbe naturalmente con el tiempo. Los resultados duran entre **6 y 12 meses**, dependiendo del metabolismo de cada paciente, el tipo de producto utilizado y los hábitos personales (hidratación, exposición solar, tabaquismo)."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Can lip fillers be reversed if I don't like the result?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí, en caso de ser necesario, el ácido hialurónico se puede disolver con hialuronidasa, una enzima que actúa en minutos y permite restaurar el aspecto previo al tratamiento."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Does the lip filler procedure hurt?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El nivel de dolor es mínimo. Se aplica anestesia tópica antes del tratamiento, lo que reduce cualquier molestia. Además, algunos productos contienen lidocaína, un anestésico local que mejora la tolerancia durante la aplicación."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What aftercare is recommended after lip fillers?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Después del procedimiento, se recomienda:<br>✅ Evitar la exposición solar intensa por 48 horas.<br>✅ No realizar masajes en la zona tratada.<br>✅ No consumir alcohol ni tabaco el mismo día del tratamiento.<br>✅ Mantener una correcta hidratación."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "When will I see the results of lip fillers?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El efecto es inmediato, aunque en los primeros días puede haber leve inflamación. El resultado definitivo se aprecia a partir de los **7 a 10 días**, cuando el producto se integra completamente en los tejidos."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How many ml of hyaluronic acid are needed for lip fillers?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La cantidad varía según la estructura labial y el objetivo de cada paciente. Generalmente, se aplican entre **0.5 ml y 1 ml** en la primera sesión para lograr un resultado armónico y natural."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What are the contraindications of lip fillers?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No se recomienda en:<br>🚫 Mujeres embarazadas o en período de lactancia.<br>🚫 Pacientes con enfermedades autoinmunes sin control médico.<br>🚫 Personas con infecciones activas en la zona (herpes labial).<br>🚫 Pacientes con alergia conocida al ácido hialurónico."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Are lip fillers safe?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí, es un tratamiento seguro cuando es realizado por un profesional médico calificado. Se utilizan productos aprobados por entidades sanitarias y con respaldo clínico."
+            }
+        }
+    ]
+}

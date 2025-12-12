@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /datos_clientes.csv
+Disallow: /blog/feed.json
+Disallow: /blog/files.publii.json
+Disallow: /404.html
+Sitemap: https://agustinaalvarez.com/sitemap.xml

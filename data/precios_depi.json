@@ -1,0 +1,92 @@
+{
+  "depilacion-combo-pierna-entera-cavado-axilas-tira-sin-cargo": {
+    "display": "Pierna Entera + Cavado + Axilas (Tira sin cargo)",
+    "currency": "ARS",
+    "variants": [
+      {
+        "key": "default",
+        "name": "Pierna Entera + Cavado + Axilas (Tira sin cargo)",
+        "price": 90000
+      }
+    ],
+    "featured": {
+      "key": "default",
+      "price": 90000
+    }
+  },
+  "depilacion-combo-1-2-pierna-cavado-axilas-tira-sin-cargo": {
+    "display": "1/2 Pierna + Cavado + Axilas (Tira sin cargo)",
+    "currency": "ARS",
+    "variants": [
+      {
+        "key": "default",
+        "name": "1/2 Pierna + Cavado + Axilas (Tira sin cargo)",
+        "price": 70000
+      }
+    ],
+    "featured": {
+      "key": "default",
+      "price": 70000
+    }
+  },
+  "depilacion-combo-cavado-tira-de-cola": {
+    "display": "Cavado + Tira de Cola",
+    "currency": "ARS",
+    "variants": [
+      {
+        "key": "default",
+        "name": "Cavado + Tira de Cola",
+        "price": 36000
+      }
+    ],
+    "featured": {
+      "key": "default",
+      "price": 36000
+    }
+  },
+  "depilacion-combo-cavado-axilas": {
+    "display": "Cavado + Axilas",
+    "currency": "ARS",
+    "variants": [
+      {
+        "key": "default",
+        "name": "Cavado + Axilas",
+        "price": 36000
+      }
+    ],
+    "featured": {
+      "key": "default",
+      "price": 36000
+    }
+  },
+  "depilacion-combo-torax-abdomen-espalda-hombre": {
+    "display": "Torax + Abdomen + Espalda (Hombre)",
+    "currency": "ARS",
+    "variants": [
+      {
+        "key": "default",
+        "name": "Torax + Abdomen + Espalda (Hombre)",
+        "price": 56000
+      }
+    ],
+    "featured": {
+      "key": "default",
+      "price": 56000
+    }
+  },
+  "depilacion-combo-torax-abdomen-hombre": {
+    "display": "Torax + Abdomen (Hombre)",
+    "currency": "ARS",
+    "variants": [
+      {
+        "key": "default",
+        "name": "Torax + Abdomen (Hombre)",
+        "price": 35000
+      }
+    ],
+    "featured": {
+      "key": "default",
+      "price": 35000
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Frequently Asked Questions - Erbium Laser Harmony XL Pro",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is the Erbium laser and how does it work?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Erbium laser of the Harmony XL Pro system is an ablative technology that removes superficial skin layers to treat spots, fine wrinkles, and scars. <br>Its 2940 nm wavelength allows precise ablation with less thermal damage compared to other lasers, favoring faster recovery and effective results in facial rejuvenation."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What conditions can be treated with the Erbium laser?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Erbium laser is ideal to improve:<ul style='list-style: none; padding-left: 0;'><li>✅ <b>Sun spots and mild melasma:</b> Reduces pigmentation without risk of post-inflammatory hyperpigmentation.</li><li>✅ <b>Fine wrinkles and expression lines:</b> Improves texture and stimulates collagen production.</li><li>✅ <b>Acne scars:</b> Reduces the depth of atrophic scars.</li><li>✅ <b>Dull or sun-damaged skin:</b> Unifies tone and improves luminosity.</li></ul> It can be applied on the face, neck, décolletage, and hands."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How many sessions are needed to see results?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The number of sessions varies according to the condition to be treated. For spots and rejuvenation, **1 to 3 sessions** are usually recommended, with intervals of 4 to 6 weeks. <br>First changes can be noticed after the first session, but regeneration and collagen production effects continue improving in subsequent months."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How is the recovery after treatment?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recovery time depends on the intensity of the treatment. <br>In mild procedures, there is slight redness and peeling for 3 to 5 days. In deeper treatments, recovery can take between 7 and 10 days. <br>It is fundamental to use sunscreen and avoid direct sun exposure."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Does Erbium laser treatment hurt?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The procedure may generate a sensation of heat or burning, but topical anesthesia is applied for greater comfort. <br>After the session, the skin may be red and with slight inflammation, similar to a mild sunburn, which disappears in a few days."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Can the Erbium laser be used on dark skin?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but with caution. <br>Unlike other ablative lasers, Erbium has a lower risk of hyperpigmentation in dark skins. <br>However, in cases of phototypes IV-VI, a prior medical evaluation and a personalized protocol are recommended to avoid side effects."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is the care after an Erbium laser treatment?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After treatment, it is key to:<ul style='list-style: none; padding-left: 0;'><li>✅ Use sunscreen SPF 50+ daily.</li><li>✅ Keep skin hydrated with specific creams.</li><li>✅ Avoid exfoliants or irritating products for at least one week.</li><li>✅ Do not expose yourself directly to the sun for 4 to 6 weeks.</li></ul> Following this care ensures proper skin regeneration and better results."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is the difference between Erbium laser and CO2?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Both are ablative lasers, but Erbium has less thermal damage and faster recovery. <br>🔹 <b>Erbium (2940 nm):</b> More superficial ablation, ideal for spots, fine wrinkles, and sensitive skin. <br>🔹 <b>CO2 (10,600 nm):</b> Deeper penetration, recommended for severe scars and advanced aging."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How long do Erbium laser results last?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Results can last between **1 and 3 years**, depending on skin type, aftercare, and sun exposure. <br>To maintain effects, an annual maintenance session together with a proper skincare routine is recommended."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is it safe to combine Erbium laser with other treatments?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, it can be combined with:<ul style='list-style: none; padding-left: 0;'><li>✅ <b>Biostimulators (Sculptra, Radiesse):</b> Boost collagen production.</li><li>✅ <b>Chemical Peels:</b> Complement treatment in sun-damaged skins.</li><li>✅ <b>Botulinum Toxin (Botox):</b> Improves dynamic wrinkles while the laser works on texture.</li></ul> The combination must be indicated by a professional to avoid adverse reactions."
+            }
+        }
+    ]
+}

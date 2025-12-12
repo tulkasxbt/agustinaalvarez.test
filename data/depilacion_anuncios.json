@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Preguntas Frecuentes - depilacion_anuncios",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "¿Qué sistema de depilación láser utilizan?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nosotros utilizamos el sistema de Depilación Láser Definitiva Médica Soprano."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cuál es el tiempo de tratamiento?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Estos son los tiempos aproximados:                 <ul style=\"list-style: none; padding-left: 0;\"><li>Axilas: 1 minuto – 5 minutos</li><li>Pecho: 10 minutos – 20 minutos</li><li>Cavado: 2 minutos – 5 minutos</li><li>Abdomen: 10 minutos – 20 minutos</li><li>Espalda: 9 minutos – 18 minutos</li><li>Antebrazo: 1:30 minutos – 3 minutos</li><li>Brazo: 2 minutos – 6 minutos</li><li>Muslo: 6 minutos – 12 minutos</li><li>Entrecejo: 5 segundos – 10 segundos</li><li>Pierna: 11 minutos – 22 minutos</li></ul>"
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cuánto tiempo dura la depilación definitiva?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La depilación con láser puede ofrecer una reducción a largo plazo del crecimiento del vello..."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Es la depilación láser segura?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La depilación láser es generalmente segura cuando es realizada por profesionales..."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Qué desventajas tiene la depilación definitiva?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La Depilación Láser Médica Definitiva puede ser costosa, causar dolor o incomodidad..."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cuáles son los riesgos de la depilación láser?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Los riesgos incluyen quemaduras, cambios en la pigmentación de la piel..."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Qué tan buena es la depilación definitiva?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A la depilación láser también se le dice habitualmente depilación definitiva..."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Me puedo rasurar el mismo día?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Se recomienda rasurarse 24 horas antes de la sesión o el mismo día en caso..."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Cómo rasurar la zona íntima?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Rasura la zona íntima con una maquinita de afeitar limpia y afilada la noche anterior..."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "¿Qué largo debe tener el vello para depilarse?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El vello debe ser rasurado antes de la sesión de láser. No debe estar largo..."
+            }
+        }
+    ]
+}

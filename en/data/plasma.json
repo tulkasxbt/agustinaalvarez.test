@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Frequently Asked Questions - Platelet-Rich Plasma (PRP)",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is Platelet-Rich Plasma (PRP) and how does it work?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "PRP is a regenerative treatment that uses growth factors present in the patient's blood to stimulate collagen production, improve skin quality, and accelerate cellular regeneration."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What are the benefits of PRP for the skin?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "PRP improves skin quality thanks to:<br>✅ <b>Collagen stimulation</b>, reducing wrinkles and fine lines.<br>✅ <b>Greater luminosity</b> and rejuvenated appearance.<br>✅ <b>Improvement of scars</b> from acne and skin spots.<br>✅ <b>Hydration and firmness</b> of the skin."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "In which areas of the face and body can PRP be applied?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "PRP is ideal for:<br>✅ <b>Face</b>: Wrinkles, laxity, and general rejuvenation.<br>✅ <b>Neck and Décolleté</b>: Firmer and more luminous skin.<br>✅ <b>Hands</b>: Rejuvenation and spot treatment.<br>✅ <b>Scalp</b>: Stimulation of hair growth in alopecia."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How many PRP sessions are needed to see results?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Generally, **3 sessions** are recommended with an interval of **4 weeks** between each one. Results begin to be visible from the first month and continue to improve over time."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How long do the effects of PRP last?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Effects can last between **6 and 12 months**, depending on skin type and aftercare. A maintenance session is recommended every 6 months to prolong benefits."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is the PRP treatment painful?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The application may generate slight discomfort, but it is generally well tolerated. Topical anesthetics can be used to minimize any discomfort."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What are the aftercare instructions after a PRP treatment?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After the treatment it is recommended to:<br>✅ Avoid makeup and irritating products for 24 hours.<br>✅ Do not expose yourself directly to the sun or use tanning beds.<br>✅ Avoid intense physical activity and sauna for 48 hours.<br>✅ Maintain adequate hydration."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Who cannot undergo PRP treatment?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The treatment is not indicated for:<br>🚫 Pregnant or breastfeeding women.<br>🚫 Patients with coagulation disorders or on anticoagulant treatment.<br>🚫 People with active skin infections."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Can PRP be combined with other treatments?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, PRP complements:<br>✅ <b>Botox</b> for dynamic wrinkles.<br>✅ <b>Dermal Fillers</b> to restore volume.<br>✅ <b>Radiofrequency</b> to enhance skin firmness."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Does PRP help with hair loss?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, hair PRP stimulates hair growth and strengthens follicles. It is used in androgenetic alopecia and seasonal hair loss."
+            }
+        }
+    ]
+}

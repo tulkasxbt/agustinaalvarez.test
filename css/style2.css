@@ -1,0 +1,1472 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,400italic,700,700italic);
+ @import url(http://fonts.googleapis.com/css?family=Titillium+Web:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic);
+body {
+	font-family: Lato, sans-serif;
+	font-weight: 400;
+	font-size: 18px;
+	color: #9f9f9f;
+	background: #fff;
+	overflow: hidden
+}
+img {
+	border: 0
+}
+a {
+	text-decoration: none
+}
+* {
+	margin: 0;
+	padding: 0
+}
+li, ul {
+	list-style: none
+}
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: 700
+}
+h1, h2 {
+	font-size: 54px;
+	color: #0267b9;
+	padding-bottom: 74px;
+	line-height: 56px;
+	text-transform: uppercase
+}
+p {
+	line-height: 27px
+}
+input, select, textarea {
+	border: 0;
+	background: 0 0;
+	font-family: Lato, sans-serif;
+	outline: 0
+}
+.btn {
+	color: #fff;
+	font-size: 26px;
+	background: #dc3522;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: Lato, sans-serif;
+	font-weight: 700;
+	line-height: 48px;
+	height: 60px
+}
+.btn2 {
+	color: #fff;
+	font-size: 26px;
+	background: #1c3522;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: Lato, sans-serif;
+	font-weight: 700;
+	line-height: 48px;
+	height: 60px;
+}
+.btn-round {
+	border-radius: 6px;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	-o-border-radius: 6px;
+	-ms-border-radius: 6px
+}
+.tooltip-inner {
+	background-color: #003DFF
+}
+.tooltip.top .tooltip-arrow {
+	border-top-color: #003DFF
+}
+header {
+	position: relative;
+	z-index: 1
+}
+.header-wrapper {
+	width: 100%;
+	position: relative;
+	overflow: hidden
+}
+.banner-outer {
+	width: 100%;
+	height: 600px;
+	background-color: #fff;
+}
+.banner-outer2 {
+	width: 100%;
+	height: 600px;
+	background-color: #fff;
+}
+.banner-outer .banner-img {
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+.header-content {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	padding-top: 4px
+}
+.header-top-outer {
+	width: 100%;
+}
+.header-top-outer .logo {
+	width: 220px;
+	float: left;
+	visibility: hidden
+}
+.header-top-outer .logo a {
+	height: 180px;
+	display: block
+}
+.header-top-outer .call {
+	float: left;
+	background-position: left center;
+	background-repeat: no-repeat;
+	background-image: url(../images/phoneicon3.png);
+	font-weight: 400;
+	line-height: 20px;
+	padding-left: 30px;
+	text-align: right;
+	color: #f2bca4;
+	visibility: hidden;
+	font-size: 30px;
+	margin-top: 77px;
+}
+.header-bottom-outer {
+	width: 100%;
+	height: 500px
+}
+.banner-text {
+	width: 100%;
+	margin-top: 57px;
+	visibility: hidden
+}
+.bannerLanding .banner-text {
+	padding-top: 40px;
+}
+.banner-text h1 {
+	color: #595b64;
+	padding-bottom: 9px;
+	position: relative
+}
+.banner-text h1:first-child {
+	padding-bottom: 0
+}
+.banner-text p {
+	color: #fff;
+	width: 88%;
+	position: relative
+}
+#heading2 {
+	font-size: 36px;
+	line-height: 38px;
+	text-transform: uppercase;
+	padding-bottom: 10px;
+}
+.banner-form {
+	width: 100%;
+	height: 450px;
+	background-color: #f4ede5;
+	padding: 20px 12px 0;
+	visibility: hidden
+}
+.banner-form span {
+	display: block;
+	color: #696969;
+	font-weight: 400;
+	text-align: center;
+	padding-bottom: 10px
+}
+.banner-form h2 {
+	text-align: center;
+	font-size: 48px;
+	color: #dc3522;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding-bottom: 13px
+}
+.banner-form form fieldset {
+	margin-bottom: 20px;
+	background-color: #fff;
+	border-top: 1px solid #edf0f1;
+	height: 60px;
+	position: relative;
+	padding: 30px 22px 0
+}
+.banner-form form fieldset:nth-last-child(2) {
+	
+}
+.banner-form form fieldset label {
+	position: absolute;
+	top: 9px;
+	left: 22px;
+	display: inline-block;
+	font-size: 14px;
+	color: #696969;
+	font-weight: 400;
+	z-index: 0
+}
+.banner-form form fieldset input[type=text], .banner-form form fieldset input[type=password] {
+	width: 100%;
+	height: 20px;
+	line-height: 20px;
+	font-size: 15px;
+	color: #9f9f9f;
+	font-weight: 400;
+	z-index: 1;
+	position: relative
+}
+.banner-form form fieldset input[type=text]::-webkit-input-placeholder, .banner-form form fieldset input[type=password]::-webkit-input-placeholder {
+color:#9f9f9f;
+opacity:1!important
+}
+.banner-form form fieldset input[type=text]:-moz-placeholder, .banner-form form fieldset input[type=password]:-moz-placeholder {
+color:#9f9f9f;
+opacity:1!important
+}
+.banner-form form fieldset input[type=text]::-moz-placeholder, .banner-form form fieldset input[type=password]::-moz-placeholder {
+color:#9f9f9f;
+opacity:1!important
+}
+.banner-form form fieldset input[type=text]:-ms-input-placeholder, .banner-form form fieldset input[type=password]:-ms-input-placeholder {
+color:#9f9f9f;
+opacity:1!important
+}
+.banner-form form fieldset span.hidden-overflow {
+	overflow: hidden;
+	width: 100%;
+	height: 59px;
+	background-position: right center;
+	background-repeat: no-repeat;
+	background-image: url(../images/select-bg.png)
+}
+.banner-form form fieldset select {
+	width: 105%;
+	height: 59px;
+	font-size: 15px;
+	color: #696969;
+	font-weight: 400;
+	padding: 15px 20px;
+	line-height: 39px;
+	position: relative
+}
+.banner-form form fieldset select option {
+	padding: 5px 22px
+}
+.banner-form input[type=submit] {
+	width: 100%
+}
+section {
+	padding: 70px 0 80px;
+	position: relative;
+	z-index: 1;
+	background-size: cover
+}
+#procedure-section {
+	overflow: hidden;
+	background: #fff
+}
+.procedure {
+	display: table
+}
+.procedure-box {
+	position: relative;
+	display: table-cell;
+	vertical-align: top;
+	float: none
+}
+.procedure-box span {
+	width: 200px;
+	height: 200px;
+	display: block;
+	margin: 0 auto 30px;
+	background-color: #eceaea;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-o-border-radius: 50%;
+	-ms-border-radius: 50%
+}
+.procedure-box h3 {
+	color: #696969
+}
+#watch-video-section {
+	background-color: #dcedf1;
+	overflow: hidden;
+	position: relative
+}
+.watch-video-text {
+	width: 100%
+}
+.watch-video-text h3 {
+	color: #696969;
+	font-size: 26px;
+	font-weight: 600;
+	padding-bottom: 24px;
+	line-height: 36px;
+	position: relative;
+	margin-top: -8px
+}
+.watch-video-text p {
+	padding-bottom: 34px
+}
+.watch-video-text a.btn {
+	width: 80%;
+	margin-bottom: 40px
+}
+.video-container {
+	width: 100%;
+	height: 300px
+}
+.video-container iframe {
+	width: 100%;
+	height: 100%;
+	border: 0
+}
+#team-section {
+	background-color: #f5f5f5;
+	padding-bottom: 40px;
+	overflow: hidden
+}
+.team-box {
+	background-color: #fff;
+	padding-bottom: 19px;
+	margin-bottom: 40px
+}
+.team-box .team-img {
+	position: relative;
+	margin-bottom: 16px
+}
+.team-box .team-img span {
+	display: block
+}
+.team-box .team-img .team-img-overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(2,103,185,.4);
+	-webkit-transition: all .3s ease-in-out;
+	-moz-transition: all .3s ease-in-out;
+	-o-transition: all .3s ease-in-out;
+	transition: all .3s ease-in-out
+}
+.team-box .team-img:hover .team-img-overlay {
+	height: 0
+}
+.team-box .team-text {
+	padding: 0 24px
+}
+.team-box .team-text h4 {
+	font-size: 22px;
+	padding-bottom: 2px;
+	margin-bottom: 7px;
+	border-bottom: 1px solid #eceeee;
+	display: inline-block;
+	font-weight: 600
+}
+.team-box .team-text span {
+	display: block;
+	font-style: italic;
+	font-weight: 400;
+	color: #dc3522
+}
+#newsletter-section {
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-image: url(http://placehold.it/2000x300);
+	overflow: hidden;
+	height: 300px
+}
+#newsletter-section h2 {
+	padding-bottom: 34px;
+	color: #fff
+}
+#newsletter-section .newsletter-field {
+	width: 100%;
+	height: 60px;
+	position: relative;
+	border: 2px solid #5ba8e9;
+	background-color: rgba(0,0,0,.2)
+}
+#newsletter-section .newsletter-field input {
+	width: 100%;
+	height: 56px;
+	padding: 18px 20px 18px 90px;
+	line-height: 20px;
+	font-weight: 400;
+	color: #fff;
+	font-size: 15px;
+	z-index: 1;
+	position: relative
+}
+#newsletter-section .newsletter-field input::-webkit-input-placeholder {
+color:#fff;
+opacity:1!important
+}
+#newsletter-section .newsletter-field input:-moz-placeholder {
+color:#fff;
+opacity:1!important
+}
+#newsletter-section .newsletter-field input::-moz-placeholder {
+color:#fff;
+opacity:1!important
+}
+#newsletter-section .newsletter-field input:-ms-input-placeholder {
+color:#fff;
+opacity:1!important
+}
+#newsletter-section .newsletter-field label {
+	position: absolute;
+	top: 13px;
+	left: 20px;
+	z-index: 0;
+	display: block;
+	width: 51px;
+	height: 30px;
+	background-repeat: no-repeat;
+	background-image: url(../images/paperplane.png)
+}
+#newsletter-section .btn {
+	width: 100%;
+	background-color: #00ceac
+}
+#testimoial-section {
+	overflow: hidden;
+	background: #fff
+}
+.patient-img {
+	width: 120px;
+	height: 120px;
+	position: relative
+}
+.patient-img span {
+	width: 120px;
+	height: 120px;
+	display: block;
+	border: 5px solid #fff;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-o-border-radius: 50%;
+	-ms-border-radius: 50%;
+	-webkit-box-shadow: 0 0 6px 1px rgba(0,0,0,.6);
+	-moz-box-shadow: 0 0 6px 1px rgba(0,0,0,.6);
+	box-shadow: 0 0 6px 1px rgba(0,0,0,.6);
+	margin-bottom: 30px;
+	overflow: hidden;
+	position: relative
+}
+.patient-img:after {
+	content: '';
+	position: absolute;
+	right: -90px;
+	top: 37px;
+	width: 54px;
+	height: 45px;
+	background-repeat: no-repeat;
+	background-image: url(../images/patient-coma.png)
+}
+.testimoial-style1 .patient-text-animation {
+	font-weight: 400
+}
+.patient-text {
+	position: relative;
+	padding-top: 16px;
+	margin-top: 16px;
+	color: #bcbcbc
+}
+.patient-text:after {
+	content: '';
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 200px;
+	height: 1px;
+	background: #dadede
+}
+.patient-text span {
+	color: #696969;
+	display: block
+}
+.separator-section.separator-style1 {
+	display: block;
+	float: left;
+	height: 440px
+}
+#opening-hour-section {
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-image: url(../images/liston.png);
+	height: 341px;
+	overflow: hidden;
+	width: 100%;
+	bottom: 100px;
+	left: 0;
+	position: fixed;
+	z-index: 0
+}
+#opening-hour-section label {
+	display: block;
+	font-size: 26px;
+	color: #9b9b9b;
+	font-weight: 400;
+	font-family: 'Titillium Web', sans-serif
+}
+#opening-hour-section h2 {
+	padding-bottom: 34px;
+	color: #fff;
+	text-transform: none
+}
+#opening-hour-section .calling-number p {
+	font-family: 'Titillium Web', sans-serif;
+	line-height: 60px;
+	font-weight: 400;
+	color: #fff;
+	font-size: 26px
+}
+#opening-hour-section .calling-number span {
+	color: #dc3522
+}
+#opening-hour-section .btn {
+	width: 100%
+}
+.footer-style1 {
+	background-color: #F4EDE5;
+	padding: 3px 0;
+	width: 100%;
+	bottom: 0;
+	left: 0;
+	min-height: 100px;
+	position: fixed;
+	z-index: 0
+}
+.footer-style1 p {
+	color: #000000;
+	font-weight: 100;
+	font-size: 14px;
+	line-height: 20px
+}
+.footer-style1 p a {
+	color: #c2c2c2
+}
+.footer-style1 .socials {
+	float: right
+}
+.footer-style1 .socials a {
+	display: block;
+	float: left;
+	height: 20px;
+	margin: 0 12px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	-moz-opacity: .7;
+	-khtml-opacity: .7;
+	opacity: .7;
+	-webkit-transition: all .25s;
+	-moz-transition: all .25s;
+	-ms-transition: all .25s;
+	-o-transition: all .25s;
+	transition: all .25s
+}
+.footer-style1 .socials a:first-child {
+	background-image: url(../images/facebookiconhover.png);
+	width: 10px
+}
+.footer-style1 .socials a:nth-child(2) {
+	background-image: url(../images/twittericonhover.png);
+	width: 25px
+}
+.footer-style1 .socials a:nth-child(3) {
+	background-image: url(../images/instagramiconhover.png);
+	width: 19px
+}
+.footer-style1 .socials a:last-child {
+	background-image: url(../images/linkiconhover.png);
+	width: 23px;
+	margin-right: 0
+}
+.footer-style1 .socials a:hover {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	-moz-opacity: 1;
+	-khtml-opacity: 1;
+	opacity: 1
+}
+.header2 .header-wrapper {
+	width: 100%;
+	height: 100%;
+	position: relative;
+	overflow: hidden
+}
+.header2 .banner-outer {
+	width: 100%;
+	height: 100%
+}
+.header2 .banner-outer .banner-img {
+	position: static;
+	left: 0;
+	margin-left: 00px
+}
+.header2 .header-content {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	padding-top: 27px;
+	padding-bottom: 104px
+}
+.header2 .header-bottom-outer {
+	width: 100%;
+	height: 500px
+}
+.header2 .middle {
+	position: relative;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%)
+}
+.header2 .banner-text {
+	margin-top: 0
+}
+.header2 .banner-text h1 {
+	color: #000;
+	padding-bottom: 9px;
+	position: relative
+}
+.header2 .banner-text h1:first-child {
+	padding-bottom: 0
+}
+.header2 .banner-text p {
+	color: #000;
+	width: 52%;
+	margin: 0 auto;
+	position: relative;
+	padding-bottom: 34px
+}
+.header2 .banner-text .btn {
+	width: 308px;
+	margin: 0 auto 40px;
+	position: relative;
+	padding-bottom: 34px;
+	visibility: hidden
+}
+.header2 .banner-text span.arrow {
+	width: 22px;
+	height: 76px;
+	margin: 0 auto;
+	visibility: hidden;
+	display: block;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-image: url(../images/down-arrow.png);
+	-webkit-animation: arrowLoop 1.5s infinite;
+	-moz-animation: arrowLoop 1.5s infinite;
+	-o-animation: arrowLoop 1.5s infinite;
+	animation: arrowLoop 1.5s infinite
+}
+@-webkit-keyframes arrowLoop {
+0% {
+opacity:0;
+filter:alpha(opacity=0);
+-khtml-opacity:0;
+-moz-opacity:0;
+-webkit-transform:translateY(-20px);
+transform:translateY(-20px)
+}
+50%, 60%, 65% {
+opacity:1;
+filter:alpha(opacity=100);
+-khtml-opacity:1;
+-moz-opacity:1;
+-webkit-transform:translateY(0);
+transform:translateY(0)
+}
+100% {
+opacity:0;
+filter:alpha(opacity=0);
+-khtml-opacity:0;
+-moz-opacity:0;
+-webkit-transform:translateY(20px);
+transform:translateY(20px)
+}
+}
+@-moz-keyframes arrowLoop {
+0% {
+opacity:0;
+filter:alpha(opacity=0);
+-khtml-opacity:0;
+-moz-opacity:0;
+-webkit-transform:translateY(-20px);
+transform:translateY(-20px)
+}
+50%, 60%, 65% {
+opacity:1;
+filter:alpha(opacity=100);
+-khtml-opacity:1;
+-moz-opacity:1;
+-webkit-transform:translateY(0);
+transform:translateY(0)
+}
+100% {
+opacity:0;
+filter:alpha(opacity=0);
+-khtml-opacity:0;
+-moz-opacity:0;
+-webkit-transform:translateY(20px);
+transform:translateY(20px)
+}
+}
+@-o-keyframes arrowLoop {
+0% {
+opacity:0;
+filter:alpha(opacity=0);
+-khtml-opacity:0;
+-moz-opacity:0;
+-webkit-transform:translateY(-20px);
+transform:translateY(-20px)
+}
+50%, 60%, 65% {
+opacity:1;
+filter:alpha(opacity=100);
+-khtml-opacity:1;
+-moz-opacity:1;
+-webkit-transform:translateY(0);
+transform:translateY(0)
+}
+100% {
+opacity:0;
+filter:alpha(opacity=0);
+-khtml-opacity:0;
+-moz-opacity:0;
+-webkit-transform:translateY(20px);
+transform:translateY(20px)
+}
+}
+@keyframes arrowLoop {
+0% {
+opacity:0;
+filter:alpha(opacity=0);
+-khtml-opacity:0;
+-moz-opacity:0;
+-ms-transform:translateY(-20px);
+-webkit-transform:translateY(-20px);
+transform:translateY(-20px)
+}
+50%, 60%, 65% {
+opacity:1;
+filter:alpha(opacity=100);
+-khtml-opacity:1;
+-moz-opacity:1;
+-webkit-transform:translateY(0);
+transform:translateY(0)
+}
+100% {
+opacity:0;
+filter:alpha(opacity=0);
+-khtml-opacity:0;
+-moz-opacity:0;
+-webkit-transform:translateY(20px);
+transform:translateY(20px)
+}
+}
+#get-Appointment-section {
+	overflow: hidden;
+	background: #F4EDE5
+}
+#get-Appointment-section .banner-form-outer {
+	padding: 0 15px;
+	background-color: #c6dfe9;
+	position: relative;
+	margin-top: 30px;
+	visibility: hidden
+}
+#get-Appointment-section .banner-form {
+	position: relative;
+	top: -15px;
+	width: 100%;
+	height: auto;
+	background-color: #f2f9fc;
+	padding: 20px;
+	visibility: visible
+}
+#get-Appointment-section .banner-form span {
+	display: block;
+	color: #696969;
+	font-weight: 400;
+	text-align: center;
+	padding-bottom: 0
+}
+#get-Appointment-section .banner-form h3 {
+	text-align: center;
+	font-size: 48px;
+	color: #dc3522;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding-bottom: 3px
+}
+#get-Appointment-section .banner-form ul li {
+	margin-bottom: 20px;
+	position: relative
+}
+#get-Appointment-section .banner-form ul li input[type=text], #get-Appointment-section .banner-form ul li input[type=password] {
+	width: 100%;
+	height: 40px;
+	font-size: 14px;
+	color: #696969;
+	font-weight: 400;
+	line-height: 18px;
+	padding: 10px 14px;
+	z-index: 1;
+	position: relative;
+	background-color: #fff;
+	border: 1px solid #dcdcdc;
+	border-radius: 6px
+}
+#get-Appointment-section .banner-form ul li input[type=text]::-webkit-input-placeholder, #get-Appointment-section .banner-form ul li input[type=password]::-webkit-input-placeholder {
+color:#696969;
+opacity:1!important
+}
+#get-Appointment-section .banner-form ul li input[type=text]:-moz-placeholder, #get-Appointment-section .banner-form ul li input[type=password]:-moz-placeholder {
+color:#696969;
+opacity:1!important
+}
+#get-Appointment-section .banner-form ul li input[type=text]::-moz-placeholder, #get-Appointment-section .banner-form ul li input[type=password]::-moz-placeholder {
+color:#696969;
+opacity:1!important
+}
+#get-Appointment-section .banner-form ul li input[type=text]:-ms-input-placeholder, #get-Appointment-section .banner-form ul li input[type=password]:-ms-input-placeholder {
+color:#696969;
+opacity:1!important
+}
+#get-Appointment-section .banner-form ul li span.hidden-overflow {
+	overflow: hidden;
+	width: 100%;
+	height: 40px;
+	border-radius: 6px;
+	border: 1px solid #dcdcdc;
+	background-color: #fff;
+	background-position: right center;
+	background-repeat: no-repeat;
+	background-image: url(../images/select-bg.png)
+}
+#get-Appointment-section .banner-form ul li select {
+	width: 105.5%;
+	height: 38px;
+	font-size: 14px;
+	color: #696969;
+	font-weight: 400;
+	line-height: 16px;
+	padding: 10px 11px;
+	position: relative
+}
+#get-Appointment-section .banner-form ul li select option {
+	padding: 5px 22px
+}
+#get-Appointment-section .banner-form input[type=submit] {
+	width: 100%
+}
+.why-choose h3 {
+	font-size: 26px;
+	font-weight: 600;
+	color: #696969;
+	border-bottom: 1px solid #c6d5d8;
+	margin-bottom: 40px
+}
+.why-choose ul li {
+	padding-left: 90px;
+	background-repeat: no-repeat;
+	background-position: left top;
+	padding-bottom: 36px
+}
+.why-choose ul li label {
+	font-size: 22px;
+	font-weight: 600;
+	color: #7b7b7b;
+	display: block;
+	line-height: 21px;
+	font-family: 'Titillium Web', sans-serif;
+	padding-bottom: 11px
+}
+.why-choose ul li p {
+	width: 320px;
+	font-weight: 400
+}
+.why-choose ul li:first-child {
+	background-image: url(../images/whychose1.png)
+}
+.why-choose ul li:nth-child(2) {
+	background-image: url(../images/whychose2.png)
+}
+.why-choose ul li:nth-child(3) {
+	background-image: url(../images/whychose3.png)
+}
+.why-choose ul li:last-child {
+	padding-bottom: 0
+}
+.watch-video-style2#watch-video-section {
+	background-color: #0775cb
+}
+.watch-video-style2 .watch-video-text h3, .watch-video-style2 .watch-video-text p, .watch-video-style2 #watch-video-section h2 {
+	color: #fff
+}
+.style3 #watch-video-section {
+	background-color: #0775cb
+}
+.style3 .watch-video-text h3, .style3 .watch-video-text p, .style3 #watch-video-section h2 {
+	color: #fff
+}
+.separator-section.separator-style2 {
+	display: block;
+	float: left;
+	height: 320px
+}
+.testimoial-style2 #testimoial-section {
+	overflow: hidden;
+	background: #fff
+}
+.testimoial-style2 .patient-img {
+	width: 120px;
+	height: 120px;
+	margin: auto auto 21px;
+	position: relative
+}
+.testimoial-style2 .patient-img:after {
+	display: none
+}
+.testimoial-style2 .patient-img span {
+	width: 120px;
+	height: 120px;
+	display: block;
+	border: 5px solid #fff;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-o-border-radius: 50%;
+	-ms-border-radius: 50%;
+	-webkit-box-shadow: 0 0 6px 1px rgba(0,0,0,.6);
+	-moz-box-shadow: 0 0 6px 1px rgba(0,0,0,.6);
+	box-shadow: 0 0 6px 1px rgba(0,0,0,.6);
+	margin-bottom: 30px;
+	overflow: hidden;
+	position: relative
+}
+.testimoial-style2 .patient-text-animation {
+	margin: 0 auto;
+	padding-bottom: 40px
+}
+.testimoial-style2 .patient-text-animation p {
+	padding-bottom: 56px;
+	position: relative;
+	width: 66.6666%;
+	margin: 0 auto
+}
+.testimoial-style2 .patient-text-animation p:before {
+	content: '';
+	position: absolute;
+	left: -65px;
+	top: -42px;
+	width: 54px;
+	height: 45px;
+	background-repeat: no-repeat;
+	background-image: url(../images/patient-coma1.png)
+}
+.testimoial-style2 .patient-text-animation p:after {
+	content: '';
+	position: absolute;
+	right: -65px;
+	bottom: 11px;
+	width: 54px;
+	height: 45px;
+	background-repeat: no-repeat;
+	background-image: url(../images/patient-coma2.png)
+}
+.testimoial-style2 .patient-text {
+	position: relative;
+	margin: 0;
+	padding-top: 0
+}
+.testimoial-style2 .patient-text span {
+	color: #696969;
+	display: block
+}
+.testimoial-style2 .patient-text:after {
+	display: none
+}
+.opening-hour-style2 #opening-hour-section {
+	height: 341px;
+	position: relative;
+	bottom: 0;
+	z-index: 1
+}
+.opening-hour-style2 #opening-hour-section label {
+	text-align: center
+}
+.opening-hour-style2 #opening-hour-section .calling-number p {
+	font-family: 'Titillium Web', sans-serif;
+	line-height: 60px;
+	font-weight: 400;
+	color: #fff;
+	font-size: 26px
+}
+.opening-hour-style2 #opening-hour-section .calling-number span {
+	color: #dc3522
+}
+.opening-hour-style2 #opening-hour-section .btn {
+	width: 100%
+}
+.newsletter-style2 #newsletter-section {
+	background-color: #fff;
+	background-image: none;
+	height: auto;
+	overflow: hidden
+}
+.newsletter-style2 #newsletter-section h2 {
+	padding-bottom: 26px;
+	color: #0068a0
+}
+.newsletter-style2 #newsletter-section p {
+	width: 66.6666%;
+	margin: 0 auto;
+	text-align: center
+}
+.newsletter-style2 #newsletter-section .newsletter-field-outer {
+	padding-top: 36px
+}
+.newsletter-style2 #newsletter-section .newsletter-field {
+	width: 100%;
+	height: 60px;
+	position: relative;
+	border: 1px solid #dcdcdc;
+	border-radius: 6px;
+	background: 0 0
+}
+.newsletter-style2 #newsletter-section .newsletter-field input {
+	color: #bababa
+}
+.newsletter-style2 #newsletter-section .newsletter-field input::-webkit-input-placeholder {
+color:#bababa;
+opacity:1!important
+}
+.newsletter-style2 #newsletter-section .newsletter-field input:-moz-placeholder {
+color:#bababa;
+opacity:1!important
+}
+.newsletter-style2 #newsletter-section .newsletter-field input::-moz-placeholder {
+color:#bababa;
+opacity:1!important
+}
+.newsletter-style2 #newsletter-section .newsletter-field input:-ms-input-placeholder {
+color:#bababa;
+opacity:1!important
+}
+.newsletter-style2 #newsletter-section .newsletter-field label {
+	background-image: url(../images/paperplane2.png)
+}
+.newsletter-style2 #newsletter-section .btn {
+	width: 100%;
+	background-color: #00ceac
+}
+.footer-style2 {
+	background-color: #030b10;
+	padding: 80px 0 40px;
+	width: 100%;
+	bottom: 0;
+	left: 0;
+	min-height: 320px;
+	position: fixed;
+	z-index: 0
+}
+.footer-style2 a.footer-logo {
+	width: 289px;
+	height: 59px;
+	display: block;
+	margin: 0 auto 20px
+}
+.footer-style2 p {
+	color: #c2c2c2;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 20px
+}
+.footer-style2 p a {
+	color: #c2c2c2
+}
+.footer-style2 .socials {
+	width: 200px;
+	font-size: 0;
+	text-align: center;
+	border-top: 1px solid #232a2e;
+	padding-top: 20px;
+	margin: 0 auto;
+	padding-bottom: 20px
+}
+.footer-style2 .socials a {
+	display: inline-block;
+*display:inline;
+*zoom:1;
+	height: 20px;
+	margin: 0 12px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	-moz-opacity: .7;
+	-khtml-opacity: .7;
+	opacity: .7;
+	-webkit-transition: all .25s;
+	-moz-transition: all .25s;
+	-ms-transition: all .25s;
+	-o-transition: all .25s;
+	transition: all .25s
+}
+.footer-style2 .socials a:first-child {
+	background-image: url(../images/facebookiconhover.png);
+	width: 10px;
+	margin-left: 0
+}
+.footer-style2 .socials a:nth-child(2) {
+	background-image: url(../images/twittericonhover.png);
+	width: 25px
+}
+.footer-style2 .socials a:nth-child(3) {
+	background-image: url(../images/instagramiconhover.png);
+	width: 19px
+}
+.footer-style2 .socials a:last-child {
+	background-image: url(../images/linkiconhover.png);
+	width: 23px;
+	margin-right: 0
+}
+.footer-style2 .socials a:hover {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	-moz-opacity: 1;
+	-khtml-opacity: 1;
+	opacity: 1
+}
+#gradient {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	left: 50%;
+	top: 0;
+	z-index: -1
+}
+#mycanvas, #output {
+	height: 100%;
+	width: 100%
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+.banner-form form fieldset select, ::i-block-chrome {
+margin-top:7px;
+text-indent:22px
+}
+#get-Appointment-section .banner-form ul li select, ::i-block-chrome {
+margin-top:8px;
+text-indent:20px;
+font-weight:600
+}
+.newsletter-field input, ::i-block-chrome {
+font-weight:600!important
+}
+#get-Appointment-section .banner-form ul li input::-webkit-input-placeholder {
+color:#9f9f9f
+}
+}
+
+@media all and (min-width:0px) and (max-width:1024px) {
+.separator-section {
+	display: none
+}
+#opening-hour-section, footer {
+	position: static;
+	z-index: normal
+}
+#get-Appointment-section .banner-form, #get-Appointment-section .banner-form-outer, #get-Appointment-section h2, #newsletter-section .newsletter-field, #newsletter-section input.btn, #newsletter-section.newsletter-style2 .btn, #opening-hour-section .btn, #opening-hour-section .calling-number, #opening-hour-section.opening-hour-style2 .btn, #opening-hour-section.opening-hour-style2 .calling-number, #procedure-section h2, .banner-form-outer, .banner-text, .patient-img, .patient-text-animation, .procedure-box, .soial-container, .team-box, .testimoial-style2 .patient-img, .video-container, .watch-video-text, .why-choose {
+	visibility: visible
+}
+.gradient-outer {
+	display: none
+}
+.why-choose ul li {
+	padding-left: 70px
+}
+.why-choose ul li p {
+	width: 100%
+}
+.header2 .middle {
+	top: 0;
+	-webkit-transform: translateY(0);
+	-ms-transform: translateY(0);
+	transform: translateY(0)
+}
+#opening-hour-section {
+	position: static;
+	bottom: 0;
+	background-size: auto 100%;
+	height: auto
+}
+.footer-style1, .footer-style2 {
+	position: static;
+	bottom: 0
+}
+#newsletter-section.newsletter-style2 {
+	background-size: auto 100%;
+	height: auto
+}
+}
+
+@media all and (min-width:768px) and (max-width:991px) {
+h1 {
+	font-size: 40px;
+	line-height: 48px;
+	padding-bottom: 50px
+}
+.btn {
+	font-size: 18px
+}
+.banner-form h2 {
+	font-size: 38px
+}
+.patient-img:after {
+	right: -62px
+}
+.team-box .team-text span {
+	font-size: 14px
+}
+#get-Appointment-section .banner-form h3 {
+	font-size: 41px
+}
+}
+
+@media all and (min-width:0px) and (max-width:767px) {
+body {
+	text-align: center
+}
+h1, h2 {
+	font-size: 32px;
+	line-height: 38px;
+	padding-bottom: 40px
+}
+.btn {
+	font-size: 18px
+}
+.header-top-outer .logo {
+	width: 100%;
+	float: none
+}
+.header-top-outer .logo a {
+	margin: 0 auto
+}
+.header-top-outer .call {
+	margin: 30px;
+
+}
+.header-content {
+	position: static
+}
+.banner-outer {
+	height: auto
+}
+.banner-outer .banner-img, .banner-text {
+	display: none;
+}
+.banner-text .btn {
+	width: 300px
+}
+.banner-form h2 {
+	font-size: 38px
+}
+.watch-video-text a.btn {
+	width: 100%
+}
+.video-container {
+	height: auto
+}
+.video-container iframe {
+	width: 100%;
+	height: 100%;
+	bordor: none
+}
+.soial-container {
+	padding-bottom: 40px
+}
+.patient-img {
+	margin: 0 auto 40px
+}
+.patient-img:after {
+	display: none
+}
+.patient-text:after {
+	left: 50%;
+	margin-left: -100px
+}
+#newsletter-section {
+	background-size: auto 100%;
+	height: auto
+}
+#newsletter-section .newsletter-field {
+	margin-bottom: 10px
+}
+#opening-hour-section {
+	position: static;
+	bottom: 0;
+	background-size: auto 100%;
+	height: auto
+}
+#opening-hour-section .calling-number p {
+	text-align: center;
+	font-size: 16px
+}
+.footer-style1 {
+	position: static;
+	bottom: 0
+}
+.footer-style1 p {
+	text-align: center;
+	padding-bottom: 20px;
+	line-height: 1.2
+}
+.footer-style1 .socials {
+	width: 100%;
+	text-align: center;
+	font-size: 0
+}
+.footer-style1 .socials a {
+	float: none;
+	display: inline-block;
+*display:inline;
+*zoom:1
+}
+.header2 .header-top-outer {
+	padding-bottom: 40px
+}
+.header2 .header-top-outer .logo {
+	width: 100%;
+	float: none
+}
+.header2 .header-top-outer .logo a {
+	margin: 0 auto;
+	height: auto;
+	width: 180px;
+}
+.header2 .header-top-outer .call {
+	margin: 30px;
+}
+.header2 .header-content {
+	position: static;
+	padding-top: 40px;
+	padding-bottom: 40px
+}
+.header2 .banner-outer {
+	height: auto
+}
+.header2 .banner-outer .banner-img {
+	display: none
+}
+.header2 .middle {
+	position: static;
+	top: 0;
+	-webkit-transform: translateY(0);
+	-ms-transform: translateY(0);
+	transform: translateY(0)
+}
+.header2 .banner-text {
+	display: block
+}
+.header2 .banner-text .btn, .header2 .banner-text p {
+	width: 100%
+}
+.why-choose {
+	display: none
+}
+.procedure {
+	display: block
+}
+.procedure .procedure-box {
+	display: block;
+	padding-bottom: 40px
+}
+.procedure .procedure-box:last-child {
+	padding-bottom: 0
+}
+.procedure .procedure-box:nth-child(2):before {
+	display: none
+}
+.procedure .procedure-box:nth-child(2):after {
+	display: none
+}
+#get-Appointment-section .banner-form span {
+	font-size: 16px
+}
+#get-Appointment-section .banner-form h3 {
+	font-size: 32px
+}
+.testimoial-style2 .patient-img {
+	margin: 0 auto 40px
+}
+.testimoial-style2 .patient-img:after {
+	display: none
+}
+.testimoial-style2 .patient-text:after {
+	left: 50%;
+	margin-left: -100px
+}
+.testimoial-style2 .patient-text-animation p {
+	width: 100%
+}
+.newsletter-style2#newsletter-section {
+	background-size: auto 100%;
+	height: auto
+}
+.newsletter-style2#newsletter-section p {
+	width: 100%
+}
+.newsletter-style2#newsletter-section .newsletter-field {
+	margin-bottom: 10px
+}
+.opening-hour-style2#opening-hour-section {
+	background-size: auto 100%;
+	height: auto
+}
+.opening-hour-style2#opening-hour-section .calling-number p {
+	text-align: center;
+	font-size: 16px
+}
+.patient-text-animation p {
+	width: 100%
+}
+.patient-text-animation p:after, .patient-text-animation p:before {
+	display: none
+}
+.footer-style2 {
+	position: static
+}
+.float {
+	position: fixed;
+	width: 60px;
+	height: 60px;
+	top: 30px;
+	right: 40px;
+	background-color: #25d366;
+	color: #FFF;
+	border-radius: 50px;
+	text-align: center;
+	font-size: 30px;
+	box-shadow: 2px 2px 3px #999;
+	z-index: 100;
+}
+.my-float {
+	margin-top: 16px;
+}
+}

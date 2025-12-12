@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Preguntas Frecuentes - Radiofrecuencia Accent Prime",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is radiofrequency and how does it work on body laxity?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La radiofrecuencia es un tratamiento médico no invasivo que utiliza ondas electromagnéticas para calentar las capas profundas de la piel, estimulando la producción de colágeno y elastina. <br>El sistema Accent Prime combina radiofrecuencia unipolar con ultrasonido para mejorar la firmeza y tensión de la piel, logrando resultados progresivos y naturales sin necesidad de cirugía."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "For which areas of the body is Accent Prime radiofrequency recommended?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El tratamiento con Accent Prime es eficaz en diversas áreas donde la piel tiende a perder firmeza:<ul style='list-style: none; padding-left: 0;'><li>✅ <b>Abdomen:</b> Mejora la laxitud post-parto o post-pérdida de peso.</li><li>✅ <b>Brazos:</b> Reduce la flacidez y mejora la tonicidad.</li><li>✅ <b>Muslos y glúteos:</b> Ayuda a tensar la piel y redefine el contorno.</li><li>✅ <b>Rodillas y codos:</b> Mejora la firmeza en zonas donde la piel tiende a aflojarse con la edad.</li></ul> Se recomienda en casos de flacidez leve a moderada."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How many sessions are needed to see results?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El número de sesiones depende del grado de flacidez y la respuesta de cada paciente. Generalmente, se recomiendan entre **4 y 6 sesiones**, realizadas cada 1 o 2 semanas. <br>Los resultados son progresivos, ya que el colágeno se regenera en un proceso natural que puede tomar entre **4 y 12 semanas** después del tratamiento."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Are the results of Accent Prime radiofrequency permanent?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Si bien la radiofrecuencia estimula la producción de colágeno de manera sostenida, el envejecimiento y factores como la exposición solar y el estilo de vida influyen en la durabilidad de los resultados. <br>Se recomienda realizar sesiones de mantenimiento cada 4 a 6 meses para prolongar los efectos."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is Accent Prime treatment painful?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, la radiofrecuencia es bien tolerada y genera solo una sensación de calor moderado en la piel. <br>El Accent Prime cuenta con un sistema de enfriamiento que protege la superficie cutánea, asegurando comodidad durante la sesión."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What aftercare should I follow after radiofrequency treatment?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Luego del tratamiento, es recomendable:<ul style='list-style: none; padding-left: 0;'><li>✅ Mantener una adecuada hidratación.</li><li>✅ Usar protector solar si la zona tratada estará expuesta.</li><li>✅ Evitar saunas y calor excesivo durante 24 horas.</li><li>✅ Realizar actividad física y mantener una alimentación saludable para potenciar los efectos.</li></ul> No requiere tiempo de recuperación, por lo que el paciente puede retomar su rutina habitual de inmediato."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Who should not undergo Accent Prime radiofrequency?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El tratamiento no está indicado en:<ul style='list-style: none; padding-left: 0;'><li>🚫 Mujeres embarazadas o en período de lactancia.</li><li>🚫 Pacientes con marcapasos o implantes metálicos en la zona a tratar.</li><li>🚫 Personas con enfermedades autoinmunes o cáncer activo.</li><li>🚫 Personas con infecciones o heridas abiertas en la piel.</li></ul> Antes de comenzar, se realiza una evaluación médica para descartar contraindicaciones."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Does radiofrequency help improve cellulite?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí, la radiofrecuencia Accent Prime puede mejorar la apariencia de la celulitis leve a moderada al estimular la producción de colágeno, favorecer el drenaje linfático y mejorar la firmeza de la piel. <br>Para celulitis más avanzada, suele combinarse con otros tratamientos como mesoterapia o bioestimuladores."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is the difference between Accent Prime radiofrequency and other devices?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A diferencia de otros dispositivos de radiofrecuencia, Accent Prime combina:<br>🔹 <b>Radiofrecuencia Unipolar</b>: Actúa en capas profundas de la piel sin afectar la superficie.<br>🔹 <b>Ultrasonido Selectivo</b>: Ayuda a romper células grasas para mejorar la definición corporal.<br>Esta combinación permite obtener resultados más eficaces en menos sesiones y con mayor seguridad."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is radiofrequency an alternative to surgery?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No reemplaza a la cirugía en casos de flacidez severa, pero es una excelente opción para quienes buscan mejorar la firmeza de la piel sin procedimientos invasivos. <br>El Accent Prime permite resultados visibles sin tiempos de recuperación ni riesgos quirúrgicos."
+            }
+        }
+    ]
+}

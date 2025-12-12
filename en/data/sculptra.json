@@ -1,0 +1,95 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Frequently Asked Questions - sculptra",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is Sculptra and what is it for?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is a medical treatment that uses polylactic acid to stimulate collagen production in the skin. It is ideal for treating volume loss, improving elasticity, and reducing signs of aging in areas such as the face, abdomen, buttocks, neck, and legs. It offers natural and progressive results that can last up to two years."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How are the results of Sculptra in different areas of the body?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The results are gradual and visible in different areas of the body:<ul style=\"list-style: none; padding-left: 0;\"><li><strong>Sculptra on Face:</strong> Rejuvenates, improves texture, and restores volume in cheeks, cheekbones, and deep facial lines.</li><li><strong>Sculptra on Neck:</strong> Helps tighten skin and reduces signs of aging.</li><li><strong>Sculptra on Buttocks:</strong> Enhances and defines, improving skin firmness and texture.</li><li><strong>Sculptra on Abdomen:</strong> Increases elasticity and smooths irregularities for a more toned appearance.</li><li><strong>Sculptra on Legs:</strong> Improves skin firmness, ideal for areas with collagen loss.</li></ul> Before and after images show significant and natural changes in each of these areas."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How is the Sculptra procedure at my office in Belgrano?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is performed in a medical office with topical anesthesia. Microinjections are applied precisely to the areas to be treated. The procedure lasts between 30 and 60 minutes, with no need for post-treatment rest. The protocol is personalized for each patient."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is this treatment for you?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sculptra is not just an aesthetic procedure: it is a medical treatment that requires evaluation, judgment, and responsibility. Before applying it, it is fundamental to analyze in depth if your skin really needs biostimulation, or if another technique would be more suitable for you. As a doctor, I take time to understand your history, your face, and your expectations. I believe that empathy and ethical commitment are essential: it is not about 'coming and injecting', but about indicating it only when it really adds value to your process. Often, a sincere and close consultation helps define if this treatment is necessary, or if we simply need to accompany, guide, and care without intervening. My commitment is that every decision is based on respect for your health, your naturalness, and your well-being."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is the Sculptra treatment painful?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The treatment is well tolerated. Before injections, an anesthetic cream is applied to reduce any discomfort. The technique used by experienced doctors ensures a comfortable and safe procedure. After the treatment, there may be slight sensitivity, but it usually disappears in a few days."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is the price of Sculptra in Argentina?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The price in our aesthetic center includes not only the cost of the product but also the experience of the doctor applying it. The treatment is performed by professionals trained with world-class advanced techniques, guaranteeing safe and effective results. This also covers necessary touch-ups and the time dedicated to customizing the procedure for each patient, which can be more expensive than treatments performed by beginners."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Can Sculptra be combined with other treatments like Radiesse, Botox, Profhilo, HarmonyCA or Long Lasting?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, Sculptra can be combined with other treatments to enhance results:<ul style=\"list-style: none; padding-left: 0;\"><li><strong>What is the difference between Sculptra and Radiesse?:</strong> They complement each other offering an immediate filling effect while collagen develops.</li><li><strong>What is the difference between Sculptra and Botox?:</strong> Ideal for smoothing dynamic lines in combination with Sculptra for volume loss.</li><li><strong>What is the difference between Sculptra and Profhilo?:</strong> Improves hydration and elasticity while Sculptra works on firmness.</li><li><strong>What is the difference between Sculptra and HarmonyCA?:</strong> Provides combined effects of filling and collagen stimulation.</li><li><strong>What is the difference between Sculptra and Long Lasting?:</strong> An option for longer-lasting results, complementing Sculptra's gradual effect.</li></ul> All combinations must be evaluated and performed by a specialized doctor to ensure safety and effectiveness."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How long does the Sculptra treatment last and when are results seen?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The effects can last up to two years, depending on factors such as age, metabolism, and aftercare. Generally, between 2 and 4 sessions are required, spaced by a month, to achieve optimal results. The first changes are visible after a few weeks, but the full effect is appreciated between 3 and 6 months after treatment, as collagen production is stimulated."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is Sculptra useful for treating cellulite?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It can be an effective option to improve the appearance of cellulite, by stimulating collagen production and improving skin firmness. Although it does not completely eliminate cellulite, it is an excellent complement to a comprehensive treatment plan that may include radiofrequency or other procedures."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What care should I take after a Sculptra treatment?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After treatment, it is recommended to gently massage the treated area for five minutes, five times a day, for five days. This helps distribute the product evenly. Avoid sun exposure and intense exercise during the first 24-48 hours."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How many Sculptra sessions are needed?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Generally, between 2 and 3 sessions are recommended to achieve optimal results. The exact number of sessions will depend on the patient's specific needs, the treated area, and the amount of collagen that needs to be stimulated. Sessions are usually spaced approximately one month apart, allowing the product to act gradually."
+            }
+        }
+    ]
+}

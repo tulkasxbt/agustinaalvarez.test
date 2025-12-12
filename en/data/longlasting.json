@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "Frequently Asked Questions - Long Lasting",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is Long Lasting and how does it work?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Long Lasting is a biostimulator that stimulates collagen and elastin production in the skin. Its advanced formula improves firmness, hydration, and skin texture for a prolonged period."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What are the benefits of the Long Lasting treatment?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Benefits include:<br>✅ <b>Collagen stimulation</b> for firmer skin.<br>✅ <b>Deep hydration</b> without excessive volume.<br>✅ <b>Improvement of wrinkles and flaccidity</b>.<br>✅ <b>Prolonged effect</b> maintained for several months."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "In which areas of the face and body can Long Lasting be applied?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Long Lasting is ideal for:<br>✅ <b>Face</b>: Facial oval redefinition and flaccidity treatment.<br>✅ <b>Neck and Décolletage</b>: Rejuvenation and greater firmness.<br>✅ <b>Hands</b>: Hydration and texture improvement."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How many Long Lasting sessions are needed to see results?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Generally, **2 sessions** are recommended with an interval of **4 to 6 weeks**. In more aged skins, more sessions may be necessary to enhance effects."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How long do the effects of Long Lasting last?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Effects can last up to **12 months**, depending on the patient. An annual booster session is recommended to maintain results."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is Long Lasting a hyaluronic acid filler?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, Long Lasting is not a filler. It is a biostimulator designed to improve skin quality without adding excessive volume."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Is the Long Lasting treatment painful?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The application may generate mild discomfort, but it is generally well tolerated. Topical anesthetics can be used for greater comfort."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What are the aftercare instructions for Long Lasting?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After treatment it is recommended:<br>✅ Avoid makeup for 24 hours.<br>✅ Do not perform intense physical activity for 48 hours.<br>✅ Do not expose yourself to the sun or extreme temperatures in the first few days."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Who cannot undergo the Long Lasting treatment?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The treatment is not indicated for:<br>🚫 Pregnant or breastfeeding women.<br>🚫 People with skin infections.<br>🚫 Patients with a history of allergy to any of its components."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Can Long Lasting be combined with other treatments?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, Long Lasting complements well with:<br>✅ <b>Botox:</b> To improve dynamic wrinkles.<br>✅ <b>Radiofrequency:</b> To enhance firmness.<br>✅ <b>Dermal fillers:</b> To restore volume in specific areas."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is the difference between Long Lasting and Radiesse?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Both are biostimulators, but have differences:<br>✅ <b>Long Lasting:</b> Stimulates collagen gradually and with prolonged effect.<br>✅ <b>Radiesse:</b> Contains calcium hydroxyapatite, which in addition to stimulating collagen, provides a mild immediate tensor effect.<br>If greater definition and volume are sought, Radiesse is the best option. For progressive and lasting rejuvenation, Long Lasting is ideal."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is the difference between Long Lasting and Sculptra?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Long Lasting and Sculptra are biostimulators that induce collagen production:<br>✅ <b>Long Lasting:</b> Has a more prolonged effect and less invasive application.<br>✅ <b>Sculptra:</b> Contains polylactic acid and acts more gradually.<br>If a longer-lasting effect with fewer sessions is sought, Long Lasting is the best option. For progressive collagen stimulation with a subtler effect, Sculptra can be an alternative."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is the difference between Long Lasting and Profhilo?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Long Lasting and Profhilo are distinct treatments:<br>✅ <b>Long Lasting:</b> Long-duration biostimulator with firming effect.<br>✅ <b>Profhilo:</b> Ultra-pure hyaluronic acid that improves hydration and elasticity.<br>If improving skin quality with deep hydration is sought, Profhilo is the best option. For prolonged firmness and a more structural effect, Long Lasting is ideal."
+            }
+        }
+    ]
+}
